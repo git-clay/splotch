@@ -1,1481 +1,4318 @@
 /***Main***/
-/***Background***/
-/***Text***/
-/***Links***/
-/***Buttons***/
-/***Borders***/
-/***Nav***/
-/***Lists***/
-/***Hover***/
-.musk h1 {
-  color: #b6940e; }
-
-.musk h2 {
-  color: #004f94; }
-
-.musk h3 {
-  color: #911002; }
-
-.musk h4 {
-  color: #1e2d47; }
-
-.musk h5 {
-  color: #be6600; }
-
-.grandfather h1 {
-  color: #bb1515; }
-
-.grandfather h2 {
-  color: #e0cda7; }
-
-.grandfather h3 {
-  color: #2a334f; }
-
-.grandfather h4 {
-  color: #6b4423; }
-
-.grandfather h5 {
-  color: #ac8f57; }
-
-.micah h1 {
-  color: #979A84; }
-
-.micah h2 {
-  color: #6F423A; }
-
-.micah h3 {
-  color: #4F2950; }
-
-.micah h4 {
-  color: #FF2734; }
-
-.micah h5 {
-  color: #ffffff; }
-
-.hotoffice h1 {
-  color: #8c834e; }
-
-.hotoffice h2 {
-  color: #bd9f30; }
-
-.hotoffice h3 {
-  color: #e9b113; }
-
-.hotoffice h4 {
-  color: #ffe986; }
-
-.hotoffice h5 {
-  color: #ff793d; }
-
-.blued h1 {
-  color: #60626b; }
-
-.blued h2 {
-  color: #abb6a0; }
-
-.blued h3 {
-  color: #d6d6c3; }
-
-.blued h4 {
-  color: #757d83; }
-
-.blued h5 {
-  color: #565549; }
-
-.sunday h1 {
-  color: #b09763; }
-
-.sunday h2 {
-  color: #dfd7c6; }
-
-.sunday h3 {
-  color: #7d7875; }
-
-.sunday h4 {
-  color: #668a84; }
-
-.sunday h5 {
-  color: #89b09f; }
-
-.oldbook h1 {
-  color: #bd654d; }
-
-.oldbook h2 {
-  color: #cbaa99; }
-
-.oldbook h3 {
-  color: #9a9460; }
-
-.oldbook h4 {
-  color: #845f0e; }
-
-.oldbook h5 {
-  color: #312f1a; }
-
-.construction h1 {
-  color: #ff5722; }
-
-.construction h2 {
-  color: #9e9e9e; }
-
-.construction h3 {
-  color: #607d8b; }
-
-.construction h4 {
-  color: #000000; }
-
-.construction h5 {
-  color: #ffffff; }
-
-.doctor h1 {
-  color: #d5fffe; }
-
-.doctor h2 {
-  color: #b7f4f3; }
-
-.doctor h3 {
-  color: #b21c1c; }
-
-.doctor h4 {
-  color: #fcffff; }
-
-.doctor h5 {
-  color: #82c3c5; }
-
-.standard h1 {
-  color: #ff0000; }
-
-.standard h2 {
-  color: #00ff00; }
-
-.standard h3 {
-  color: #0000ff; }
-
-.standard h4 {
-  color: #eeeeee; }
-
-.standard h5 {
-  color: #000000; }
-
-.fifty h1 {
-  color: #999999; }
-
-.fifty h2 {
-  color: #777777; }
-
-.fifty h3 {
-  color: #555555; }
-
-.fifty h4 {
-  color: #333333; }
-
-.fifty h5 {
-  color: #111111; }
-
-.blueSet h1 {
-  color: #011f4b; }
-
-.blueSet h2 {
-  color: #03396c; }
-
-.blueSet h3 {
-  color: #005b96; }
-
-.blueSet h4 {
-  color: #6497b1; }
-
-.blueSet h5 {
-  color: #b3cde0; }
-
-.turquise h1 {
-  color: #b3ecec; }
-
-.turquise h2 {
-  color: #89ecda; }
-
-.turquise h3 {
-  color: #43e8d8; }
-
-.turquise h4 {
-  color: #40e0d0; }
-
-.turquise h5 {
-  color: #3bd6c6; }
-
-.tealSet h1 {
-  color: #007777; }
-
-.tealSet h2 {
-  color: #006666; }
-
-.tealSet h3 {
-  color: #005555; }
-
-.tealSet h4 {
-  color: #004444; }
-
-.tealSet h5 {
-  color: #003333; }
-
-.goldSet h1 {
-  color: #a67c00; }
-
-.goldSet h2 {
-  color: #bf9b30; }
-
-.goldSet h3 {
-  color: #ffbf00; }
-
-.goldSet h4 {
-  color: #ffcf40; }
-
-.goldSet h5 {
-  color: #ffdc73; }
-
-.purpleSet h1 {
-  color: #efbbff; }
-
-.purpleSet h2 {
-  color: #d896ff; }
-
-.purpleSet h3 {
-  color: #be29ec; }
-
-.purpleSet h4 {
-  color: #800080; }
-
-.purpleSet h5 {
-  color: #660066; }
-
-.violetSet h1 {
-  color: #ffffff; }
-
-.violetSet h2 {
-  color: #e5d0ff; }
-
-.violetSet h3 {
-  color: #dabcff; }
-
-.violetSet h4 {
-  color: #cca3ff; }
-
-.violetSet h5 {
-  color: #bf8bff; }
-
-.pastel h1 {
-  color: #e1f7d5; }
-
-.pastel h2 {
-  color: #ffbdbd; }
-
-.pastel h3 {
-  color: #c9c9ff; }
-
-.pastel h4 {
-  color: #ffffff; }
-
-.pastel h5 {
-  color: #f1cbff; }
-
-.greenSet h1 {
-  color: #52bf90; }
-
-.greenSet h2 {
-  color: #49ab81; }
-
-.greenSet h3 {
-  color: #419873; }
-
-.greenSet h4 {
-  color: #398564; }
-
-.greenSet h5 {
-  color: #317256; }
-
-.softgreen h1 {
-  color: #e8e0ac; }
-
-.softgreen h2 {
-  color: #e8e09c; }
-
-.softgreen h3 {
-  color: #e2dc82; }
-
-.softgreen h4 {
-  color: #d7d18a; }
-
-.softgreen h5 {
-  color: #d0c986; }
-
-.darkGreen h1 {
-  color: #295f48; }
-
-.darkGreen h2 {
-  color: #204c39; }
-
-.darkGreen h3 {
-  color: #18392b; }
-
-.darkGreen h4 {
-  color: #eeeeee; }
-
-.darkGreen h5 {
-  color: #000000; }
-
-.limeSet h1 {
-  color: #4d7f17; }
-
-.limeSet h2 {
-  color: #6bb120; }
-
-.limeSet h3 {
-  color: #8ae429; }
-
-.limeSet h4 {
-  color: #9afe2e; }
-
-.limeSet h5 {
-  color: #aefe57; }
-
-.cyanSet h1 {
-  color: #e8fff4; }
-
-.cyanSet h2 {
-  color: #d3fff4; }
-
-.cyanSet h3 {
-  color: #b5ffee; }
-
-.cyanSet h4 {
-  color: #93ffe4; }
-
-.cyanSet h5 {
-  color: #7affdd; }
-
-.greyedPrimary h1 {
-  color: #8b8589; }
-
-.greyedPrimary h2 {
-  color: #989898; }
-
-.greyedPrimary h3 {
-  color: #838996; }
-
-.greyedPrimary h4 {
-  color: #979aaa; }
-
-.greyedPrimary h5 {
-  color: #4c516d; }
-
-.bubblegum h1 {
-  color: #ffc2cd; }
-
-.bubblegum h2 {
-  color: #ff93ac; }
-
-.bubblegum h3 {
-  color: #ff6289; }
-
-.bubblegum h4 {
-  color: #fc3468; }
-
-.bubblegum h5 {
-  color: #ff084a; }
-
-.pinkSet h1 {
-  color: #ff77aa; }
-
-.pinkSet h2 {
-  color: #ff99cc; }
-
-.pinkSet h3 {
-  color: #ffbbee; }
-
-.pinkSet h4 {
-  color: #ff5588; }
-
-.pinkSet h5 {
-  color: #ff3377; }
-
-.aquaSet h1 {
-  color: #55ffff; }
-
-.aquaSet h2 {
-  color: #00ffff; }
-
-.aquaSet h3 {
-  color: #0000ff; }
-
-.aquaSet h4 {
-  color: #38eeff; }
-
-.aquaSet h5 {
-  color: #55ffee; }
-
-.redBlack h1 {
-  color: #ff0000; }
-
-.redBlack h2 {
-  color: #bf0000; }
-
-.redBlack h3 {
-  color: #800000; }
-
-.redBlack h4 {
-  color: #400000; }
-
-.redBlack h5 {
-  color: #000000; }
-
-.bright h1 {
-  color: #00ffff; }
-
-.bright h2 {
-  color: #00ff00; }
-
-.bright h3 {
-  color: #ffff00; }
-
-.bright h4 {
-  color: #ffba00; }
-
-.bright h5 {
-  color: #ff0000; }
-
-.midnight h1 {
-  color: #373854; }
-
-.midnight h2 {
-  color: #493267; }
-
-.midnight h3 {
-  color: #9e379f; }
-
-.midnight h4 {
-  color: #e86af0; }
-
-.midnight h5 {
-  color: #7bb3ff; }
-
-.camplight h1 {
-  color: #2d2222; }
-
-.camplight h2 {
-  color: #3e3f4d; }
-
-.camplight h3 {
-  color: #6f6441; }
-
-.camplight h4 {
-  color: #949159; }
-
-.camplight h5 {
-  color: #aec971; }
-
-.campfire h1 {
-  color: #23191a; }
-
-.campfire h2 {
-  color: #4b332c; }
-
-.campfire h3 {
-  color: #824634; }
-
-.campfire h4 {
-  color: #be7864; }
-
-.campfire h5 {
-  color: #6b7074; }
-
-.seafoam h1 {
-  color: #a3c1ad; }
-
-.seafoam h2 {
-  color: #a0d6b4; }
-
-.seafoam h3 {
-  color: #5f9ea0; }
-
-.seafoam h4 {
-  color: #317873; }
-
-.seafoam h5 {
-  color: #49796b; }
-
-.ocean h1 {
-  color: #c6c386; }
-
-.ocean h2 {
-  color: #7df9ff; }
-
-.ocean h3 {
-  color: #0095b6; }
-
-.ocean h4 {
-  color: #0892d0; }
-
-.ocean h5 {
-  color: #000000; }
-
-.deepOcean h1 {
-  color: #19817e; }
-
-.deepOcean h2 {
-  color: #0c5149; }
-
-.deepOcean h3 {
-  color: #0a423b; }
-
-.deepOcean h4 {
-  color: #0c3830; }
-
-.deepOcean h5 {
-  color: #02130f; }
-
-.lake h1 {
-  color: #e5fcc2; }
-
-.lake h2 {
-  color: #d8fcc2; }
-
-.lake h3 {
-  color: #9de0ad; }
-
-.lake h4 {
-  color: #45ada8; }
-
-.lake h5 {
-  color: #547980; }
-
-.puddle h1 {
-  color: #ffffff; }
-
-.puddle h2 {
-  color: #b1ffce; }
-
-.puddle h3 {
-  color: #8cffc8; }
-
-.puddle h4 {
-  color: #66ecff; }
-
-.puddle h5 {
-  color: #7dd5ff; }
-
-.nordicNight h1 {
-  color: #dde2e3; }
-
-.nordicNight h2 {
-  color: #9aacb8; }
-
-.nordicNight h3 {
-  color: #b37c57; }
-
-.nordicNight h4 {
-  color: #3c455c; }
-
-.nordicNight h5 {
-  color: #60412b; }
-
-.smokeybear h1 {
-  color: #539b4b; }
-
-.smokeybear h2 {
-  color: #9cca6c; }
-
-.smokeybear h3 {
-  color: #ffea80; }
-
-.smokeybear h4 {
-  color: #ff984a; }
-
-.smokeybear h5 {
-  color: #d94322; }
-
-.mermaid h1 {
-  color: #a0ffdb; }
-
-.mermaid h2 {
-  color: #7fddea; }
-
-.mermaid h3 {
-  color: #839cf2; }
-
-.mermaid h4 {
-  color: #a15fd8; }
-
-.mermaid h5 {
-  color: #a34aae; }
-
-.treasure h1 {
-  color: #1d6f5d; }
-
-.treasure h2 {
-  color: #247e61; }
-
-.treasure h3 {
-  color: #7deec9; }
-
-.treasure h4 {
-  color: #64dbba; }
-
-.treasure h5 {
-  color: #f4b318; }
-
-.murky h1 {
-  color: #82bda9; }
-
-.murky h2 {
-  color: #6eb496; }
-
-.murky h3 {
-  color: #4cab96; }
-
-.murky h4 {
-  color: #469c84; }
-
-.murky h5 {
-  color: #2e9070; }
-
-.morning h1 {
-  color: #000000; }
-
-.morning h2 {
-  color: #e49e3d; }
-
-.morning h3 {
-  color: #e4ff95; }
-
-.morning h4 {
-  color: #0ad79e; }
-
-.morning h5 {
-  color: #221f5e; }
-
-.winterbee h1 {
-  color: #66608d; }
-
-.winterbee h2 {
-  color: #524a6b; }
-
-.winterbee h3 {
-  color: #3b3756; }
-
-.winterbee h4 {
-  color: #f1f272; }
-
-.winterbee h5 {
-  color: #d5d667; }
-
-.beach h1 {
-  color: #96ceb4; }
-
-.beach h2 {
-  color: #ffeead; }
-
-.beach h3 {
-  color: #ff6f69; }
-
-.beach h4 {
-  color: #ffcc5c; }
-
-.beach h5 {
-  color: #88d8b0; }
-
-.summer h1 {
-  color: #ffbe4f; }
-
-.summer h2 {
-  color: #6bd2db; }
-
-.summer h3 {
-  color: #0ea7b5; }
-
-.summer h4 {
-  color: #0c457d; }
-
-.summer h5 {
-  color: #e8702a; }
-
-.winterCabin h1 {
-  color: #1c2d46; }
-
-.winterCabin h2 {
-  color: #293b53; }
-
-.winterCabin h3 {
-  color: #40556e; }
-
-.winterCabin h4 {
-  color: #669ad0; }
-
-.winterCabin h5 {
-  color: #e3dbe8; }
-
-.pumpkinSpice h1 {
-  color: #ec8407; }
-
-.pumpkinSpice h2 {
-  color: #e5820f; }
-
-.pumpkinSpice h3 {
-  color: #cd7200; }
-
-.pumpkinSpice h4 {
-  color: #d47609; }
-
-.pumpkinSpice h5 {
-  color: #d4700f; }
-
-.autumn h1 {
-  color: #e7a82e; }
-
-.autumn h2 {
-  color: #f08c11; }
-
-.autumn h3 {
-  color: #e37327; }
-
-.autumn h4 {
-  color: #bf8c2c; }
-
-.autumn h5 {
-  color: #a96613; }
-
-.leafPile h1 {
-  color: #b5302b; }
-
-.leafPile h2 {
-  color: #e77431; }
-
-.leafPile h3 {
-  color: #503431; }
-
-.leafPile h4 {
-  color: #55a393; }
-
-.leafPile h5 {
-  color: #ab6c57; }
-
-.sage h1 {
-  color: #8f9779; }
-
-.sage h2 {
-  color: #78866b; }
-
-.sage h3 {
-  color: #738276; }
-
-.sage h4 {
-  color: #738678; }
-
-.sage h5 {
-  color: #4d5d53; }
-
-.decay h1 {
-  color: #ffe3d5; }
-
-.decay h2 {
-  color: #ea9b83; }
-
-.decay h3 {
-  color: #8e8881; }
-
-.decay h4 {
-  color: #356a57; }
-
-.decay h5 {
-  color: #0c2a34; }
-
-.twilightwoods h1 {
-  color: #779c76; }
-
-.twilightwoods h2 {
-  color: #4c564d; }
-
-.twilightwoods h3 {
-  color: #959866; }
-
-.twilightwoods h4 {
-  color: #d6d68a; }
-
-.twilightwoods h5 {
-  color: #ddff7d; }
-
-.redwood h1 {
-  color: #7a4141; }
-
-.redwood h2 {
-  color: #9a4945; }
-
-.redwood h3 {
-  color: #bf6f60; }
-
-.redwood h4 {
-  color: #4a553d; }
-
-.redwood h5 {
-  color: #768752; }
-
-.rose h1 {
-  color: #638d8d; }
-
-.rose h2 {
-  color: #83aab7; }
-
-.rose h3 {
-  color: #b4a8b7; }
-
-.rose h4 {
-  color: #bd8e99; }
-
-.rose h5 {
-  color: #b45e72; }
-
-.roseyRed h1 {
-  color: #e58a8a; }
-
-.roseyRed h2 {
-  color: #b67777; }
-
-.roseyRed h3 {
-  color: #905f5f; }
-
-.roseyRed h4 {
-  color: #b67a7a; }
-
-.roseyRed h5 {
-  color: #ab6876; }
-
-.stump h1 {
-  color: #4b473b; }
-
-.stump h2 {
-  color: #54473f; }
-
-.stump h3 {
-  color: #56452c; }
-
-.stump h4 {
-  color: #493d18; }
-
-.stump h5 {
-  color: #403100; }
-
-.leafy h1 {
-  color: #719f46; }
-
-.leafy h2 {
-  color: #679c63; }
-
-.leafy h3 {
-  color: #6a8d41; }
-
-.leafy h4 {
-  color: #48814c; }
-
-.leafy h5 {
-  color: #4c722f; }
-
-.oakShadow h1 {
-  color: #eeeed1; }
-
-.oakShadow h2 {
-  color: #809552; }
-
-.oakShadow h3 {
-  color: #6b7f42; }
-
-.oakShadow h4 {
-  color: #5c5c5c; }
-
-.oakShadow h5 {
-  color: #222222; }
-
-.rainforest h1 {
-  color: #b8ee85; }
-
-.rainforest h2 {
-  color: #7adb71; }
-
-.rainforest h3 {
-  color: #50b065; }
-
-.rainforest h4 {
-  color: #369077; }
-
-.rainforest h5 {
-  color: #ae5d6f; }
-
-.moss h1 {
-  color: #bd654d; }
-
-.moss h2 {
-  color: #cbaa99; }
-
-.moss h3 {
-  color: #9a9460; }
-
-.moss h4 {
-  color: #845f0e; }
-
-.moss h5 {
-  color: #312f1a; }
-
-.fire h1 {
-  color: #c11d1d; }
-
-.fire h2 {
-  color: #c1461d; }
-
-.fire h3 {
-  color: #d28231; }
-
-.fire h4 {
-  color: #c5a645; }
-
-.fire h5 {
-  color: #c4c545; }
-
-.darkfire h1 {
-  color: #fdcf58; }
-
-.darkfire h2 {
-  color: #757676; }
-
-.darkfire h3 {
-  color: #f27d0c; }
-
-.darkfire h4 {
-  color: #800909; }
-
-.darkfire h5 {
-  color: #f07f13; }
-
-.hotcoals h1 {
-  color: #1c1c1c; }
-
-.hotcoals h2 {
-  color: #ec4700; }
-
-.hotcoals h3 {
-  color: #fb5923; }
-
-.hotcoals h4 {
-  color: #f2ba0d; }
-
-.hotcoals h5 {
-  color: #e5dcb6; }
-
-.icefire h1 {
-  color: #fe7200; }
-
-.icefire h2 {
-  color: #e5e327; }
-
-.icefire h3 {
-  color: #77e2ff; }
-
-.icefire h4 {
-  color: #08b1e3; }
-
-.icefire h5 {
-  color: #1485dc; }
-
-.firewater h1 {
-  color: #ff0000; }
-
-.firewater h2 {
-  color: #ffa700; }
-
-.firewater h3 {
-  color: #ffffff; }
-
-.firewater h4 {
-  color: #00f9ff; }
-
-.firewater h5 {
-  color: #00c1bc; }
-
-.hotcold h1 {
-  color: #0b0200; }
-
-.hotcold h2 {
-  color: #ff2700; }
-
-.hotcold h3 {
-  color: #2d4940; }
-
-.hotcold h4 {
-  color: #bcfffa; }
-
-.hotcold h5 {
-  color: #ffffff; }
-
-.water h1 {
-  color: #00c5ff; }
-
-.water h2 {
-  color: #56d0ff; }
-
-.water h3 {
-  color: #a3dcff; }
-
-.water h4 {
-  color: #a9f9ff; }
-
-.water h5 {
-  color: #e1fffd; }
-
-.earth h1 {
-  color: #7c3817; }
-
-.earth h2 {
-  color: #c98f39; }
-
-.earth h3 {
-  color: #007c7c; }
-
-.earth h4 {
-  color: #caf2e5; }
-
-.earth h5 {
-  color: #687237; }
-
-.wind h1 {
-  color: #ccd6cd; }
-
-.wind h2 {
-  color: #afbbbf; }
-
-.wind h3 {
-  color: #9fb2b0; }
-
-.wind h4 {
-  color: #bd99ae; }
-
-.wind h5 {
-  color: #8c7e9f; }
-
-.armyCamo h1 {
-  color: #604439; }
-
-.armyCamo h2 {
-  color: #9e9a75; }
-
-.armyCamo h3 {
-  color: #ac222e; }
-
-.armyCamo h4 {
-  color: #41533b; }
-
-.armyCamo h5 {
-  color: #554840; }
-
-.armyBrown h1 {
-  color: #4f3e37; }
-
-.armyBrown h2 {
-  color: #404f3d; }
-
-.armyBrown h3 {
-  color: #465840; }
-
-.armyBrown h4 {
-  color: #525e41; }
-
-.armyBrown h5 {
-  color: #60654a; }
-
-.bookface h1 {
-  color: #3b5998; }
-
-.bookface h2 {
-  color: #8b9dc3; }
-
-.bookface h3 {
-  color: #dfe3ee; }
-
-.bookface h4 {
-  color: #f7f7f7; }
-
-.bookface h5 {
-  color: #ffffff; }
-
-.oogle h1 {
-  color: #008744; }
-
-.oogle h2 {
-  color: #0057e7; }
-
-.oogle h3 {
-  color: #d62d20; }
-
-.oogle h4 {
-  color: #ffa700; }
-
-.oogle h5 {
-  color: #ffffff; }
-
-.bootstring h1 {
-  color: #d9534f; }
-
-.bootstring h2 {
-  color: #f9f9f9; }
-
-.bootstring h3 {
-  color: #5bc0de; }
-
-.bootstring h4 {
-  color: #5cb85c; }
-
-.bootstring h5 {
-  color: #428bca; }
-
-.tweeter h1 {
-  color: #326ada; }
-
-.tweeter h2 {
-  color: #d4d8d4; }
-
-.tweeter h3 {
-  color: #433e90; }
-
-.tweeter h4 {
-  color: #a19c9c; }
-
-.tweeter h5 {
-  color: #d2d2d2; }
-
-.toob h1 {
-  color: #cc181e; }
-
-.toob h2 {
-  color: #2793e8; }
-
-.toob h3 {
-  color: #559900; }
-
-.toob h4 {
-  color: #666666; }
-
-.toob h5 {
-  color: #f1f1f1; }
-
-.caucasion h1 {
-  color: #ffe0bd; }
-
-.caucasion h2 {
-  color: #ffcd94; }
-
-.caucasion h3 {
-  color: #eac806; }
-
-.caucasion h4 {
-  color: #ffad60; }
-
-.caucasion h5 {
-  color: #ffe39f; }
-
-.bronzer h1 {
-  color: #ddc4be; }
-
-.bronzer h2 {
-  color: #ddb2a6; }
-
-.bronzer h3 {
-  color: #c1907f; }
-
-.bronzer h4 {
-  color: #a56b57; }
-
-.bronzer h5 {
-  color: #a86048; }
-
-.gryffindor h1 {
-  color: #740001; }
-
-.gryffindor h2 {
-  color: #ae0001; }
-
-.gryffindor h3 {
-  color: #eeba30; }
-
-.gryffindor h4 {
-  color: #d3a625; }
-
-.gryffindor h5 {
-  color: #000000; }
-
-.ravenclaw h1 {
-  color: #0e1a40; }
-
-.ravenclaw h2 {
-  color: #222f5b; }
-
-.ravenclaw h3 {
-  color: #5d5d5d; }
-
-.ravenclaw h4 {
-  color: #946b2d; }
-
-.ravenclaw h5 {
-  color: #000000; }
-
-.slytherin h1 {
-  color: #1a472a; }
-
-.slytherin h2 {
-  color: #2a623d; }
-
-.slytherin h3 {
-  color: #5d5d5d; }
-
-.slytherin h4 {
-  color: #aaaaaa; }
-
-.slytherin h5 {
-  color: #000000; }
-
-.hufflepuff h1 {
-  color: #ecb939; }
-
-.hufflepuff h2 {
-  color: #f0c75e; }
-
-.hufflepuff h3 {
-  color: #726255; }
-
-.hufflepuff h4 {
-  color: #372e29; }
-
-.hufflepuff h5 {
-  color: #000000; }
-
-.fe-man h1 {
-  color: #771414; }
-
-.fe-man h2 {
-  color: #beba46; }
-
-.fe-man h3 {
-  color: #8bd3fb; }
-
-.fe-man h4 {
-  color: #bcb841; }
-
-.fe-man h5 {
-  color: #790d0d; }
-
-.poke h1 {
-  color: #ee1515; }
-
-.poke h2 {
-  color: #f00000; }
-
-.poke h3 {
-  color: #222224; }
-
-.poke h4 {
-  color: #f0f0f0; }
-
-.poke h5 {
-  color: #f0f0f0; }
-
-.rasta h1 {
-  color: #e20d0d; }
-
-.rasta h2 {
-  color: #f0d817; }
-
-.rasta h3 {
-  color: #3eb308; }
-
-.rasta h4 {
-  color: #bbbbbb; }
-
-.rasta h5 {
-  color: #aaaaaa; }
-
-.cappuccino h1 {
-  color: #4b3832; }
-
-.cappuccino h2 {
-  color: #854442; }
-
-.cappuccino h3 {
-  color: #fff4e6; }
-
-.cappuccino h4 {
-  color: #3c2f2f; }
-
-.cappuccino h5 {
-  color: #be9b7b; }
-
-.icecream h1 {
-  color: #bbcbdb; }
-
-.icecream h2 {
-  color: #9ebd9e; }
-
-.icecream h3 {
-  color: #dd855c; }
-
-.icecream h4 {
-  color: #f1e8ca; }
-
-.icecream h5 {
-  color: #745151; }
-
-.mint h1 {
-  color: #c6c386; }
-
-.mint h2 {
-  color: #c3eee7; }
-
-.mint h3 {
-  color: #5b391e; }
-
-.mint h4 {
-  color: #87c6c3; }
-
-.mint h5 {
-  color: #66bbae; }
-
-.lemonade h1 {
-  color: #ecc9d1; }
-
-.lemonade h2 {
-  color: #ecd5cf; }
-
-.lemonade h3 {
-  color: #f2e1d3; }
-
-.lemonade h4 {
-  color: #f0e8d5; }
-
-.lemonade h5 {
-  color: #f0f2d5; }
-
-.melon h1 {
-  color: #a9ff85; }
-
-.melon h2 {
-  color: #7ab258; }
-
-.melon h3 {
-  color: #ff7e7e; }
-
-.melon h4 {
-  color: #ffa4ce; }
-
-.melon h5 {
-  color: #f9547e; }
-
-.licorice h1 {
-  color: #f7de82; }
-
-.licorice h2 {
-  color: #bbe0c4; }
-
-.licorice h3 {
-  color: #a286aa; }
-
-.licorice h4 {
-  color: #613246; }
-
-.licorice h5 {
-  color: #251c3f; }
-
-.pencil h1 {
-  color: #e3c783; }
-
-.pencil h2 {
-  color: #e7cb95; }
-
-.pencil h3 {
-  color: #2f2f2f; }
-
-.pencil h4 {
-  color: #909090; }
-
-.pencil h5 {
-  color: #909090; }
-
-.money h1 {
-  color: #3e9c35; }
-
-.money h2 {
-  color: #168118; }
-
-.money h3 {
-  color: #157811; }
-
-.money h4 {
-  color: #036704; }
-
-.money h5 {
-  color: #084f09; }
-
-.globe h1 {
-  color: #eceadc; }
-
-.globe h2 {
-  color: #b8a488; }
-
-.globe h3 {
-  color: #8eb572; }
-
-.globe h4 {
-  color: #356392; }
-
-.globe h5 {
-  color: #ff7913; }
-
-.coldsteel h1 {
-  color: #000000; }
-
-.coldsteel h2 {
-  color: #656565; }
-
-.coldsteel h3 {
-  color: #bdbdbd; }
-
-.coldsteel h4 {
-  color: #00d7f6; }
-
-.coldsteel h5 {
-  color: #00355c; }
-
-.lightRetro h1 {
-  color: #e5c3c6; }
-
-.lightRetro h2 {
-  color: #e1e9b7; }
-
-.lightRetro h3 {
-  color: #f96161; }
-
-.lightRetro h4 {
-  color: #bcd2d0; }
-
-.lightRetro h5 {
-  color: #d0b783; }
-
-.oldCatalog h1 {
-  color: #edc951; }
-
-.oldCatalog h2 {
-  color: #eb6841; }
-
-.oldCatalog h3 {
-  color: #cc2a36; }
-
-.oldCatalog h4 {
-  color: #4f372d; }
-
-.oldCatalog h5 {
-  color: #00a0b0; }
-
-body {
-  background: black; }
+/* 
+- might make a dark and light pre-class for each
+- find a way to jumble colors (instead of h1 always being $c1 ->
+	function to dynamically change what $c1 is)
+- opacity class
+*/
+.musk-1 {
+  background: rgba(0, 79, 148, 0.7); }
+  .musk-1 h1, .musk-1 a:hover {
+    color: #b6940e; }
+  .musk-1 h2, .musk-1 h3, .musk-1 a:visited, .musk-1 li {
+    color: #911002; }
+  .musk-1 a:link {
+    color: #1e2d47; }
+  .musk-1 h4, .musk-1 h5, .musk-1 h6, .musk-1 p, .musk-1 button {
+    color: #be6600; }
+
+.musk-2 {
+  background: rgba(182, 148, 14, 0.7); }
+  .musk-2 h1, .musk-2 a:hover {
+    color: #004f94; }
+  .musk-2 h2, .musk-2 h3, .musk-2 a:visited, .musk-2 li {
+    color: #be6600; }
+  .musk-2 a:link {
+    color: #1e2d47; }
+  .musk-2 h4, .musk-2 h5, .musk-2 h6, .musk-2 p, .musk-2 button {
+    color: #911002; }
+
+.musk-3 {
+  background: rgba(30, 45, 71, 0.7); }
+  .musk-3 h1, .musk-3 a:hover {
+    color: #911002; }
+  .musk-3 h2, .musk-3 h3, .musk-3 a:visited, .musk-3 li {
+    color: #be6600; }
+  .musk-3 a:link {
+    color: #b6940e; }
+  .musk-3 h4, .musk-3 h5, .musk-3 h6, .musk-3 p, .musk-3 button {
+    color: #004f94; }
+
+.musk-4 {
+  background: rgba(145, 16, 2, 0.7); }
+  .musk-4 h1, .musk-4 a:hover {
+    color: #1e2d47; }
+  .musk-4 h2, .musk-4 h3, .musk-4 a:visited, .musk-4 li {
+    color: #004f94; }
+  .musk-4 a:link {
+    color: #b6940e; }
+  .musk-4 h4, .musk-4 h5, .musk-4 h6, .musk-4 p, .musk-4 button {
+    color: #be6600; }
+
+.grandfather-1 {
+  background: rgba(224, 205, 167, 0.7); }
+  .grandfather-1 h1, .grandfather-1 a:hover {
+    color: #bb1515; }
+  .grandfather-1 h2, .grandfather-1 h3, .grandfather-1 a:visited, .grandfather-1 li {
+    color: #2a334f; }
+  .grandfather-1 a:link {
+    color: #6b4423; }
+  .grandfather-1 h4, .grandfather-1 h5, .grandfather-1 h6, .grandfather-1 p, .grandfather-1 button {
+    color: #ac8f57; }
+
+.grandfather-2 {
+  background: rgba(187, 21, 21, 0.7); }
+  .grandfather-2 h1, .grandfather-2 a:hover {
+    color: #e0cda7; }
+  .grandfather-2 h2, .grandfather-2 h3, .grandfather-2 a:visited, .grandfather-2 li {
+    color: #ac8f57; }
+  .grandfather-2 a:link {
+    color: #6b4423; }
+  .grandfather-2 h4, .grandfather-2 h5, .grandfather-2 h6, .grandfather-2 p, .grandfather-2 button {
+    color: #2a334f; }
+
+.grandfather-3 {
+  background: rgba(107, 68, 35, 0.7); }
+  .grandfather-3 h1, .grandfather-3 a:hover {
+    color: #2a334f; }
+  .grandfather-3 h2, .grandfather-3 h3, .grandfather-3 a:visited, .grandfather-3 li {
+    color: #ac8f57; }
+  .grandfather-3 a:link {
+    color: #bb1515; }
+  .grandfather-3 h4, .grandfather-3 h5, .grandfather-3 h6, .grandfather-3 p, .grandfather-3 button {
+    color: #e0cda7; }
+
+.grandfather-4 {
+  background: rgba(42, 51, 79, 0.7); }
+  .grandfather-4 h1, .grandfather-4 a:hover {
+    color: #6b4423; }
+  .grandfather-4 h2, .grandfather-4 h3, .grandfather-4 a:visited, .grandfather-4 li {
+    color: #e0cda7; }
+  .grandfather-4 a:link {
+    color: #bb1515; }
+  .grandfather-4 h4, .grandfather-4 h5, .grandfather-4 h6, .grandfather-4 p, .grandfather-4 button {
+    color: #ac8f57; }
+
+.micah-1 {
+  background: rgba(111, 66, 58, 0.7); }
+  .micah-1 h1, .micah-1 a:hover {
+    color: #979A84; }
+  .micah-1 h2, .micah-1 h3, .micah-1 a:visited, .micah-1 li {
+    color: #4F2950; }
+  .micah-1 a:link {
+    color: #FF2734; }
+  .micah-1 h4, .micah-1 h5, .micah-1 h6, .micah-1 p, .micah-1 button {
+    color: #ffffff; }
+
+.micah-2 {
+  background: rgba(151, 154, 132, 0.7); }
+  .micah-2 h1, .micah-2 a:hover {
+    color: #6F423A; }
+  .micah-2 h2, .micah-2 h3, .micah-2 a:visited, .micah-2 li {
+    color: #ffffff; }
+  .micah-2 a:link {
+    color: #FF2734; }
+  .micah-2 h4, .micah-2 h5, .micah-2 h6, .micah-2 p, .micah-2 button {
+    color: #4F2950; }
+
+.micah-3 {
+  background: rgba(255, 39, 52, 0.7); }
+  .micah-3 h1, .micah-3 a:hover {
+    color: #4F2950; }
+  .micah-3 h2, .micah-3 h3, .micah-3 a:visited, .micah-3 li {
+    color: #ffffff; }
+  .micah-3 a:link {
+    color: #979A84; }
+  .micah-3 h4, .micah-3 h5, .micah-3 h6, .micah-3 p, .micah-3 button {
+    color: #6F423A; }
+
+.micah-4 {
+  background: rgba(79, 41, 80, 0.7); }
+  .micah-4 h1, .micah-4 a:hover {
+    color: #FF2734; }
+  .micah-4 h2, .micah-4 h3, .micah-4 a:visited, .micah-4 li {
+    color: #6F423A; }
+  .micah-4 a:link {
+    color: #979A84; }
+  .micah-4 h4, .micah-4 h5, .micah-4 h6, .micah-4 p, .micah-4 button {
+    color: #ffffff; }
+
+.hotoffice-1 {
+  background: rgba(189, 159, 48, 0.7); }
+  .hotoffice-1 h1, .hotoffice-1 a:hover {
+    color: #8c834e; }
+  .hotoffice-1 h2, .hotoffice-1 h3, .hotoffice-1 a:visited, .hotoffice-1 li {
+    color: #e9b113; }
+  .hotoffice-1 a:link {
+    color: #ffe986; }
+  .hotoffice-1 h4, .hotoffice-1 h5, .hotoffice-1 h6, .hotoffice-1 p, .hotoffice-1 button {
+    color: #ff793d; }
+
+.hotoffice-2 {
+  background: rgba(140, 131, 78, 0.7); }
+  .hotoffice-2 h1, .hotoffice-2 a:hover {
+    color: #bd9f30; }
+  .hotoffice-2 h2, .hotoffice-2 h3, .hotoffice-2 a:visited, .hotoffice-2 li {
+    color: #ff793d; }
+  .hotoffice-2 a:link {
+    color: #ffe986; }
+  .hotoffice-2 h4, .hotoffice-2 h5, .hotoffice-2 h6, .hotoffice-2 p, .hotoffice-2 button {
+    color: #e9b113; }
+
+.hotoffice-3 {
+  background: rgba(255, 233, 134, 0.7); }
+  .hotoffice-3 h1, .hotoffice-3 a:hover {
+    color: #e9b113; }
+  .hotoffice-3 h2, .hotoffice-3 h3, .hotoffice-3 a:visited, .hotoffice-3 li {
+    color: #ff793d; }
+  .hotoffice-3 a:link {
+    color: #8c834e; }
+  .hotoffice-3 h4, .hotoffice-3 h5, .hotoffice-3 h6, .hotoffice-3 p, .hotoffice-3 button {
+    color: #bd9f30; }
+
+.hotoffice-4 {
+  background: rgba(233, 177, 19, 0.7); }
+  .hotoffice-4 h1, .hotoffice-4 a:hover {
+    color: #ffe986; }
+  .hotoffice-4 h2, .hotoffice-4 h3, .hotoffice-4 a:visited, .hotoffice-4 li {
+    color: #bd9f30; }
+  .hotoffice-4 a:link {
+    color: #8c834e; }
+  .hotoffice-4 h4, .hotoffice-4 h5, .hotoffice-4 h6, .hotoffice-4 p, .hotoffice-4 button {
+    color: #ff793d; }
+
+.blued-1 {
+  background: rgba(171, 182, 160, 0.7); }
+  .blued-1 h1, .blued-1 a:hover {
+    color: #60626b; }
+  .blued-1 h2, .blued-1 h3, .blued-1 a:visited, .blued-1 li {
+    color: #d6d6c3; }
+  .blued-1 a:link {
+    color: #757d83; }
+  .blued-1 h4, .blued-1 h5, .blued-1 h6, .blued-1 p, .blued-1 button {
+    color: #565549; }
+
+.blued-2 {
+  background: rgba(96, 98, 107, 0.7); }
+  .blued-2 h1, .blued-2 a:hover {
+    color: #abb6a0; }
+  .blued-2 h2, .blued-2 h3, .blued-2 a:visited, .blued-2 li {
+    color: #565549; }
+  .blued-2 a:link {
+    color: #757d83; }
+  .blued-2 h4, .blued-2 h5, .blued-2 h6, .blued-2 p, .blued-2 button {
+    color: #d6d6c3; }
+
+.blued-3 {
+  background: rgba(117, 125, 131, 0.7); }
+  .blued-3 h1, .blued-3 a:hover {
+    color: #d6d6c3; }
+  .blued-3 h2, .blued-3 h3, .blued-3 a:visited, .blued-3 li {
+    color: #565549; }
+  .blued-3 a:link {
+    color: #60626b; }
+  .blued-3 h4, .blued-3 h5, .blued-3 h6, .blued-3 p, .blued-3 button {
+    color: #abb6a0; }
+
+.blued-4 {
+  background: rgba(214, 214, 195, 0.7); }
+  .blued-4 h1, .blued-4 a:hover {
+    color: #757d83; }
+  .blued-4 h2, .blued-4 h3, .blued-4 a:visited, .blued-4 li {
+    color: #abb6a0; }
+  .blued-4 a:link {
+    color: #60626b; }
+  .blued-4 h4, .blued-4 h5, .blued-4 h6, .blued-4 p, .blued-4 button {
+    color: #565549; }
+
+.sunday-1 {
+  background: rgba(223, 215, 198, 0.7); }
+  .sunday-1 h1, .sunday-1 a:hover {
+    color: #b09763; }
+  .sunday-1 h2, .sunday-1 h3, .sunday-1 a:visited, .sunday-1 li {
+    color: #7d7875; }
+  .sunday-1 a:link {
+    color: #668a84; }
+  .sunday-1 h4, .sunday-1 h5, .sunday-1 h6, .sunday-1 p, .sunday-1 button {
+    color: #89b09f; }
+
+.sunday-2 {
+  background: rgba(176, 151, 99, 0.7); }
+  .sunday-2 h1, .sunday-2 a:hover {
+    color: #dfd7c6; }
+  .sunday-2 h2, .sunday-2 h3, .sunday-2 a:visited, .sunday-2 li {
+    color: #89b09f; }
+  .sunday-2 a:link {
+    color: #668a84; }
+  .sunday-2 h4, .sunday-2 h5, .sunday-2 h6, .sunday-2 p, .sunday-2 button {
+    color: #7d7875; }
+
+.sunday-3 {
+  background: rgba(102, 138, 132, 0.7); }
+  .sunday-3 h1, .sunday-3 a:hover {
+    color: #7d7875; }
+  .sunday-3 h2, .sunday-3 h3, .sunday-3 a:visited, .sunday-3 li {
+    color: #89b09f; }
+  .sunday-3 a:link {
+    color: #b09763; }
+  .sunday-3 h4, .sunday-3 h5, .sunday-3 h6, .sunday-3 p, .sunday-3 button {
+    color: #dfd7c6; }
+
+.sunday-4 {
+  background: rgba(125, 120, 117, 0.7); }
+  .sunday-4 h1, .sunday-4 a:hover {
+    color: #668a84; }
+  .sunday-4 h2, .sunday-4 h3, .sunday-4 a:visited, .sunday-4 li {
+    color: #dfd7c6; }
+  .sunday-4 a:link {
+    color: #b09763; }
+  .sunday-4 h4, .sunday-4 h5, .sunday-4 h6, .sunday-4 p, .sunday-4 button {
+    color: #89b09f; }
+
+.oldbook-1 {
+  background: rgba(203, 170, 153, 0.7); }
+  .oldbook-1 h1, .oldbook-1 a:hover {
+    color: #bd654d; }
+  .oldbook-1 h2, .oldbook-1 h3, .oldbook-1 a:visited, .oldbook-1 li {
+    color: #9a9460; }
+  .oldbook-1 a:link {
+    color: #845f0e; }
+  .oldbook-1 h4, .oldbook-1 h5, .oldbook-1 h6, .oldbook-1 p, .oldbook-1 button {
+    color: #312f1a; }
+
+.oldbook-2 {
+  background: rgba(189, 101, 77, 0.7); }
+  .oldbook-2 h1, .oldbook-2 a:hover {
+    color: #cbaa99; }
+  .oldbook-2 h2, .oldbook-2 h3, .oldbook-2 a:visited, .oldbook-2 li {
+    color: #312f1a; }
+  .oldbook-2 a:link {
+    color: #845f0e; }
+  .oldbook-2 h4, .oldbook-2 h5, .oldbook-2 h6, .oldbook-2 p, .oldbook-2 button {
+    color: #9a9460; }
+
+.oldbook-3 {
+  background: rgba(132, 95, 14, 0.7); }
+  .oldbook-3 h1, .oldbook-3 a:hover {
+    color: #9a9460; }
+  .oldbook-3 h2, .oldbook-3 h3, .oldbook-3 a:visited, .oldbook-3 li {
+    color: #312f1a; }
+  .oldbook-3 a:link {
+    color: #bd654d; }
+  .oldbook-3 h4, .oldbook-3 h5, .oldbook-3 h6, .oldbook-3 p, .oldbook-3 button {
+    color: #cbaa99; }
+
+.oldbook-4 {
+  background: rgba(154, 148, 96, 0.7); }
+  .oldbook-4 h1, .oldbook-4 a:hover {
+    color: #845f0e; }
+  .oldbook-4 h2, .oldbook-4 h3, .oldbook-4 a:visited, .oldbook-4 li {
+    color: #cbaa99; }
+  .oldbook-4 a:link {
+    color: #bd654d; }
+  .oldbook-4 h4, .oldbook-4 h5, .oldbook-4 h6, .oldbook-4 p, .oldbook-4 button {
+    color: #312f1a; }
+
+.construction-1 {
+  background: rgba(158, 158, 158, 0.7); }
+  .construction-1 h1, .construction-1 a:hover {
+    color: #ff5722; }
+  .construction-1 h2, .construction-1 h3, .construction-1 a:visited, .construction-1 li {
+    color: #607d8b; }
+  .construction-1 a:link {
+    color: #000000; }
+  .construction-1 h4, .construction-1 h5, .construction-1 h6, .construction-1 p, .construction-1 button {
+    color: #ffffff; }
+
+.construction-2 {
+  background: rgba(255, 87, 34, 0.7); }
+  .construction-2 h1, .construction-2 a:hover {
+    color: #9e9e9e; }
+  .construction-2 h2, .construction-2 h3, .construction-2 a:visited, .construction-2 li {
+    color: #ffffff; }
+  .construction-2 a:link {
+    color: #000000; }
+  .construction-2 h4, .construction-2 h5, .construction-2 h6, .construction-2 p, .construction-2 button {
+    color: #607d8b; }
+
+.construction-3 {
+  background: rgba(0, 0, 0, 0.7); }
+  .construction-3 h1, .construction-3 a:hover {
+    color: #607d8b; }
+  .construction-3 h2, .construction-3 h3, .construction-3 a:visited, .construction-3 li {
+    color: #ffffff; }
+  .construction-3 a:link {
+    color: #ff5722; }
+  .construction-3 h4, .construction-3 h5, .construction-3 h6, .construction-3 p, .construction-3 button {
+    color: #9e9e9e; }
+
+.construction-4 {
+  background: rgba(96, 125, 139, 0.7); }
+  .construction-4 h1, .construction-4 a:hover {
+    color: #000000; }
+  .construction-4 h2, .construction-4 h3, .construction-4 a:visited, .construction-4 li {
+    color: #9e9e9e; }
+  .construction-4 a:link {
+    color: #ff5722; }
+  .construction-4 h4, .construction-4 h5, .construction-4 h6, .construction-4 p, .construction-4 button {
+    color: #ffffff; }
+
+.doctor-1 {
+  background: rgba(183, 244, 243, 0.7); }
+  .doctor-1 h1, .doctor-1 a:hover {
+    color: #d5fffe; }
+  .doctor-1 h2, .doctor-1 h3, .doctor-1 a:visited, .doctor-1 li {
+    color: #b21c1c; }
+  .doctor-1 a:link {
+    color: #fcffff; }
+  .doctor-1 h4, .doctor-1 h5, .doctor-1 h6, .doctor-1 p, .doctor-1 button {
+    color: #82c3c5; }
+
+.doctor-2 {
+  background: rgba(213, 255, 254, 0.7); }
+  .doctor-2 h1, .doctor-2 a:hover {
+    color: #b7f4f3; }
+  .doctor-2 h2, .doctor-2 h3, .doctor-2 a:visited, .doctor-2 li {
+    color: #82c3c5; }
+  .doctor-2 a:link {
+    color: #fcffff; }
+  .doctor-2 h4, .doctor-2 h5, .doctor-2 h6, .doctor-2 p, .doctor-2 button {
+    color: #b21c1c; }
+
+.doctor-3 {
+  background: rgba(252, 255, 255, 0.7); }
+  .doctor-3 h1, .doctor-3 a:hover {
+    color: #b21c1c; }
+  .doctor-3 h2, .doctor-3 h3, .doctor-3 a:visited, .doctor-3 li {
+    color: #82c3c5; }
+  .doctor-3 a:link {
+    color: #d5fffe; }
+  .doctor-3 h4, .doctor-3 h5, .doctor-3 h6, .doctor-3 p, .doctor-3 button {
+    color: #b7f4f3; }
+
+.doctor-4 {
+  background: rgba(178, 28, 28, 0.7); }
+  .doctor-4 h1, .doctor-4 a:hover {
+    color: #fcffff; }
+  .doctor-4 h2, .doctor-4 h3, .doctor-4 a:visited, .doctor-4 li {
+    color: #b7f4f3; }
+  .doctor-4 a:link {
+    color: #d5fffe; }
+  .doctor-4 h4, .doctor-4 h5, .doctor-4 h6, .doctor-4 p, .doctor-4 button {
+    color: #82c3c5; }
+
+.standard-1 {
+  background: rgba(0, 255, 0, 0.7); }
+  .standard-1 h1, .standard-1 a:hover {
+    color: #ff0000; }
+  .standard-1 h2, .standard-1 h3, .standard-1 a:visited, .standard-1 li {
+    color: #0000ff; }
+  .standard-1 a:link {
+    color: #eeeeee; }
+  .standard-1 h4, .standard-1 h5, .standard-1 h6, .standard-1 p, .standard-1 button {
+    color: #000000; }
+
+.standard-2 {
+  background: rgba(255, 0, 0, 0.7); }
+  .standard-2 h1, .standard-2 a:hover {
+    color: #00ff00; }
+  .standard-2 h2, .standard-2 h3, .standard-2 a:visited, .standard-2 li {
+    color: #000000; }
+  .standard-2 a:link {
+    color: #eeeeee; }
+  .standard-2 h4, .standard-2 h5, .standard-2 h6, .standard-2 p, .standard-2 button {
+    color: #0000ff; }
+
+.standard-3 {
+  background: rgba(238, 238, 238, 0.7); }
+  .standard-3 h1, .standard-3 a:hover {
+    color: #0000ff; }
+  .standard-3 h2, .standard-3 h3, .standard-3 a:visited, .standard-3 li {
+    color: #000000; }
+  .standard-3 a:link {
+    color: #ff0000; }
+  .standard-3 h4, .standard-3 h5, .standard-3 h6, .standard-3 p, .standard-3 button {
+    color: #00ff00; }
+
+.standard-4 {
+  background: rgba(0, 0, 255, 0.7); }
+  .standard-4 h1, .standard-4 a:hover {
+    color: #eeeeee; }
+  .standard-4 h2, .standard-4 h3, .standard-4 a:visited, .standard-4 li {
+    color: #00ff00; }
+  .standard-4 a:link {
+    color: #ff0000; }
+  .standard-4 h4, .standard-4 h5, .standard-4 h6, .standard-4 p, .standard-4 button {
+    color: #000000; }
+
+.fifty-1 {
+  background: rgba(119, 119, 119, 0.7); }
+  .fifty-1 h1, .fifty-1 a:hover {
+    color: #999999; }
+  .fifty-1 h2, .fifty-1 h3, .fifty-1 a:visited, .fifty-1 li {
+    color: #555555; }
+  .fifty-1 a:link {
+    color: #333333; }
+  .fifty-1 h4, .fifty-1 h5, .fifty-1 h6, .fifty-1 p, .fifty-1 button {
+    color: #111111; }
+
+.fifty-2 {
+  background: rgba(153, 153, 153, 0.7); }
+  .fifty-2 h1, .fifty-2 a:hover {
+    color: #777777; }
+  .fifty-2 h2, .fifty-2 h3, .fifty-2 a:visited, .fifty-2 li {
+    color: #111111; }
+  .fifty-2 a:link {
+    color: #333333; }
+  .fifty-2 h4, .fifty-2 h5, .fifty-2 h6, .fifty-2 p, .fifty-2 button {
+    color: #555555; }
+
+.fifty-3 {
+  background: rgba(51, 51, 51, 0.7); }
+  .fifty-3 h1, .fifty-3 a:hover {
+    color: #555555; }
+  .fifty-3 h2, .fifty-3 h3, .fifty-3 a:visited, .fifty-3 li {
+    color: #111111; }
+  .fifty-3 a:link {
+    color: #999999; }
+  .fifty-3 h4, .fifty-3 h5, .fifty-3 h6, .fifty-3 p, .fifty-3 button {
+    color: #777777; }
+
+.fifty-4 {
+  background: rgba(85, 85, 85, 0.7); }
+  .fifty-4 h1, .fifty-4 a:hover {
+    color: #333333; }
+  .fifty-4 h2, .fifty-4 h3, .fifty-4 a:visited, .fifty-4 li {
+    color: #777777; }
+  .fifty-4 a:link {
+    color: #999999; }
+  .fifty-4 h4, .fifty-4 h5, .fifty-4 h6, .fifty-4 p, .fifty-4 button {
+    color: #111111; }
+
+.blueSet-1 {
+  background: rgba(3, 57, 108, 0.7); }
+  .blueSet-1 h1, .blueSet-1 a:hover {
+    color: #011f4b; }
+  .blueSet-1 h2, .blueSet-1 h3, .blueSet-1 a:visited, .blueSet-1 li {
+    color: #005b96; }
+  .blueSet-1 a:link {
+    color: #6497b1; }
+  .blueSet-1 h4, .blueSet-1 h5, .blueSet-1 h6, .blueSet-1 p, .blueSet-1 button {
+    color: #b3cde0; }
+
+.blueSet-2 {
+  background: rgba(1, 31, 75, 0.7); }
+  .blueSet-2 h1, .blueSet-2 a:hover {
+    color: #03396c; }
+  .blueSet-2 h2, .blueSet-2 h3, .blueSet-2 a:visited, .blueSet-2 li {
+    color: #b3cde0; }
+  .blueSet-2 a:link {
+    color: #6497b1; }
+  .blueSet-2 h4, .blueSet-2 h5, .blueSet-2 h6, .blueSet-2 p, .blueSet-2 button {
+    color: #005b96; }
+
+.blueSet-3 {
+  background: rgba(100, 151, 177, 0.7); }
+  .blueSet-3 h1, .blueSet-3 a:hover {
+    color: #005b96; }
+  .blueSet-3 h2, .blueSet-3 h3, .blueSet-3 a:visited, .blueSet-3 li {
+    color: #b3cde0; }
+  .blueSet-3 a:link {
+    color: #011f4b; }
+  .blueSet-3 h4, .blueSet-3 h5, .blueSet-3 h6, .blueSet-3 p, .blueSet-3 button {
+    color: #03396c; }
+
+.blueSet-4 {
+  background: rgba(0, 91, 150, 0.7); }
+  .blueSet-4 h1, .blueSet-4 a:hover {
+    color: #6497b1; }
+  .blueSet-4 h2, .blueSet-4 h3, .blueSet-4 a:visited, .blueSet-4 li {
+    color: #03396c; }
+  .blueSet-4 a:link {
+    color: #011f4b; }
+  .blueSet-4 h4, .blueSet-4 h5, .blueSet-4 h6, .blueSet-4 p, .blueSet-4 button {
+    color: #b3cde0; }
+
+.turquise-1 {
+  background: rgba(137, 236, 218, 0.7); }
+  .turquise-1 h1, .turquise-1 a:hover {
+    color: #b3ecec; }
+  .turquise-1 h2, .turquise-1 h3, .turquise-1 a:visited, .turquise-1 li {
+    color: #43e8d8; }
+  .turquise-1 a:link {
+    color: #40e0d0; }
+  .turquise-1 h4, .turquise-1 h5, .turquise-1 h6, .turquise-1 p, .turquise-1 button {
+    color: #3bd6c6; }
+
+.turquise-2 {
+  background: rgba(179, 236, 236, 0.7); }
+  .turquise-2 h1, .turquise-2 a:hover {
+    color: #89ecda; }
+  .turquise-2 h2, .turquise-2 h3, .turquise-2 a:visited, .turquise-2 li {
+    color: #3bd6c6; }
+  .turquise-2 a:link {
+    color: #40e0d0; }
+  .turquise-2 h4, .turquise-2 h5, .turquise-2 h6, .turquise-2 p, .turquise-2 button {
+    color: #43e8d8; }
+
+.turquise-3 {
+  background: rgba(64, 224, 208, 0.7); }
+  .turquise-3 h1, .turquise-3 a:hover {
+    color: #43e8d8; }
+  .turquise-3 h2, .turquise-3 h3, .turquise-3 a:visited, .turquise-3 li {
+    color: #3bd6c6; }
+  .turquise-3 a:link {
+    color: #b3ecec; }
+  .turquise-3 h4, .turquise-3 h5, .turquise-3 h6, .turquise-3 p, .turquise-3 button {
+    color: #89ecda; }
+
+.turquise-4 {
+  background: rgba(67, 232, 216, 0.7); }
+  .turquise-4 h1, .turquise-4 a:hover {
+    color: #40e0d0; }
+  .turquise-4 h2, .turquise-4 h3, .turquise-4 a:visited, .turquise-4 li {
+    color: #89ecda; }
+  .turquise-4 a:link {
+    color: #b3ecec; }
+  .turquise-4 h4, .turquise-4 h5, .turquise-4 h6, .turquise-4 p, .turquise-4 button {
+    color: #3bd6c6; }
+
+.tealSet-1 {
+  background: rgba(0, 102, 102, 0.7); }
+  .tealSet-1 h1, .tealSet-1 a:hover {
+    color: #007777; }
+  .tealSet-1 h2, .tealSet-1 h3, .tealSet-1 a:visited, .tealSet-1 li {
+    color: #005555; }
+  .tealSet-1 a:link {
+    color: #004444; }
+  .tealSet-1 h4, .tealSet-1 h5, .tealSet-1 h6, .tealSet-1 p, .tealSet-1 button {
+    color: #003333; }
+
+.tealSet-2 {
+  background: rgba(0, 119, 119, 0.7); }
+  .tealSet-2 h1, .tealSet-2 a:hover {
+    color: #006666; }
+  .tealSet-2 h2, .tealSet-2 h3, .tealSet-2 a:visited, .tealSet-2 li {
+    color: #003333; }
+  .tealSet-2 a:link {
+    color: #004444; }
+  .tealSet-2 h4, .tealSet-2 h5, .tealSet-2 h6, .tealSet-2 p, .tealSet-2 button {
+    color: #005555; }
+
+.tealSet-3 {
+  background: rgba(0, 68, 68, 0.7); }
+  .tealSet-3 h1, .tealSet-3 a:hover {
+    color: #005555; }
+  .tealSet-3 h2, .tealSet-3 h3, .tealSet-3 a:visited, .tealSet-3 li {
+    color: #003333; }
+  .tealSet-3 a:link {
+    color: #007777; }
+  .tealSet-3 h4, .tealSet-3 h5, .tealSet-3 h6, .tealSet-3 p, .tealSet-3 button {
+    color: #006666; }
+
+.tealSet-4 {
+  background: rgba(0, 85, 85, 0.7); }
+  .tealSet-4 h1, .tealSet-4 a:hover {
+    color: #004444; }
+  .tealSet-4 h2, .tealSet-4 h3, .tealSet-4 a:visited, .tealSet-4 li {
+    color: #006666; }
+  .tealSet-4 a:link {
+    color: #007777; }
+  .tealSet-4 h4, .tealSet-4 h5, .tealSet-4 h6, .tealSet-4 p, .tealSet-4 button {
+    color: #003333; }
+
+.goldSet-1 {
+  background: rgba(191, 155, 48, 0.7); }
+  .goldSet-1 h1, .goldSet-1 a:hover {
+    color: #a67c00; }
+  .goldSet-1 h2, .goldSet-1 h3, .goldSet-1 a:visited, .goldSet-1 li {
+    color: #ffbf00; }
+  .goldSet-1 a:link {
+    color: #ffcf40; }
+  .goldSet-1 h4, .goldSet-1 h5, .goldSet-1 h6, .goldSet-1 p, .goldSet-1 button {
+    color: #ffdc73; }
+
+.goldSet-2 {
+  background: rgba(166, 124, 0, 0.7); }
+  .goldSet-2 h1, .goldSet-2 a:hover {
+    color: #bf9b30; }
+  .goldSet-2 h2, .goldSet-2 h3, .goldSet-2 a:visited, .goldSet-2 li {
+    color: #ffdc73; }
+  .goldSet-2 a:link {
+    color: #ffcf40; }
+  .goldSet-2 h4, .goldSet-2 h5, .goldSet-2 h6, .goldSet-2 p, .goldSet-2 button {
+    color: #ffbf00; }
+
+.goldSet-3 {
+  background: rgba(255, 207, 64, 0.7); }
+  .goldSet-3 h1, .goldSet-3 a:hover {
+    color: #ffbf00; }
+  .goldSet-3 h2, .goldSet-3 h3, .goldSet-3 a:visited, .goldSet-3 li {
+    color: #ffdc73; }
+  .goldSet-3 a:link {
+    color: #a67c00; }
+  .goldSet-3 h4, .goldSet-3 h5, .goldSet-3 h6, .goldSet-3 p, .goldSet-3 button {
+    color: #bf9b30; }
+
+.goldSet-4 {
+  background: rgba(255, 191, 0, 0.7); }
+  .goldSet-4 h1, .goldSet-4 a:hover {
+    color: #ffcf40; }
+  .goldSet-4 h2, .goldSet-4 h3, .goldSet-4 a:visited, .goldSet-4 li {
+    color: #bf9b30; }
+  .goldSet-4 a:link {
+    color: #a67c00; }
+  .goldSet-4 h4, .goldSet-4 h5, .goldSet-4 h6, .goldSet-4 p, .goldSet-4 button {
+    color: #ffdc73; }
+
+.purpleSet-1 {
+  background: rgba(216, 150, 255, 0.7); }
+  .purpleSet-1 h1, .purpleSet-1 a:hover {
+    color: #efbbff; }
+  .purpleSet-1 h2, .purpleSet-1 h3, .purpleSet-1 a:visited, .purpleSet-1 li {
+    color: #be29ec; }
+  .purpleSet-1 a:link {
+    color: #800080; }
+  .purpleSet-1 h4, .purpleSet-1 h5, .purpleSet-1 h6, .purpleSet-1 p, .purpleSet-1 button {
+    color: #660066; }
+
+.purpleSet-2 {
+  background: rgba(239, 187, 255, 0.7); }
+  .purpleSet-2 h1, .purpleSet-2 a:hover {
+    color: #d896ff; }
+  .purpleSet-2 h2, .purpleSet-2 h3, .purpleSet-2 a:visited, .purpleSet-2 li {
+    color: #660066; }
+  .purpleSet-2 a:link {
+    color: #800080; }
+  .purpleSet-2 h4, .purpleSet-2 h5, .purpleSet-2 h6, .purpleSet-2 p, .purpleSet-2 button {
+    color: #be29ec; }
+
+.purpleSet-3 {
+  background: rgba(128, 0, 128, 0.7); }
+  .purpleSet-3 h1, .purpleSet-3 a:hover {
+    color: #be29ec; }
+  .purpleSet-3 h2, .purpleSet-3 h3, .purpleSet-3 a:visited, .purpleSet-3 li {
+    color: #660066; }
+  .purpleSet-3 a:link {
+    color: #efbbff; }
+  .purpleSet-3 h4, .purpleSet-3 h5, .purpleSet-3 h6, .purpleSet-3 p, .purpleSet-3 button {
+    color: #d896ff; }
+
+.purpleSet-4 {
+  background: rgba(190, 41, 236, 0.7); }
+  .purpleSet-4 h1, .purpleSet-4 a:hover {
+    color: #800080; }
+  .purpleSet-4 h2, .purpleSet-4 h3, .purpleSet-4 a:visited, .purpleSet-4 li {
+    color: #d896ff; }
+  .purpleSet-4 a:link {
+    color: #efbbff; }
+  .purpleSet-4 h4, .purpleSet-4 h5, .purpleSet-4 h6, .purpleSet-4 p, .purpleSet-4 button {
+    color: #660066; }
+
+.violetSet-1 {
+  background: rgba(229, 208, 255, 0.7); }
+  .violetSet-1 h1, .violetSet-1 a:hover {
+    color: #ffffff; }
+  .violetSet-1 h2, .violetSet-1 h3, .violetSet-1 a:visited, .violetSet-1 li {
+    color: #dabcff; }
+  .violetSet-1 a:link {
+    color: #cca3ff; }
+  .violetSet-1 h4, .violetSet-1 h5, .violetSet-1 h6, .violetSet-1 p, .violetSet-1 button {
+    color: #bf8bff; }
+
+.violetSet-2 {
+  background: rgba(255, 255, 255, 0.7); }
+  .violetSet-2 h1, .violetSet-2 a:hover {
+    color: #e5d0ff; }
+  .violetSet-2 h2, .violetSet-2 h3, .violetSet-2 a:visited, .violetSet-2 li {
+    color: #bf8bff; }
+  .violetSet-2 a:link {
+    color: #cca3ff; }
+  .violetSet-2 h4, .violetSet-2 h5, .violetSet-2 h6, .violetSet-2 p, .violetSet-2 button {
+    color: #dabcff; }
+
+.violetSet-3 {
+  background: rgba(204, 163, 255, 0.7); }
+  .violetSet-3 h1, .violetSet-3 a:hover {
+    color: #dabcff; }
+  .violetSet-3 h2, .violetSet-3 h3, .violetSet-3 a:visited, .violetSet-3 li {
+    color: #bf8bff; }
+  .violetSet-3 a:link {
+    color: #ffffff; }
+  .violetSet-3 h4, .violetSet-3 h5, .violetSet-3 h6, .violetSet-3 p, .violetSet-3 button {
+    color: #e5d0ff; }
+
+.violetSet-4 {
+  background: rgba(218, 188, 255, 0.7); }
+  .violetSet-4 h1, .violetSet-4 a:hover {
+    color: #cca3ff; }
+  .violetSet-4 h2, .violetSet-4 h3, .violetSet-4 a:visited, .violetSet-4 li {
+    color: #e5d0ff; }
+  .violetSet-4 a:link {
+    color: #ffffff; }
+  .violetSet-4 h4, .violetSet-4 h5, .violetSet-4 h6, .violetSet-4 p, .violetSet-4 button {
+    color: #bf8bff; }
+
+.pastel-1 {
+  background: rgba(255, 189, 189, 0.7); }
+  .pastel-1 h1, .pastel-1 a:hover {
+    color: #e1f7d5; }
+  .pastel-1 h2, .pastel-1 h3, .pastel-1 a:visited, .pastel-1 li {
+    color: #c9c9ff; }
+  .pastel-1 a:link {
+    color: #ffffff; }
+  .pastel-1 h4, .pastel-1 h5, .pastel-1 h6, .pastel-1 p, .pastel-1 button {
+    color: #f1cbff; }
+
+.pastel-2 {
+  background: rgba(225, 247, 213, 0.7); }
+  .pastel-2 h1, .pastel-2 a:hover {
+    color: #ffbdbd; }
+  .pastel-2 h2, .pastel-2 h3, .pastel-2 a:visited, .pastel-2 li {
+    color: #f1cbff; }
+  .pastel-2 a:link {
+    color: #ffffff; }
+  .pastel-2 h4, .pastel-2 h5, .pastel-2 h6, .pastel-2 p, .pastel-2 button {
+    color: #c9c9ff; }
+
+.pastel-3 {
+  background: rgba(255, 255, 255, 0.7); }
+  .pastel-3 h1, .pastel-3 a:hover {
+    color: #c9c9ff; }
+  .pastel-3 h2, .pastel-3 h3, .pastel-3 a:visited, .pastel-3 li {
+    color: #f1cbff; }
+  .pastel-3 a:link {
+    color: #e1f7d5; }
+  .pastel-3 h4, .pastel-3 h5, .pastel-3 h6, .pastel-3 p, .pastel-3 button {
+    color: #ffbdbd; }
+
+.pastel-4 {
+  background: rgba(201, 201, 255, 0.7); }
+  .pastel-4 h1, .pastel-4 a:hover {
+    color: #ffffff; }
+  .pastel-4 h2, .pastel-4 h3, .pastel-4 a:visited, .pastel-4 li {
+    color: #ffbdbd; }
+  .pastel-4 a:link {
+    color: #e1f7d5; }
+  .pastel-4 h4, .pastel-4 h5, .pastel-4 h6, .pastel-4 p, .pastel-4 button {
+    color: #f1cbff; }
+
+.greenSet-1 {
+  background: rgba(73, 171, 129, 0.7); }
+  .greenSet-1 h1, .greenSet-1 a:hover {
+    color: #52bf90; }
+  .greenSet-1 h2, .greenSet-1 h3, .greenSet-1 a:visited, .greenSet-1 li {
+    color: #419873; }
+  .greenSet-1 a:link {
+    color: #398564; }
+  .greenSet-1 h4, .greenSet-1 h5, .greenSet-1 h6, .greenSet-1 p, .greenSet-1 button {
+    color: #317256; }
+
+.greenSet-2 {
+  background: rgba(82, 191, 144, 0.7); }
+  .greenSet-2 h1, .greenSet-2 a:hover {
+    color: #49ab81; }
+  .greenSet-2 h2, .greenSet-2 h3, .greenSet-2 a:visited, .greenSet-2 li {
+    color: #317256; }
+  .greenSet-2 a:link {
+    color: #398564; }
+  .greenSet-2 h4, .greenSet-2 h5, .greenSet-2 h6, .greenSet-2 p, .greenSet-2 button {
+    color: #419873; }
+
+.greenSet-3 {
+  background: rgba(57, 133, 100, 0.7); }
+  .greenSet-3 h1, .greenSet-3 a:hover {
+    color: #419873; }
+  .greenSet-3 h2, .greenSet-3 h3, .greenSet-3 a:visited, .greenSet-3 li {
+    color: #317256; }
+  .greenSet-3 a:link {
+    color: #52bf90; }
+  .greenSet-3 h4, .greenSet-3 h5, .greenSet-3 h6, .greenSet-3 p, .greenSet-3 button {
+    color: #49ab81; }
+
+.greenSet-4 {
+  background: rgba(65, 152, 115, 0.7); }
+  .greenSet-4 h1, .greenSet-4 a:hover {
+    color: #398564; }
+  .greenSet-4 h2, .greenSet-4 h3, .greenSet-4 a:visited, .greenSet-4 li {
+    color: #49ab81; }
+  .greenSet-4 a:link {
+    color: #52bf90; }
+  .greenSet-4 h4, .greenSet-4 h5, .greenSet-4 h6, .greenSet-4 p, .greenSet-4 button {
+    color: #317256; }
+
+.softgreen-1 {
+  background: rgba(232, 224, 156, 0.7); }
+  .softgreen-1 h1, .softgreen-1 a:hover {
+    color: #e8e0ac; }
+  .softgreen-1 h2, .softgreen-1 h3, .softgreen-1 a:visited, .softgreen-1 li {
+    color: #e2dc82; }
+  .softgreen-1 a:link {
+    color: #d7d18a; }
+  .softgreen-1 h4, .softgreen-1 h5, .softgreen-1 h6, .softgreen-1 p, .softgreen-1 button {
+    color: #d0c986; }
+
+.softgreen-2 {
+  background: rgba(232, 224, 172, 0.7); }
+  .softgreen-2 h1, .softgreen-2 a:hover {
+    color: #e8e09c; }
+  .softgreen-2 h2, .softgreen-2 h3, .softgreen-2 a:visited, .softgreen-2 li {
+    color: #d0c986; }
+  .softgreen-2 a:link {
+    color: #d7d18a; }
+  .softgreen-2 h4, .softgreen-2 h5, .softgreen-2 h6, .softgreen-2 p, .softgreen-2 button {
+    color: #e2dc82; }
+
+.softgreen-3 {
+  background: rgba(215, 209, 138, 0.7); }
+  .softgreen-3 h1, .softgreen-3 a:hover {
+    color: #e2dc82; }
+  .softgreen-3 h2, .softgreen-3 h3, .softgreen-3 a:visited, .softgreen-3 li {
+    color: #d0c986; }
+  .softgreen-3 a:link {
+    color: #e8e0ac; }
+  .softgreen-3 h4, .softgreen-3 h5, .softgreen-3 h6, .softgreen-3 p, .softgreen-3 button {
+    color: #e8e09c; }
+
+.softgreen-4 {
+  background: rgba(226, 220, 130, 0.7); }
+  .softgreen-4 h1, .softgreen-4 a:hover {
+    color: #d7d18a; }
+  .softgreen-4 h2, .softgreen-4 h3, .softgreen-4 a:visited, .softgreen-4 li {
+    color: #e8e09c; }
+  .softgreen-4 a:link {
+    color: #e8e0ac; }
+  .softgreen-4 h4, .softgreen-4 h5, .softgreen-4 h6, .softgreen-4 p, .softgreen-4 button {
+    color: #d0c986; }
+
+.darkGreen-1 {
+  background: rgba(32, 76, 57, 0.7); }
+  .darkGreen-1 h1, .darkGreen-1 a:hover {
+    color: #295f48; }
+  .darkGreen-1 h2, .darkGreen-1 h3, .darkGreen-1 a:visited, .darkGreen-1 li {
+    color: #18392b; }
+  .darkGreen-1 a:link {
+    color: #eeeeee; }
+  .darkGreen-1 h4, .darkGreen-1 h5, .darkGreen-1 h6, .darkGreen-1 p, .darkGreen-1 button {
+    color: #000000; }
+
+.darkGreen-2 {
+  background: rgba(41, 95, 72, 0.7); }
+  .darkGreen-2 h1, .darkGreen-2 a:hover {
+    color: #204c39; }
+  .darkGreen-2 h2, .darkGreen-2 h3, .darkGreen-2 a:visited, .darkGreen-2 li {
+    color: #000000; }
+  .darkGreen-2 a:link {
+    color: #eeeeee; }
+  .darkGreen-2 h4, .darkGreen-2 h5, .darkGreen-2 h6, .darkGreen-2 p, .darkGreen-2 button {
+    color: #18392b; }
+
+.darkGreen-3 {
+  background: rgba(238, 238, 238, 0.7); }
+  .darkGreen-3 h1, .darkGreen-3 a:hover {
+    color: #18392b; }
+  .darkGreen-3 h2, .darkGreen-3 h3, .darkGreen-3 a:visited, .darkGreen-3 li {
+    color: #000000; }
+  .darkGreen-3 a:link {
+    color: #295f48; }
+  .darkGreen-3 h4, .darkGreen-3 h5, .darkGreen-3 h6, .darkGreen-3 p, .darkGreen-3 button {
+    color: #204c39; }
+
+.darkGreen-4 {
+  background: rgba(24, 57, 43, 0.7); }
+  .darkGreen-4 h1, .darkGreen-4 a:hover {
+    color: #eeeeee; }
+  .darkGreen-4 h2, .darkGreen-4 h3, .darkGreen-4 a:visited, .darkGreen-4 li {
+    color: #204c39; }
+  .darkGreen-4 a:link {
+    color: #295f48; }
+  .darkGreen-4 h4, .darkGreen-4 h5, .darkGreen-4 h6, .darkGreen-4 p, .darkGreen-4 button {
+    color: #000000; }
+
+.limeSet-1 {
+  background: rgba(107, 177, 32, 0.7); }
+  .limeSet-1 h1, .limeSet-1 a:hover {
+    color: #4d7f17; }
+  .limeSet-1 h2, .limeSet-1 h3, .limeSet-1 a:visited, .limeSet-1 li {
+    color: #8ae429; }
+  .limeSet-1 a:link {
+    color: #9afe2e; }
+  .limeSet-1 h4, .limeSet-1 h5, .limeSet-1 h6, .limeSet-1 p, .limeSet-1 button {
+    color: #aefe57; }
+
+.limeSet-2 {
+  background: rgba(77, 127, 23, 0.7); }
+  .limeSet-2 h1, .limeSet-2 a:hover {
+    color: #6bb120; }
+  .limeSet-2 h2, .limeSet-2 h3, .limeSet-2 a:visited, .limeSet-2 li {
+    color: #aefe57; }
+  .limeSet-2 a:link {
+    color: #9afe2e; }
+  .limeSet-2 h4, .limeSet-2 h5, .limeSet-2 h6, .limeSet-2 p, .limeSet-2 button {
+    color: #8ae429; }
+
+.limeSet-3 {
+  background: rgba(154, 254, 46, 0.7); }
+  .limeSet-3 h1, .limeSet-3 a:hover {
+    color: #8ae429; }
+  .limeSet-3 h2, .limeSet-3 h3, .limeSet-3 a:visited, .limeSet-3 li {
+    color: #aefe57; }
+  .limeSet-3 a:link {
+    color: #4d7f17; }
+  .limeSet-3 h4, .limeSet-3 h5, .limeSet-3 h6, .limeSet-3 p, .limeSet-3 button {
+    color: #6bb120; }
+
+.limeSet-4 {
+  background: rgba(138, 228, 41, 0.7); }
+  .limeSet-4 h1, .limeSet-4 a:hover {
+    color: #9afe2e; }
+  .limeSet-4 h2, .limeSet-4 h3, .limeSet-4 a:visited, .limeSet-4 li {
+    color: #6bb120; }
+  .limeSet-4 a:link {
+    color: #4d7f17; }
+  .limeSet-4 h4, .limeSet-4 h5, .limeSet-4 h6, .limeSet-4 p, .limeSet-4 button {
+    color: #aefe57; }
+
+.cyanSet-1 {
+  background: rgba(211, 255, 244, 0.7); }
+  .cyanSet-1 h1, .cyanSet-1 a:hover {
+    color: #e8fff4; }
+  .cyanSet-1 h2, .cyanSet-1 h3, .cyanSet-1 a:visited, .cyanSet-1 li {
+    color: #b5ffee; }
+  .cyanSet-1 a:link {
+    color: #93ffe4; }
+  .cyanSet-1 h4, .cyanSet-1 h5, .cyanSet-1 h6, .cyanSet-1 p, .cyanSet-1 button {
+    color: #7affdd; }
+
+.cyanSet-2 {
+  background: rgba(232, 255, 244, 0.7); }
+  .cyanSet-2 h1, .cyanSet-2 a:hover {
+    color: #d3fff4; }
+  .cyanSet-2 h2, .cyanSet-2 h3, .cyanSet-2 a:visited, .cyanSet-2 li {
+    color: #7affdd; }
+  .cyanSet-2 a:link {
+    color: #93ffe4; }
+  .cyanSet-2 h4, .cyanSet-2 h5, .cyanSet-2 h6, .cyanSet-2 p, .cyanSet-2 button {
+    color: #b5ffee; }
+
+.cyanSet-3 {
+  background: rgba(147, 255, 228, 0.7); }
+  .cyanSet-3 h1, .cyanSet-3 a:hover {
+    color: #b5ffee; }
+  .cyanSet-3 h2, .cyanSet-3 h3, .cyanSet-3 a:visited, .cyanSet-3 li {
+    color: #7affdd; }
+  .cyanSet-3 a:link {
+    color: #e8fff4; }
+  .cyanSet-3 h4, .cyanSet-3 h5, .cyanSet-3 h6, .cyanSet-3 p, .cyanSet-3 button {
+    color: #d3fff4; }
+
+.cyanSet-4 {
+  background: rgba(181, 255, 238, 0.7); }
+  .cyanSet-4 h1, .cyanSet-4 a:hover {
+    color: #93ffe4; }
+  .cyanSet-4 h2, .cyanSet-4 h3, .cyanSet-4 a:visited, .cyanSet-4 li {
+    color: #d3fff4; }
+  .cyanSet-4 a:link {
+    color: #e8fff4; }
+  .cyanSet-4 h4, .cyanSet-4 h5, .cyanSet-4 h6, .cyanSet-4 p, .cyanSet-4 button {
+    color: #7affdd; }
+
+.greyedPrimary-1 {
+  background: rgba(152, 152, 152, 0.7); }
+  .greyedPrimary-1 h1, .greyedPrimary-1 a:hover {
+    color: #8b8589; }
+  .greyedPrimary-1 h2, .greyedPrimary-1 h3, .greyedPrimary-1 a:visited, .greyedPrimary-1 li {
+    color: #838996; }
+  .greyedPrimary-1 a:link {
+    color: #979aaa; }
+  .greyedPrimary-1 h4, .greyedPrimary-1 h5, .greyedPrimary-1 h6, .greyedPrimary-1 p, .greyedPrimary-1 button {
+    color: #4c516d; }
+
+.greyedPrimary-2 {
+  background: rgba(139, 133, 137, 0.7); }
+  .greyedPrimary-2 h1, .greyedPrimary-2 a:hover {
+    color: #989898; }
+  .greyedPrimary-2 h2, .greyedPrimary-2 h3, .greyedPrimary-2 a:visited, .greyedPrimary-2 li {
+    color: #4c516d; }
+  .greyedPrimary-2 a:link {
+    color: #979aaa; }
+  .greyedPrimary-2 h4, .greyedPrimary-2 h5, .greyedPrimary-2 h6, .greyedPrimary-2 p, .greyedPrimary-2 button {
+    color: #838996; }
+
+.greyedPrimary-3 {
+  background: rgba(151, 154, 170, 0.7); }
+  .greyedPrimary-3 h1, .greyedPrimary-3 a:hover {
+    color: #838996; }
+  .greyedPrimary-3 h2, .greyedPrimary-3 h3, .greyedPrimary-3 a:visited, .greyedPrimary-3 li {
+    color: #4c516d; }
+  .greyedPrimary-3 a:link {
+    color: #8b8589; }
+  .greyedPrimary-3 h4, .greyedPrimary-3 h5, .greyedPrimary-3 h6, .greyedPrimary-3 p, .greyedPrimary-3 button {
+    color: #989898; }
+
+.greyedPrimary-4 {
+  background: rgba(131, 137, 150, 0.7); }
+  .greyedPrimary-4 h1, .greyedPrimary-4 a:hover {
+    color: #979aaa; }
+  .greyedPrimary-4 h2, .greyedPrimary-4 h3, .greyedPrimary-4 a:visited, .greyedPrimary-4 li {
+    color: #989898; }
+  .greyedPrimary-4 a:link {
+    color: #8b8589; }
+  .greyedPrimary-4 h4, .greyedPrimary-4 h5, .greyedPrimary-4 h6, .greyedPrimary-4 p, .greyedPrimary-4 button {
+    color: #4c516d; }
+
+.bubblegum-1 {
+  background: rgba(255, 147, 172, 0.7); }
+  .bubblegum-1 h1, .bubblegum-1 a:hover {
+    color: #ffc2cd; }
+  .bubblegum-1 h2, .bubblegum-1 h3, .bubblegum-1 a:visited, .bubblegum-1 li {
+    color: #ff6289; }
+  .bubblegum-1 a:link {
+    color: #fc3468; }
+  .bubblegum-1 h4, .bubblegum-1 h5, .bubblegum-1 h6, .bubblegum-1 p, .bubblegum-1 button {
+    color: #ff084a; }
+
+.bubblegum-2 {
+  background: rgba(255, 194, 205, 0.7); }
+  .bubblegum-2 h1, .bubblegum-2 a:hover {
+    color: #ff93ac; }
+  .bubblegum-2 h2, .bubblegum-2 h3, .bubblegum-2 a:visited, .bubblegum-2 li {
+    color: #ff084a; }
+  .bubblegum-2 a:link {
+    color: #fc3468; }
+  .bubblegum-2 h4, .bubblegum-2 h5, .bubblegum-2 h6, .bubblegum-2 p, .bubblegum-2 button {
+    color: #ff6289; }
+
+.bubblegum-3 {
+  background: rgba(252, 52, 104, 0.7); }
+  .bubblegum-3 h1, .bubblegum-3 a:hover {
+    color: #ff6289; }
+  .bubblegum-3 h2, .bubblegum-3 h3, .bubblegum-3 a:visited, .bubblegum-3 li {
+    color: #ff084a; }
+  .bubblegum-3 a:link {
+    color: #ffc2cd; }
+  .bubblegum-3 h4, .bubblegum-3 h5, .bubblegum-3 h6, .bubblegum-3 p, .bubblegum-3 button {
+    color: #ff93ac; }
+
+.bubblegum-4 {
+  background: rgba(255, 98, 137, 0.7); }
+  .bubblegum-4 h1, .bubblegum-4 a:hover {
+    color: #fc3468; }
+  .bubblegum-4 h2, .bubblegum-4 h3, .bubblegum-4 a:visited, .bubblegum-4 li {
+    color: #ff93ac; }
+  .bubblegum-4 a:link {
+    color: #ffc2cd; }
+  .bubblegum-4 h4, .bubblegum-4 h5, .bubblegum-4 h6, .bubblegum-4 p, .bubblegum-4 button {
+    color: #ff084a; }
+
+.pinkSet-1 {
+  background: rgba(255, 153, 204, 0.7); }
+  .pinkSet-1 h1, .pinkSet-1 a:hover {
+    color: #ff77aa; }
+  .pinkSet-1 h2, .pinkSet-1 h3, .pinkSet-1 a:visited, .pinkSet-1 li {
+    color: #ffbbee; }
+  .pinkSet-1 a:link {
+    color: #ff5588; }
+  .pinkSet-1 h4, .pinkSet-1 h5, .pinkSet-1 h6, .pinkSet-1 p, .pinkSet-1 button {
+    color: #ff3377; }
+
+.pinkSet-2 {
+  background: rgba(255, 119, 170, 0.7); }
+  .pinkSet-2 h1, .pinkSet-2 a:hover {
+    color: #ff99cc; }
+  .pinkSet-2 h2, .pinkSet-2 h3, .pinkSet-2 a:visited, .pinkSet-2 li {
+    color: #ff3377; }
+  .pinkSet-2 a:link {
+    color: #ff5588; }
+  .pinkSet-2 h4, .pinkSet-2 h5, .pinkSet-2 h6, .pinkSet-2 p, .pinkSet-2 button {
+    color: #ffbbee; }
+
+.pinkSet-3 {
+  background: rgba(255, 85, 136, 0.7); }
+  .pinkSet-3 h1, .pinkSet-3 a:hover {
+    color: #ffbbee; }
+  .pinkSet-3 h2, .pinkSet-3 h3, .pinkSet-3 a:visited, .pinkSet-3 li {
+    color: #ff3377; }
+  .pinkSet-3 a:link {
+    color: #ff77aa; }
+  .pinkSet-3 h4, .pinkSet-3 h5, .pinkSet-3 h6, .pinkSet-3 p, .pinkSet-3 button {
+    color: #ff99cc; }
+
+.pinkSet-4 {
+  background: rgba(255, 187, 238, 0.7); }
+  .pinkSet-4 h1, .pinkSet-4 a:hover {
+    color: #ff5588; }
+  .pinkSet-4 h2, .pinkSet-4 h3, .pinkSet-4 a:visited, .pinkSet-4 li {
+    color: #ff99cc; }
+  .pinkSet-4 a:link {
+    color: #ff77aa; }
+  .pinkSet-4 h4, .pinkSet-4 h5, .pinkSet-4 h6, .pinkSet-4 p, .pinkSet-4 button {
+    color: #ff3377; }
+
+.aquaSet-1 {
+  background: rgba(0, 255, 255, 0.7); }
+  .aquaSet-1 h1, .aquaSet-1 a:hover {
+    color: #55ffff; }
+  .aquaSet-1 h2, .aquaSet-1 h3, .aquaSet-1 a:visited, .aquaSet-1 li {
+    color: #0000ff; }
+  .aquaSet-1 a:link {
+    color: #38eeff; }
+  .aquaSet-1 h4, .aquaSet-1 h5, .aquaSet-1 h6, .aquaSet-1 p, .aquaSet-1 button {
+    color: #55ffee; }
+
+.aquaSet-2 {
+  background: rgba(85, 255, 255, 0.7); }
+  .aquaSet-2 h1, .aquaSet-2 a:hover {
+    color: #00ffff; }
+  .aquaSet-2 h2, .aquaSet-2 h3, .aquaSet-2 a:visited, .aquaSet-2 li {
+    color: #55ffee; }
+  .aquaSet-2 a:link {
+    color: #38eeff; }
+  .aquaSet-2 h4, .aquaSet-2 h5, .aquaSet-2 h6, .aquaSet-2 p, .aquaSet-2 button {
+    color: #0000ff; }
+
+.aquaSet-3 {
+  background: rgba(56, 238, 255, 0.7); }
+  .aquaSet-3 h1, .aquaSet-3 a:hover {
+    color: #0000ff; }
+  .aquaSet-3 h2, .aquaSet-3 h3, .aquaSet-3 a:visited, .aquaSet-3 li {
+    color: #55ffee; }
+  .aquaSet-3 a:link {
+    color: #55ffff; }
+  .aquaSet-3 h4, .aquaSet-3 h5, .aquaSet-3 h6, .aquaSet-3 p, .aquaSet-3 button {
+    color: #00ffff; }
+
+.aquaSet-4 {
+  background: rgba(0, 0, 255, 0.7); }
+  .aquaSet-4 h1, .aquaSet-4 a:hover {
+    color: #38eeff; }
+  .aquaSet-4 h2, .aquaSet-4 h3, .aquaSet-4 a:visited, .aquaSet-4 li {
+    color: #00ffff; }
+  .aquaSet-4 a:link {
+    color: #55ffff; }
+  .aquaSet-4 h4, .aquaSet-4 h5, .aquaSet-4 h6, .aquaSet-4 p, .aquaSet-4 button {
+    color: #55ffee; }
+
+.redBlack-1 {
+  background: rgba(191, 0, 0, 0.7); }
+  .redBlack-1 h1, .redBlack-1 a:hover {
+    color: #ff0000; }
+  .redBlack-1 h2, .redBlack-1 h3, .redBlack-1 a:visited, .redBlack-1 li {
+    color: #800000; }
+  .redBlack-1 a:link {
+    color: #400000; }
+  .redBlack-1 h4, .redBlack-1 h5, .redBlack-1 h6, .redBlack-1 p, .redBlack-1 button {
+    color: #000000; }
+
+.redBlack-2 {
+  background: rgba(255, 0, 0, 0.7); }
+  .redBlack-2 h1, .redBlack-2 a:hover {
+    color: #bf0000; }
+  .redBlack-2 h2, .redBlack-2 h3, .redBlack-2 a:visited, .redBlack-2 li {
+    color: #000000; }
+  .redBlack-2 a:link {
+    color: #400000; }
+  .redBlack-2 h4, .redBlack-2 h5, .redBlack-2 h6, .redBlack-2 p, .redBlack-2 button {
+    color: #800000; }
+
+.redBlack-3 {
+  background: rgba(64, 0, 0, 0.7); }
+  .redBlack-3 h1, .redBlack-3 a:hover {
+    color: #800000; }
+  .redBlack-3 h2, .redBlack-3 h3, .redBlack-3 a:visited, .redBlack-3 li {
+    color: #000000; }
+  .redBlack-3 a:link {
+    color: #ff0000; }
+  .redBlack-3 h4, .redBlack-3 h5, .redBlack-3 h6, .redBlack-3 p, .redBlack-3 button {
+    color: #bf0000; }
+
+.redBlack-4 {
+  background: rgba(128, 0, 0, 0.7); }
+  .redBlack-4 h1, .redBlack-4 a:hover {
+    color: #400000; }
+  .redBlack-4 h2, .redBlack-4 h3, .redBlack-4 a:visited, .redBlack-4 li {
+    color: #bf0000; }
+  .redBlack-4 a:link {
+    color: #ff0000; }
+  .redBlack-4 h4, .redBlack-4 h5, .redBlack-4 h6, .redBlack-4 p, .redBlack-4 button {
+    color: #000000; }
+
+.bright-1 {
+  background: rgba(0, 255, 0, 0.7); }
+  .bright-1 h1, .bright-1 a:hover {
+    color: #00ffff; }
+  .bright-1 h2, .bright-1 h3, .bright-1 a:visited, .bright-1 li {
+    color: #ffff00; }
+  .bright-1 a:link {
+    color: #ffba00; }
+  .bright-1 h4, .bright-1 h5, .bright-1 h6, .bright-1 p, .bright-1 button {
+    color: #ff0000; }
+
+.bright-2 {
+  background: rgba(0, 255, 255, 0.7); }
+  .bright-2 h1, .bright-2 a:hover {
+    color: #00ff00; }
+  .bright-2 h2, .bright-2 h3, .bright-2 a:visited, .bright-2 li {
+    color: #ff0000; }
+  .bright-2 a:link {
+    color: #ffba00; }
+  .bright-2 h4, .bright-2 h5, .bright-2 h6, .bright-2 p, .bright-2 button {
+    color: #ffff00; }
+
+.bright-3 {
+  background: rgba(255, 186, 0, 0.7); }
+  .bright-3 h1, .bright-3 a:hover {
+    color: #ffff00; }
+  .bright-3 h2, .bright-3 h3, .bright-3 a:visited, .bright-3 li {
+    color: #ff0000; }
+  .bright-3 a:link {
+    color: #00ffff; }
+  .bright-3 h4, .bright-3 h5, .bright-3 h6, .bright-3 p, .bright-3 button {
+    color: #00ff00; }
+
+.bright-4 {
+  background: rgba(255, 255, 0, 0.7); }
+  .bright-4 h1, .bright-4 a:hover {
+    color: #ffba00; }
+  .bright-4 h2, .bright-4 h3, .bright-4 a:visited, .bright-4 li {
+    color: #00ff00; }
+  .bright-4 a:link {
+    color: #00ffff; }
+  .bright-4 h4, .bright-4 h5, .bright-4 h6, .bright-4 p, .bright-4 button {
+    color: #ff0000; }
+
+.midnight-1 {
+  background: rgba(73, 50, 103, 0.7); }
+  .midnight-1 h1, .midnight-1 a:hover {
+    color: #373854; }
+  .midnight-1 h2, .midnight-1 h3, .midnight-1 a:visited, .midnight-1 li {
+    color: #9e379f; }
+  .midnight-1 a:link {
+    color: #e86af0; }
+  .midnight-1 h4, .midnight-1 h5, .midnight-1 h6, .midnight-1 p, .midnight-1 button {
+    color: #7bb3ff; }
+
+.midnight-2 {
+  background: rgba(55, 56, 84, 0.7); }
+  .midnight-2 h1, .midnight-2 a:hover {
+    color: #493267; }
+  .midnight-2 h2, .midnight-2 h3, .midnight-2 a:visited, .midnight-2 li {
+    color: #7bb3ff; }
+  .midnight-2 a:link {
+    color: #e86af0; }
+  .midnight-2 h4, .midnight-2 h5, .midnight-2 h6, .midnight-2 p, .midnight-2 button {
+    color: #9e379f; }
+
+.midnight-3 {
+  background: rgba(232, 106, 240, 0.7); }
+  .midnight-3 h1, .midnight-3 a:hover {
+    color: #9e379f; }
+  .midnight-3 h2, .midnight-3 h3, .midnight-3 a:visited, .midnight-3 li {
+    color: #7bb3ff; }
+  .midnight-3 a:link {
+    color: #373854; }
+  .midnight-3 h4, .midnight-3 h5, .midnight-3 h6, .midnight-3 p, .midnight-3 button {
+    color: #493267; }
+
+.midnight-4 {
+  background: rgba(158, 55, 159, 0.7); }
+  .midnight-4 h1, .midnight-4 a:hover {
+    color: #e86af0; }
+  .midnight-4 h2, .midnight-4 h3, .midnight-4 a:visited, .midnight-4 li {
+    color: #493267; }
+  .midnight-4 a:link {
+    color: #373854; }
+  .midnight-4 h4, .midnight-4 h5, .midnight-4 h6, .midnight-4 p, .midnight-4 button {
+    color: #7bb3ff; }
+
+.camplight-1 {
+  background: rgba(62, 63, 77, 0.7); }
+  .camplight-1 h1, .camplight-1 a:hover {
+    color: #2d2222; }
+  .camplight-1 h2, .camplight-1 h3, .camplight-1 a:visited, .camplight-1 li {
+    color: #6f6441; }
+  .camplight-1 a:link {
+    color: #949159; }
+  .camplight-1 h4, .camplight-1 h5, .camplight-1 h6, .camplight-1 p, .camplight-1 button {
+    color: #aec971; }
+
+.camplight-2 {
+  background: rgba(45, 34, 34, 0.7); }
+  .camplight-2 h1, .camplight-2 a:hover {
+    color: #3e3f4d; }
+  .camplight-2 h2, .camplight-2 h3, .camplight-2 a:visited, .camplight-2 li {
+    color: #aec971; }
+  .camplight-2 a:link {
+    color: #949159; }
+  .camplight-2 h4, .camplight-2 h5, .camplight-2 h6, .camplight-2 p, .camplight-2 button {
+    color: #6f6441; }
+
+.camplight-3 {
+  background: rgba(148, 145, 89, 0.7); }
+  .camplight-3 h1, .camplight-3 a:hover {
+    color: #6f6441; }
+  .camplight-3 h2, .camplight-3 h3, .camplight-3 a:visited, .camplight-3 li {
+    color: #aec971; }
+  .camplight-3 a:link {
+    color: #2d2222; }
+  .camplight-3 h4, .camplight-3 h5, .camplight-3 h6, .camplight-3 p, .camplight-3 button {
+    color: #3e3f4d; }
+
+.camplight-4 {
+  background: rgba(111, 100, 65, 0.7); }
+  .camplight-4 h1, .camplight-4 a:hover {
+    color: #949159; }
+  .camplight-4 h2, .camplight-4 h3, .camplight-4 a:visited, .camplight-4 li {
+    color: #3e3f4d; }
+  .camplight-4 a:link {
+    color: #2d2222; }
+  .camplight-4 h4, .camplight-4 h5, .camplight-4 h6, .camplight-4 p, .camplight-4 button {
+    color: #aec971; }
+
+.campfire-1 {
+  background: rgba(75, 51, 44, 0.7); }
+  .campfire-1 h1, .campfire-1 a:hover {
+    color: #23191a; }
+  .campfire-1 h2, .campfire-1 h3, .campfire-1 a:visited, .campfire-1 li {
+    color: #824634; }
+  .campfire-1 a:link {
+    color: #be7864; }
+  .campfire-1 h4, .campfire-1 h5, .campfire-1 h6, .campfire-1 p, .campfire-1 button {
+    color: #6b7074; }
+
+.campfire-2 {
+  background: rgba(35, 25, 26, 0.7); }
+  .campfire-2 h1, .campfire-2 a:hover {
+    color: #4b332c; }
+  .campfire-2 h2, .campfire-2 h3, .campfire-2 a:visited, .campfire-2 li {
+    color: #6b7074; }
+  .campfire-2 a:link {
+    color: #be7864; }
+  .campfire-2 h4, .campfire-2 h5, .campfire-2 h6, .campfire-2 p, .campfire-2 button {
+    color: #824634; }
+
+.campfire-3 {
+  background: rgba(190, 120, 100, 0.7); }
+  .campfire-3 h1, .campfire-3 a:hover {
+    color: #824634; }
+  .campfire-3 h2, .campfire-3 h3, .campfire-3 a:visited, .campfire-3 li {
+    color: #6b7074; }
+  .campfire-3 a:link {
+    color: #23191a; }
+  .campfire-3 h4, .campfire-3 h5, .campfire-3 h6, .campfire-3 p, .campfire-3 button {
+    color: #4b332c; }
+
+.campfire-4 {
+  background: rgba(130, 70, 52, 0.7); }
+  .campfire-4 h1, .campfire-4 a:hover {
+    color: #be7864; }
+  .campfire-4 h2, .campfire-4 h3, .campfire-4 a:visited, .campfire-4 li {
+    color: #4b332c; }
+  .campfire-4 a:link {
+    color: #23191a; }
+  .campfire-4 h4, .campfire-4 h5, .campfire-4 h6, .campfire-4 p, .campfire-4 button {
+    color: #6b7074; }
+
+.seafoam-1 {
+  background: rgba(160, 214, 180, 0.7); }
+  .seafoam-1 h1, .seafoam-1 a:hover {
+    color: #a3c1ad; }
+  .seafoam-1 h2, .seafoam-1 h3, .seafoam-1 a:visited, .seafoam-1 li {
+    color: #5f9ea0; }
+  .seafoam-1 a:link {
+    color: #317873; }
+  .seafoam-1 h4, .seafoam-1 h5, .seafoam-1 h6, .seafoam-1 p, .seafoam-1 button {
+    color: #49796b; }
+
+.seafoam-2 {
+  background: rgba(163, 193, 173, 0.7); }
+  .seafoam-2 h1, .seafoam-2 a:hover {
+    color: #a0d6b4; }
+  .seafoam-2 h2, .seafoam-2 h3, .seafoam-2 a:visited, .seafoam-2 li {
+    color: #49796b; }
+  .seafoam-2 a:link {
+    color: #317873; }
+  .seafoam-2 h4, .seafoam-2 h5, .seafoam-2 h6, .seafoam-2 p, .seafoam-2 button {
+    color: #5f9ea0; }
+
+.seafoam-3 {
+  background: rgba(49, 120, 115, 0.7); }
+  .seafoam-3 h1, .seafoam-3 a:hover {
+    color: #5f9ea0; }
+  .seafoam-3 h2, .seafoam-3 h3, .seafoam-3 a:visited, .seafoam-3 li {
+    color: #49796b; }
+  .seafoam-3 a:link {
+    color: #a3c1ad; }
+  .seafoam-3 h4, .seafoam-3 h5, .seafoam-3 h6, .seafoam-3 p, .seafoam-3 button {
+    color: #a0d6b4; }
+
+.seafoam-4 {
+  background: rgba(95, 158, 160, 0.7); }
+  .seafoam-4 h1, .seafoam-4 a:hover {
+    color: #317873; }
+  .seafoam-4 h2, .seafoam-4 h3, .seafoam-4 a:visited, .seafoam-4 li {
+    color: #a0d6b4; }
+  .seafoam-4 a:link {
+    color: #a3c1ad; }
+  .seafoam-4 h4, .seafoam-4 h5, .seafoam-4 h6, .seafoam-4 p, .seafoam-4 button {
+    color: #49796b; }
+
+.ocean-1 {
+  background: rgba(125, 249, 255, 0.7); }
+  .ocean-1 h1, .ocean-1 a:hover {
+    color: #c6c386; }
+  .ocean-1 h2, .ocean-1 h3, .ocean-1 a:visited, .ocean-1 li {
+    color: #0095b6; }
+  .ocean-1 a:link {
+    color: #0892d0; }
+  .ocean-1 h4, .ocean-1 h5, .ocean-1 h6, .ocean-1 p, .ocean-1 button {
+    color: #000000; }
+
+.ocean-2 {
+  background: rgba(198, 195, 134, 0.7); }
+  .ocean-2 h1, .ocean-2 a:hover {
+    color: #7df9ff; }
+  .ocean-2 h2, .ocean-2 h3, .ocean-2 a:visited, .ocean-2 li {
+    color: #000000; }
+  .ocean-2 a:link {
+    color: #0892d0; }
+  .ocean-2 h4, .ocean-2 h5, .ocean-2 h6, .ocean-2 p, .ocean-2 button {
+    color: #0095b6; }
+
+.ocean-3 {
+  background: rgba(8, 146, 208, 0.7); }
+  .ocean-3 h1, .ocean-3 a:hover {
+    color: #0095b6; }
+  .ocean-3 h2, .ocean-3 h3, .ocean-3 a:visited, .ocean-3 li {
+    color: #000000; }
+  .ocean-3 a:link {
+    color: #c6c386; }
+  .ocean-3 h4, .ocean-3 h5, .ocean-3 h6, .ocean-3 p, .ocean-3 button {
+    color: #7df9ff; }
+
+.ocean-4 {
+  background: rgba(0, 149, 182, 0.7); }
+  .ocean-4 h1, .ocean-4 a:hover {
+    color: #0892d0; }
+  .ocean-4 h2, .ocean-4 h3, .ocean-4 a:visited, .ocean-4 li {
+    color: #7df9ff; }
+  .ocean-4 a:link {
+    color: #c6c386; }
+  .ocean-4 h4, .ocean-4 h5, .ocean-4 h6, .ocean-4 p, .ocean-4 button {
+    color: #000000; }
+
+.deepOcean-1 {
+  background: rgba(12, 81, 73, 0.7); }
+  .deepOcean-1 h1, .deepOcean-1 a:hover {
+    color: #19817e; }
+  .deepOcean-1 h2, .deepOcean-1 h3, .deepOcean-1 a:visited, .deepOcean-1 li {
+    color: #0a423b; }
+  .deepOcean-1 a:link {
+    color: #0c3830; }
+  .deepOcean-1 h4, .deepOcean-1 h5, .deepOcean-1 h6, .deepOcean-1 p, .deepOcean-1 button {
+    color: #02130f; }
+
+.deepOcean-2 {
+  background: rgba(25, 129, 126, 0.7); }
+  .deepOcean-2 h1, .deepOcean-2 a:hover {
+    color: #0c5149; }
+  .deepOcean-2 h2, .deepOcean-2 h3, .deepOcean-2 a:visited, .deepOcean-2 li {
+    color: #02130f; }
+  .deepOcean-2 a:link {
+    color: #0c3830; }
+  .deepOcean-2 h4, .deepOcean-2 h5, .deepOcean-2 h6, .deepOcean-2 p, .deepOcean-2 button {
+    color: #0a423b; }
+
+.deepOcean-3 {
+  background: rgba(12, 56, 48, 0.7); }
+  .deepOcean-3 h1, .deepOcean-3 a:hover {
+    color: #0a423b; }
+  .deepOcean-3 h2, .deepOcean-3 h3, .deepOcean-3 a:visited, .deepOcean-3 li {
+    color: #02130f; }
+  .deepOcean-3 a:link {
+    color: #19817e; }
+  .deepOcean-3 h4, .deepOcean-3 h5, .deepOcean-3 h6, .deepOcean-3 p, .deepOcean-3 button {
+    color: #0c5149; }
+
+.deepOcean-4 {
+  background: rgba(10, 66, 59, 0.7); }
+  .deepOcean-4 h1, .deepOcean-4 a:hover {
+    color: #0c3830; }
+  .deepOcean-4 h2, .deepOcean-4 h3, .deepOcean-4 a:visited, .deepOcean-4 li {
+    color: #0c5149; }
+  .deepOcean-4 a:link {
+    color: #19817e; }
+  .deepOcean-4 h4, .deepOcean-4 h5, .deepOcean-4 h6, .deepOcean-4 p, .deepOcean-4 button {
+    color: #02130f; }
+
+.lake-1 {
+  background: rgba(216, 252, 194, 0.7); }
+  .lake-1 h1, .lake-1 a:hover {
+    color: #e5fcc2; }
+  .lake-1 h2, .lake-1 h3, .lake-1 a:visited, .lake-1 li {
+    color: #9de0ad; }
+  .lake-1 a:link {
+    color: #45ada8; }
+  .lake-1 h4, .lake-1 h5, .lake-1 h6, .lake-1 p, .lake-1 button {
+    color: #547980; }
+
+.lake-2 {
+  background: rgba(229, 252, 194, 0.7); }
+  .lake-2 h1, .lake-2 a:hover {
+    color: #d8fcc2; }
+  .lake-2 h2, .lake-2 h3, .lake-2 a:visited, .lake-2 li {
+    color: #547980; }
+  .lake-2 a:link {
+    color: #45ada8; }
+  .lake-2 h4, .lake-2 h5, .lake-2 h6, .lake-2 p, .lake-2 button {
+    color: #9de0ad; }
+
+.lake-3 {
+  background: rgba(69, 173, 168, 0.7); }
+  .lake-3 h1, .lake-3 a:hover {
+    color: #9de0ad; }
+  .lake-3 h2, .lake-3 h3, .lake-3 a:visited, .lake-3 li {
+    color: #547980; }
+  .lake-3 a:link {
+    color: #e5fcc2; }
+  .lake-3 h4, .lake-3 h5, .lake-3 h6, .lake-3 p, .lake-3 button {
+    color: #d8fcc2; }
+
+.lake-4 {
+  background: rgba(157, 224, 173, 0.7); }
+  .lake-4 h1, .lake-4 a:hover {
+    color: #45ada8; }
+  .lake-4 h2, .lake-4 h3, .lake-4 a:visited, .lake-4 li {
+    color: #d8fcc2; }
+  .lake-4 a:link {
+    color: #e5fcc2; }
+  .lake-4 h4, .lake-4 h5, .lake-4 h6, .lake-4 p, .lake-4 button {
+    color: #547980; }
+
+.puddle-1 {
+  background: rgba(177, 255, 206, 0.7); }
+  .puddle-1 h1, .puddle-1 a:hover {
+    color: #ffffff; }
+  .puddle-1 h2, .puddle-1 h3, .puddle-1 a:visited, .puddle-1 li {
+    color: #8cffc8; }
+  .puddle-1 a:link {
+    color: #66ecff; }
+  .puddle-1 h4, .puddle-1 h5, .puddle-1 h6, .puddle-1 p, .puddle-1 button {
+    color: #7dd5ff; }
+
+.puddle-2 {
+  background: rgba(255, 255, 255, 0.7); }
+  .puddle-2 h1, .puddle-2 a:hover {
+    color: #b1ffce; }
+  .puddle-2 h2, .puddle-2 h3, .puddle-2 a:visited, .puddle-2 li {
+    color: #7dd5ff; }
+  .puddle-2 a:link {
+    color: #66ecff; }
+  .puddle-2 h4, .puddle-2 h5, .puddle-2 h6, .puddle-2 p, .puddle-2 button {
+    color: #8cffc8; }
+
+.puddle-3 {
+  background: rgba(102, 236, 255, 0.7); }
+  .puddle-3 h1, .puddle-3 a:hover {
+    color: #8cffc8; }
+  .puddle-3 h2, .puddle-3 h3, .puddle-3 a:visited, .puddle-3 li {
+    color: #7dd5ff; }
+  .puddle-3 a:link {
+    color: #ffffff; }
+  .puddle-3 h4, .puddle-3 h5, .puddle-3 h6, .puddle-3 p, .puddle-3 button {
+    color: #b1ffce; }
+
+.puddle-4 {
+  background: rgba(140, 255, 200, 0.7); }
+  .puddle-4 h1, .puddle-4 a:hover {
+    color: #66ecff; }
+  .puddle-4 h2, .puddle-4 h3, .puddle-4 a:visited, .puddle-4 li {
+    color: #b1ffce; }
+  .puddle-4 a:link {
+    color: #ffffff; }
+  .puddle-4 h4, .puddle-4 h5, .puddle-4 h6, .puddle-4 p, .puddle-4 button {
+    color: #7dd5ff; }
+
+.nordicNight-1 {
+  background: rgba(154, 172, 184, 0.7); }
+  .nordicNight-1 h1, .nordicNight-1 a:hover {
+    color: #dde2e3; }
+  .nordicNight-1 h2, .nordicNight-1 h3, .nordicNight-1 a:visited, .nordicNight-1 li {
+    color: #b37c57; }
+  .nordicNight-1 a:link {
+    color: #3c455c; }
+  .nordicNight-1 h4, .nordicNight-1 h5, .nordicNight-1 h6, .nordicNight-1 p, .nordicNight-1 button {
+    color: #60412b; }
+
+.nordicNight-2 {
+  background: rgba(221, 226, 227, 0.7); }
+  .nordicNight-2 h1, .nordicNight-2 a:hover {
+    color: #9aacb8; }
+  .nordicNight-2 h2, .nordicNight-2 h3, .nordicNight-2 a:visited, .nordicNight-2 li {
+    color: #60412b; }
+  .nordicNight-2 a:link {
+    color: #3c455c; }
+  .nordicNight-2 h4, .nordicNight-2 h5, .nordicNight-2 h6, .nordicNight-2 p, .nordicNight-2 button {
+    color: #b37c57; }
+
+.nordicNight-3 {
+  background: rgba(60, 69, 92, 0.7); }
+  .nordicNight-3 h1, .nordicNight-3 a:hover {
+    color: #b37c57; }
+  .nordicNight-3 h2, .nordicNight-3 h3, .nordicNight-3 a:visited, .nordicNight-3 li {
+    color: #60412b; }
+  .nordicNight-3 a:link {
+    color: #dde2e3; }
+  .nordicNight-3 h4, .nordicNight-3 h5, .nordicNight-3 h6, .nordicNight-3 p, .nordicNight-3 button {
+    color: #9aacb8; }
+
+.nordicNight-4 {
+  background: rgba(179, 124, 87, 0.7); }
+  .nordicNight-4 h1, .nordicNight-4 a:hover {
+    color: #3c455c; }
+  .nordicNight-4 h2, .nordicNight-4 h3, .nordicNight-4 a:visited, .nordicNight-4 li {
+    color: #9aacb8; }
+  .nordicNight-4 a:link {
+    color: #dde2e3; }
+  .nordicNight-4 h4, .nordicNight-4 h5, .nordicNight-4 h6, .nordicNight-4 p, .nordicNight-4 button {
+    color: #60412b; }
+
+.smokeybear-1 {
+  background: rgba(156, 202, 108, 0.7); }
+  .smokeybear-1 h1, .smokeybear-1 a:hover {
+    color: #539b4b; }
+  .smokeybear-1 h2, .smokeybear-1 h3, .smokeybear-1 a:visited, .smokeybear-1 li {
+    color: #ffea80; }
+  .smokeybear-1 a:link {
+    color: #ff984a; }
+  .smokeybear-1 h4, .smokeybear-1 h5, .smokeybear-1 h6, .smokeybear-1 p, .smokeybear-1 button {
+    color: #d94322; }
+
+.smokeybear-2 {
+  background: rgba(83, 155, 75, 0.7); }
+  .smokeybear-2 h1, .smokeybear-2 a:hover {
+    color: #9cca6c; }
+  .smokeybear-2 h2, .smokeybear-2 h3, .smokeybear-2 a:visited, .smokeybear-2 li {
+    color: #d94322; }
+  .smokeybear-2 a:link {
+    color: #ff984a; }
+  .smokeybear-2 h4, .smokeybear-2 h5, .smokeybear-2 h6, .smokeybear-2 p, .smokeybear-2 button {
+    color: #ffea80; }
+
+.smokeybear-3 {
+  background: rgba(255, 152, 74, 0.7); }
+  .smokeybear-3 h1, .smokeybear-3 a:hover {
+    color: #ffea80; }
+  .smokeybear-3 h2, .smokeybear-3 h3, .smokeybear-3 a:visited, .smokeybear-3 li {
+    color: #d94322; }
+  .smokeybear-3 a:link {
+    color: #539b4b; }
+  .smokeybear-3 h4, .smokeybear-3 h5, .smokeybear-3 h6, .smokeybear-3 p, .smokeybear-3 button {
+    color: #9cca6c; }
+
+.smokeybear-4 {
+  background: rgba(255, 234, 128, 0.7); }
+  .smokeybear-4 h1, .smokeybear-4 a:hover {
+    color: #ff984a; }
+  .smokeybear-4 h2, .smokeybear-4 h3, .smokeybear-4 a:visited, .smokeybear-4 li {
+    color: #9cca6c; }
+  .smokeybear-4 a:link {
+    color: #539b4b; }
+  .smokeybear-4 h4, .smokeybear-4 h5, .smokeybear-4 h6, .smokeybear-4 p, .smokeybear-4 button {
+    color: #d94322; }
+
+.mermaid-1 {
+  background: rgba(127, 221, 234, 0.7); }
+  .mermaid-1 h1, .mermaid-1 a:hover {
+    color: #a0ffdb; }
+  .mermaid-1 h2, .mermaid-1 h3, .mermaid-1 a:visited, .mermaid-1 li {
+    color: #839cf2; }
+  .mermaid-1 a:link {
+    color: #a15fd8; }
+  .mermaid-1 h4, .mermaid-1 h5, .mermaid-1 h6, .mermaid-1 p, .mermaid-1 button {
+    color: #a34aae; }
+
+.mermaid-2 {
+  background: rgba(160, 255, 219, 0.7); }
+  .mermaid-2 h1, .mermaid-2 a:hover {
+    color: #7fddea; }
+  .mermaid-2 h2, .mermaid-2 h3, .mermaid-2 a:visited, .mermaid-2 li {
+    color: #a34aae; }
+  .mermaid-2 a:link {
+    color: #a15fd8; }
+  .mermaid-2 h4, .mermaid-2 h5, .mermaid-2 h6, .mermaid-2 p, .mermaid-2 button {
+    color: #839cf2; }
+
+.mermaid-3 {
+  background: rgba(161, 95, 216, 0.7); }
+  .mermaid-3 h1, .mermaid-3 a:hover {
+    color: #839cf2; }
+  .mermaid-3 h2, .mermaid-3 h3, .mermaid-3 a:visited, .mermaid-3 li {
+    color: #a34aae; }
+  .mermaid-3 a:link {
+    color: #a0ffdb; }
+  .mermaid-3 h4, .mermaid-3 h5, .mermaid-3 h6, .mermaid-3 p, .mermaid-3 button {
+    color: #7fddea; }
+
+.mermaid-4 {
+  background: rgba(131, 156, 242, 0.7); }
+  .mermaid-4 h1, .mermaid-4 a:hover {
+    color: #a15fd8; }
+  .mermaid-4 h2, .mermaid-4 h3, .mermaid-4 a:visited, .mermaid-4 li {
+    color: #7fddea; }
+  .mermaid-4 a:link {
+    color: #a0ffdb; }
+  .mermaid-4 h4, .mermaid-4 h5, .mermaid-4 h6, .mermaid-4 p, .mermaid-4 button {
+    color: #a34aae; }
+
+.treasure-1 {
+  background: rgba(36, 126, 97, 0.7); }
+  .treasure-1 h1, .treasure-1 a:hover {
+    color: #1d6f5d; }
+  .treasure-1 h2, .treasure-1 h3, .treasure-1 a:visited, .treasure-1 li {
+    color: #7deec9; }
+  .treasure-1 a:link {
+    color: #64dbba; }
+  .treasure-1 h4, .treasure-1 h5, .treasure-1 h6, .treasure-1 p, .treasure-1 button {
+    color: #f4b318; }
+
+.treasure-2 {
+  background: rgba(29, 111, 93, 0.7); }
+  .treasure-2 h1, .treasure-2 a:hover {
+    color: #247e61; }
+  .treasure-2 h2, .treasure-2 h3, .treasure-2 a:visited, .treasure-2 li {
+    color: #f4b318; }
+  .treasure-2 a:link {
+    color: #64dbba; }
+  .treasure-2 h4, .treasure-2 h5, .treasure-2 h6, .treasure-2 p, .treasure-2 button {
+    color: #7deec9; }
+
+.treasure-3 {
+  background: rgba(100, 219, 186, 0.7); }
+  .treasure-3 h1, .treasure-3 a:hover {
+    color: #7deec9; }
+  .treasure-3 h2, .treasure-3 h3, .treasure-3 a:visited, .treasure-3 li {
+    color: #f4b318; }
+  .treasure-3 a:link {
+    color: #1d6f5d; }
+  .treasure-3 h4, .treasure-3 h5, .treasure-3 h6, .treasure-3 p, .treasure-3 button {
+    color: #247e61; }
+
+.treasure-4 {
+  background: rgba(125, 238, 201, 0.7); }
+  .treasure-4 h1, .treasure-4 a:hover {
+    color: #64dbba; }
+  .treasure-4 h2, .treasure-4 h3, .treasure-4 a:visited, .treasure-4 li {
+    color: #247e61; }
+  .treasure-4 a:link {
+    color: #1d6f5d; }
+  .treasure-4 h4, .treasure-4 h5, .treasure-4 h6, .treasure-4 p, .treasure-4 button {
+    color: #f4b318; }
+
+.murky-1 {
+  background: rgba(110, 180, 150, 0.7); }
+  .murky-1 h1, .murky-1 a:hover {
+    color: #82bda9; }
+  .murky-1 h2, .murky-1 h3, .murky-1 a:visited, .murky-1 li {
+    color: #4cab96; }
+  .murky-1 a:link {
+    color: #469c84; }
+  .murky-1 h4, .murky-1 h5, .murky-1 h6, .murky-1 p, .murky-1 button {
+    color: #2e9070; }
+
+.murky-2 {
+  background: rgba(130, 189, 169, 0.7); }
+  .murky-2 h1, .murky-2 a:hover {
+    color: #6eb496; }
+  .murky-2 h2, .murky-2 h3, .murky-2 a:visited, .murky-2 li {
+    color: #2e9070; }
+  .murky-2 a:link {
+    color: #469c84; }
+  .murky-2 h4, .murky-2 h5, .murky-2 h6, .murky-2 p, .murky-2 button {
+    color: #4cab96; }
+
+.murky-3 {
+  background: rgba(70, 156, 132, 0.7); }
+  .murky-3 h1, .murky-3 a:hover {
+    color: #4cab96; }
+  .murky-3 h2, .murky-3 h3, .murky-3 a:visited, .murky-3 li {
+    color: #2e9070; }
+  .murky-3 a:link {
+    color: #82bda9; }
+  .murky-3 h4, .murky-3 h5, .murky-3 h6, .murky-3 p, .murky-3 button {
+    color: #6eb496; }
+
+.murky-4 {
+  background: rgba(76, 171, 150, 0.7); }
+  .murky-4 h1, .murky-4 a:hover {
+    color: #469c84; }
+  .murky-4 h2, .murky-4 h3, .murky-4 a:visited, .murky-4 li {
+    color: #6eb496; }
+  .murky-4 a:link {
+    color: #82bda9; }
+  .murky-4 h4, .murky-4 h5, .murky-4 h6, .murky-4 p, .murky-4 button {
+    color: #2e9070; }
+
+.morning-1 {
+  background: rgba(228, 158, 61, 0.7); }
+  .morning-1 h1, .morning-1 a:hover {
+    color: #000000; }
+  .morning-1 h2, .morning-1 h3, .morning-1 a:visited, .morning-1 li {
+    color: #e4ff95; }
+  .morning-1 a:link {
+    color: #0ad79e; }
+  .morning-1 h4, .morning-1 h5, .morning-1 h6, .morning-1 p, .morning-1 button {
+    color: #221f5e; }
+
+.morning-2 {
+  background: rgba(0, 0, 0, 0.7); }
+  .morning-2 h1, .morning-2 a:hover {
+    color: #e49e3d; }
+  .morning-2 h2, .morning-2 h3, .morning-2 a:visited, .morning-2 li {
+    color: #221f5e; }
+  .morning-2 a:link {
+    color: #0ad79e; }
+  .morning-2 h4, .morning-2 h5, .morning-2 h6, .morning-2 p, .morning-2 button {
+    color: #e4ff95; }
+
+.morning-3 {
+  background: rgba(10, 215, 158, 0.7); }
+  .morning-3 h1, .morning-3 a:hover {
+    color: #e4ff95; }
+  .morning-3 h2, .morning-3 h3, .morning-3 a:visited, .morning-3 li {
+    color: #221f5e; }
+  .morning-3 a:link {
+    color: #000000; }
+  .morning-3 h4, .morning-3 h5, .morning-3 h6, .morning-3 p, .morning-3 button {
+    color: #e49e3d; }
+
+.morning-4 {
+  background: rgba(228, 255, 149, 0.7); }
+  .morning-4 h1, .morning-4 a:hover {
+    color: #0ad79e; }
+  .morning-4 h2, .morning-4 h3, .morning-4 a:visited, .morning-4 li {
+    color: #e49e3d; }
+  .morning-4 a:link {
+    color: #000000; }
+  .morning-4 h4, .morning-4 h5, .morning-4 h6, .morning-4 p, .morning-4 button {
+    color: #221f5e; }
+
+.winterbee-1 {
+  background: rgba(82, 74, 107, 0.7); }
+  .winterbee-1 h1, .winterbee-1 a:hover {
+    color: #66608d; }
+  .winterbee-1 h2, .winterbee-1 h3, .winterbee-1 a:visited, .winterbee-1 li {
+    color: #3b3756; }
+  .winterbee-1 a:link {
+    color: #f1f272; }
+  .winterbee-1 h4, .winterbee-1 h5, .winterbee-1 h6, .winterbee-1 p, .winterbee-1 button {
+    color: #d5d667; }
+
+.winterbee-2 {
+  background: rgba(102, 96, 141, 0.7); }
+  .winterbee-2 h1, .winterbee-2 a:hover {
+    color: #524a6b; }
+  .winterbee-2 h2, .winterbee-2 h3, .winterbee-2 a:visited, .winterbee-2 li {
+    color: #d5d667; }
+  .winterbee-2 a:link {
+    color: #f1f272; }
+  .winterbee-2 h4, .winterbee-2 h5, .winterbee-2 h6, .winterbee-2 p, .winterbee-2 button {
+    color: #3b3756; }
+
+.winterbee-3 {
+  background: rgba(241, 242, 114, 0.7); }
+  .winterbee-3 h1, .winterbee-3 a:hover {
+    color: #3b3756; }
+  .winterbee-3 h2, .winterbee-3 h3, .winterbee-3 a:visited, .winterbee-3 li {
+    color: #d5d667; }
+  .winterbee-3 a:link {
+    color: #66608d; }
+  .winterbee-3 h4, .winterbee-3 h5, .winterbee-3 h6, .winterbee-3 p, .winterbee-3 button {
+    color: #524a6b; }
+
+.winterbee-4 {
+  background: rgba(59, 55, 86, 0.7); }
+  .winterbee-4 h1, .winterbee-4 a:hover {
+    color: #f1f272; }
+  .winterbee-4 h2, .winterbee-4 h3, .winterbee-4 a:visited, .winterbee-4 li {
+    color: #524a6b; }
+  .winterbee-4 a:link {
+    color: #66608d; }
+  .winterbee-4 h4, .winterbee-4 h5, .winterbee-4 h6, .winterbee-4 p, .winterbee-4 button {
+    color: #d5d667; }
+
+.beach-1 {
+  background: rgba(255, 238, 173, 0.7); }
+  .beach-1 h1, .beach-1 a:hover {
+    color: #96ceb4; }
+  .beach-1 h2, .beach-1 h3, .beach-1 a:visited, .beach-1 li {
+    color: #ff6f69; }
+  .beach-1 a:link {
+    color: #ffcc5c; }
+  .beach-1 h4, .beach-1 h5, .beach-1 h6, .beach-1 p, .beach-1 button {
+    color: #88d8b0; }
+
+.beach-2 {
+  background: rgba(150, 206, 180, 0.7); }
+  .beach-2 h1, .beach-2 a:hover {
+    color: #ffeead; }
+  .beach-2 h2, .beach-2 h3, .beach-2 a:visited, .beach-2 li {
+    color: #88d8b0; }
+  .beach-2 a:link {
+    color: #ffcc5c; }
+  .beach-2 h4, .beach-2 h5, .beach-2 h6, .beach-2 p, .beach-2 button {
+    color: #ff6f69; }
+
+.beach-3 {
+  background: rgba(255, 204, 92, 0.7); }
+  .beach-3 h1, .beach-3 a:hover {
+    color: #ff6f69; }
+  .beach-3 h2, .beach-3 h3, .beach-3 a:visited, .beach-3 li {
+    color: #88d8b0; }
+  .beach-3 a:link {
+    color: #96ceb4; }
+  .beach-3 h4, .beach-3 h5, .beach-3 h6, .beach-3 p, .beach-3 button {
+    color: #ffeead; }
+
+.beach-4 {
+  background: rgba(255, 111, 105, 0.7); }
+  .beach-4 h1, .beach-4 a:hover {
+    color: #ffcc5c; }
+  .beach-4 h2, .beach-4 h3, .beach-4 a:visited, .beach-4 li {
+    color: #ffeead; }
+  .beach-4 a:link {
+    color: #96ceb4; }
+  .beach-4 h4, .beach-4 h5, .beach-4 h6, .beach-4 p, .beach-4 button {
+    color: #88d8b0; }
+
+.summer-1 {
+  background: rgba(107, 210, 219, 0.7); }
+  .summer-1 h1, .summer-1 a:hover {
+    color: #ffbe4f; }
+  .summer-1 h2, .summer-1 h3, .summer-1 a:visited, .summer-1 li {
+    color: #0ea7b5; }
+  .summer-1 a:link {
+    color: #0c457d; }
+  .summer-1 h4, .summer-1 h5, .summer-1 h6, .summer-1 p, .summer-1 button {
+    color: #e8702a; }
+
+.summer-2 {
+  background: rgba(255, 190, 79, 0.7); }
+  .summer-2 h1, .summer-2 a:hover {
+    color: #6bd2db; }
+  .summer-2 h2, .summer-2 h3, .summer-2 a:visited, .summer-2 li {
+    color: #e8702a; }
+  .summer-2 a:link {
+    color: #0c457d; }
+  .summer-2 h4, .summer-2 h5, .summer-2 h6, .summer-2 p, .summer-2 button {
+    color: #0ea7b5; }
+
+.summer-3 {
+  background: rgba(12, 69, 125, 0.7); }
+  .summer-3 h1, .summer-3 a:hover {
+    color: #0ea7b5; }
+  .summer-3 h2, .summer-3 h3, .summer-3 a:visited, .summer-3 li {
+    color: #e8702a; }
+  .summer-3 a:link {
+    color: #ffbe4f; }
+  .summer-3 h4, .summer-3 h5, .summer-3 h6, .summer-3 p, .summer-3 button {
+    color: #6bd2db; }
+
+.summer-4 {
+  background: rgba(14, 167, 181, 0.7); }
+  .summer-4 h1, .summer-4 a:hover {
+    color: #0c457d; }
+  .summer-4 h2, .summer-4 h3, .summer-4 a:visited, .summer-4 li {
+    color: #6bd2db; }
+  .summer-4 a:link {
+    color: #ffbe4f; }
+  .summer-4 h4, .summer-4 h5, .summer-4 h6, .summer-4 p, .summer-4 button {
+    color: #e8702a; }
+
+.winterCabin-1 {
+  background: rgba(41, 59, 83, 0.7); }
+  .winterCabin-1 h1, .winterCabin-1 a:hover {
+    color: #1c2d46; }
+  .winterCabin-1 h2, .winterCabin-1 h3, .winterCabin-1 a:visited, .winterCabin-1 li {
+    color: #40556e; }
+  .winterCabin-1 a:link {
+    color: #669ad0; }
+  .winterCabin-1 h4, .winterCabin-1 h5, .winterCabin-1 h6, .winterCabin-1 p, .winterCabin-1 button {
+    color: #e3dbe8; }
+
+.winterCabin-2 {
+  background: rgba(28, 45, 70, 0.7); }
+  .winterCabin-2 h1, .winterCabin-2 a:hover {
+    color: #293b53; }
+  .winterCabin-2 h2, .winterCabin-2 h3, .winterCabin-2 a:visited, .winterCabin-2 li {
+    color: #e3dbe8; }
+  .winterCabin-2 a:link {
+    color: #669ad0; }
+  .winterCabin-2 h4, .winterCabin-2 h5, .winterCabin-2 h6, .winterCabin-2 p, .winterCabin-2 button {
+    color: #40556e; }
+
+.winterCabin-3 {
+  background: rgba(102, 154, 208, 0.7); }
+  .winterCabin-3 h1, .winterCabin-3 a:hover {
+    color: #40556e; }
+  .winterCabin-3 h2, .winterCabin-3 h3, .winterCabin-3 a:visited, .winterCabin-3 li {
+    color: #e3dbe8; }
+  .winterCabin-3 a:link {
+    color: #1c2d46; }
+  .winterCabin-3 h4, .winterCabin-3 h5, .winterCabin-3 h6, .winterCabin-3 p, .winterCabin-3 button {
+    color: #293b53; }
+
+.winterCabin-4 {
+  background: rgba(64, 85, 110, 0.7); }
+  .winterCabin-4 h1, .winterCabin-4 a:hover {
+    color: #669ad0; }
+  .winterCabin-4 h2, .winterCabin-4 h3, .winterCabin-4 a:visited, .winterCabin-4 li {
+    color: #293b53; }
+  .winterCabin-4 a:link {
+    color: #1c2d46; }
+  .winterCabin-4 h4, .winterCabin-4 h5, .winterCabin-4 h6, .winterCabin-4 p, .winterCabin-4 button {
+    color: #e3dbe8; }
+
+.pumpkinSpice-1 {
+  background: rgba(229, 130, 15, 0.7); }
+  .pumpkinSpice-1 h1, .pumpkinSpice-1 a:hover {
+    color: #ec8407; }
+  .pumpkinSpice-1 h2, .pumpkinSpice-1 h3, .pumpkinSpice-1 a:visited, .pumpkinSpice-1 li {
+    color: #cd7200; }
+  .pumpkinSpice-1 a:link {
+    color: #d47609; }
+  .pumpkinSpice-1 h4, .pumpkinSpice-1 h5, .pumpkinSpice-1 h6, .pumpkinSpice-1 p, .pumpkinSpice-1 button {
+    color: #d4700f; }
+
+.pumpkinSpice-2 {
+  background: rgba(236, 132, 7, 0.7); }
+  .pumpkinSpice-2 h1, .pumpkinSpice-2 a:hover {
+    color: #e5820f; }
+  .pumpkinSpice-2 h2, .pumpkinSpice-2 h3, .pumpkinSpice-2 a:visited, .pumpkinSpice-2 li {
+    color: #d4700f; }
+  .pumpkinSpice-2 a:link {
+    color: #d47609; }
+  .pumpkinSpice-2 h4, .pumpkinSpice-2 h5, .pumpkinSpice-2 h6, .pumpkinSpice-2 p, .pumpkinSpice-2 button {
+    color: #cd7200; }
+
+.pumpkinSpice-3 {
+  background: rgba(212, 118, 9, 0.7); }
+  .pumpkinSpice-3 h1, .pumpkinSpice-3 a:hover {
+    color: #cd7200; }
+  .pumpkinSpice-3 h2, .pumpkinSpice-3 h3, .pumpkinSpice-3 a:visited, .pumpkinSpice-3 li {
+    color: #d4700f; }
+  .pumpkinSpice-3 a:link {
+    color: #ec8407; }
+  .pumpkinSpice-3 h4, .pumpkinSpice-3 h5, .pumpkinSpice-3 h6, .pumpkinSpice-3 p, .pumpkinSpice-3 button {
+    color: #e5820f; }
+
+.pumpkinSpice-4 {
+  background: rgba(205, 114, 0, 0.7); }
+  .pumpkinSpice-4 h1, .pumpkinSpice-4 a:hover {
+    color: #d47609; }
+  .pumpkinSpice-4 h2, .pumpkinSpice-4 h3, .pumpkinSpice-4 a:visited, .pumpkinSpice-4 li {
+    color: #e5820f; }
+  .pumpkinSpice-4 a:link {
+    color: #ec8407; }
+  .pumpkinSpice-4 h4, .pumpkinSpice-4 h5, .pumpkinSpice-4 h6, .pumpkinSpice-4 p, .pumpkinSpice-4 button {
+    color: #d4700f; }
+
+.autumn-1 {
+  background: rgba(240, 140, 17, 0.7); }
+  .autumn-1 h1, .autumn-1 a:hover {
+    color: #e7a82e; }
+  .autumn-1 h2, .autumn-1 h3, .autumn-1 a:visited, .autumn-1 li {
+    color: #e37327; }
+  .autumn-1 a:link {
+    color: #bf8c2c; }
+  .autumn-1 h4, .autumn-1 h5, .autumn-1 h6, .autumn-1 p, .autumn-1 button {
+    color: #a96613; }
+
+.autumn-2 {
+  background: rgba(231, 168, 46, 0.7); }
+  .autumn-2 h1, .autumn-2 a:hover {
+    color: #f08c11; }
+  .autumn-2 h2, .autumn-2 h3, .autumn-2 a:visited, .autumn-2 li {
+    color: #a96613; }
+  .autumn-2 a:link {
+    color: #bf8c2c; }
+  .autumn-2 h4, .autumn-2 h5, .autumn-2 h6, .autumn-2 p, .autumn-2 button {
+    color: #e37327; }
+
+.autumn-3 {
+  background: rgba(191, 140, 44, 0.7); }
+  .autumn-3 h1, .autumn-3 a:hover {
+    color: #e37327; }
+  .autumn-3 h2, .autumn-3 h3, .autumn-3 a:visited, .autumn-3 li {
+    color: #a96613; }
+  .autumn-3 a:link {
+    color: #e7a82e; }
+  .autumn-3 h4, .autumn-3 h5, .autumn-3 h6, .autumn-3 p, .autumn-3 button {
+    color: #f08c11; }
+
+.autumn-4 {
+  background: rgba(227, 115, 39, 0.7); }
+  .autumn-4 h1, .autumn-4 a:hover {
+    color: #bf8c2c; }
+  .autumn-4 h2, .autumn-4 h3, .autumn-4 a:visited, .autumn-4 li {
+    color: #f08c11; }
+  .autumn-4 a:link {
+    color: #e7a82e; }
+  .autumn-4 h4, .autumn-4 h5, .autumn-4 h6, .autumn-4 p, .autumn-4 button {
+    color: #a96613; }
+
+.leafPile-1 {
+  background: rgba(231, 116, 49, 0.7); }
+  .leafPile-1 h1, .leafPile-1 a:hover {
+    color: #b5302b; }
+  .leafPile-1 h2, .leafPile-1 h3, .leafPile-1 a:visited, .leafPile-1 li {
+    color: #503431; }
+  .leafPile-1 a:link {
+    color: #55a393; }
+  .leafPile-1 h4, .leafPile-1 h5, .leafPile-1 h6, .leafPile-1 p, .leafPile-1 button {
+    color: #ab6c57; }
+
+.leafPile-2 {
+  background: rgba(181, 48, 43, 0.7); }
+  .leafPile-2 h1, .leafPile-2 a:hover {
+    color: #e77431; }
+  .leafPile-2 h2, .leafPile-2 h3, .leafPile-2 a:visited, .leafPile-2 li {
+    color: #ab6c57; }
+  .leafPile-2 a:link {
+    color: #55a393; }
+  .leafPile-2 h4, .leafPile-2 h5, .leafPile-2 h6, .leafPile-2 p, .leafPile-2 button {
+    color: #503431; }
+
+.leafPile-3 {
+  background: rgba(85, 163, 147, 0.7); }
+  .leafPile-3 h1, .leafPile-3 a:hover {
+    color: #503431; }
+  .leafPile-3 h2, .leafPile-3 h3, .leafPile-3 a:visited, .leafPile-3 li {
+    color: #ab6c57; }
+  .leafPile-3 a:link {
+    color: #b5302b; }
+  .leafPile-3 h4, .leafPile-3 h5, .leafPile-3 h6, .leafPile-3 p, .leafPile-3 button {
+    color: #e77431; }
+
+.leafPile-4 {
+  background: rgba(80, 52, 49, 0.7); }
+  .leafPile-4 h1, .leafPile-4 a:hover {
+    color: #55a393; }
+  .leafPile-4 h2, .leafPile-4 h3, .leafPile-4 a:visited, .leafPile-4 li {
+    color: #e77431; }
+  .leafPile-4 a:link {
+    color: #b5302b; }
+  .leafPile-4 h4, .leafPile-4 h5, .leafPile-4 h6, .leafPile-4 p, .leafPile-4 button {
+    color: #ab6c57; }
+
+.sage-1 {
+  background: rgba(120, 134, 107, 0.7); }
+  .sage-1 h1, .sage-1 a:hover {
+    color: #8f9779; }
+  .sage-1 h2, .sage-1 h3, .sage-1 a:visited, .sage-1 li {
+    color: #738276; }
+  .sage-1 a:link {
+    color: #738678; }
+  .sage-1 h4, .sage-1 h5, .sage-1 h6, .sage-1 p, .sage-1 button {
+    color: #4d5d53; }
+
+.sage-2 {
+  background: rgba(143, 151, 121, 0.7); }
+  .sage-2 h1, .sage-2 a:hover {
+    color: #78866b; }
+  .sage-2 h2, .sage-2 h3, .sage-2 a:visited, .sage-2 li {
+    color: #4d5d53; }
+  .sage-2 a:link {
+    color: #738678; }
+  .sage-2 h4, .sage-2 h5, .sage-2 h6, .sage-2 p, .sage-2 button {
+    color: #738276; }
+
+.sage-3 {
+  background: rgba(115, 134, 120, 0.7); }
+  .sage-3 h1, .sage-3 a:hover {
+    color: #738276; }
+  .sage-3 h2, .sage-3 h3, .sage-3 a:visited, .sage-3 li {
+    color: #4d5d53; }
+  .sage-3 a:link {
+    color: #8f9779; }
+  .sage-3 h4, .sage-3 h5, .sage-3 h6, .sage-3 p, .sage-3 button {
+    color: #78866b; }
+
+.sage-4 {
+  background: rgba(115, 130, 118, 0.7); }
+  .sage-4 h1, .sage-4 a:hover {
+    color: #738678; }
+  .sage-4 h2, .sage-4 h3, .sage-4 a:visited, .sage-4 li {
+    color: #78866b; }
+  .sage-4 a:link {
+    color: #8f9779; }
+  .sage-4 h4, .sage-4 h5, .sage-4 h6, .sage-4 p, .sage-4 button {
+    color: #4d5d53; }
+
+.decay-1 {
+  background: rgba(234, 155, 131, 0.7); }
+  .decay-1 h1, .decay-1 a:hover {
+    color: #ffe3d5; }
+  .decay-1 h2, .decay-1 h3, .decay-1 a:visited, .decay-1 li {
+    color: #8e8881; }
+  .decay-1 a:link {
+    color: #356a57; }
+  .decay-1 h4, .decay-1 h5, .decay-1 h6, .decay-1 p, .decay-1 button {
+    color: #0c2a34; }
+
+.decay-2 {
+  background: rgba(255, 227, 213, 0.7); }
+  .decay-2 h1, .decay-2 a:hover {
+    color: #ea9b83; }
+  .decay-2 h2, .decay-2 h3, .decay-2 a:visited, .decay-2 li {
+    color: #0c2a34; }
+  .decay-2 a:link {
+    color: #356a57; }
+  .decay-2 h4, .decay-2 h5, .decay-2 h6, .decay-2 p, .decay-2 button {
+    color: #8e8881; }
+
+.decay-3 {
+  background: rgba(53, 106, 87, 0.7); }
+  .decay-3 h1, .decay-3 a:hover {
+    color: #8e8881; }
+  .decay-3 h2, .decay-3 h3, .decay-3 a:visited, .decay-3 li {
+    color: #0c2a34; }
+  .decay-3 a:link {
+    color: #ffe3d5; }
+  .decay-3 h4, .decay-3 h5, .decay-3 h6, .decay-3 p, .decay-3 button {
+    color: #ea9b83; }
+
+.decay-4 {
+  background: rgba(142, 136, 129, 0.7); }
+  .decay-4 h1, .decay-4 a:hover {
+    color: #356a57; }
+  .decay-4 h2, .decay-4 h3, .decay-4 a:visited, .decay-4 li {
+    color: #ea9b83; }
+  .decay-4 a:link {
+    color: #ffe3d5; }
+  .decay-4 h4, .decay-4 h5, .decay-4 h6, .decay-4 p, .decay-4 button {
+    color: #0c2a34; }
+
+.twilightwoods-1 {
+  background: rgba(76, 86, 77, 0.7); }
+  .twilightwoods-1 h1, .twilightwoods-1 a:hover {
+    color: #779c76; }
+  .twilightwoods-1 h2, .twilightwoods-1 h3, .twilightwoods-1 a:visited, .twilightwoods-1 li {
+    color: #959866; }
+  .twilightwoods-1 a:link {
+    color: #d6d68a; }
+  .twilightwoods-1 h4, .twilightwoods-1 h5, .twilightwoods-1 h6, .twilightwoods-1 p, .twilightwoods-1 button {
+    color: #ddff7d; }
+
+.twilightwoods-2 {
+  background: rgba(119, 156, 118, 0.7); }
+  .twilightwoods-2 h1, .twilightwoods-2 a:hover {
+    color: #4c564d; }
+  .twilightwoods-2 h2, .twilightwoods-2 h3, .twilightwoods-2 a:visited, .twilightwoods-2 li {
+    color: #ddff7d; }
+  .twilightwoods-2 a:link {
+    color: #d6d68a; }
+  .twilightwoods-2 h4, .twilightwoods-2 h5, .twilightwoods-2 h6, .twilightwoods-2 p, .twilightwoods-2 button {
+    color: #959866; }
+
+.twilightwoods-3 {
+  background: rgba(214, 214, 138, 0.7); }
+  .twilightwoods-3 h1, .twilightwoods-3 a:hover {
+    color: #959866; }
+  .twilightwoods-3 h2, .twilightwoods-3 h3, .twilightwoods-3 a:visited, .twilightwoods-3 li {
+    color: #ddff7d; }
+  .twilightwoods-3 a:link {
+    color: #779c76; }
+  .twilightwoods-3 h4, .twilightwoods-3 h5, .twilightwoods-3 h6, .twilightwoods-3 p, .twilightwoods-3 button {
+    color: #4c564d; }
+
+.twilightwoods-4 {
+  background: rgba(149, 152, 102, 0.7); }
+  .twilightwoods-4 h1, .twilightwoods-4 a:hover {
+    color: #d6d68a; }
+  .twilightwoods-4 h2, .twilightwoods-4 h3, .twilightwoods-4 a:visited, .twilightwoods-4 li {
+    color: #4c564d; }
+  .twilightwoods-4 a:link {
+    color: #779c76; }
+  .twilightwoods-4 h4, .twilightwoods-4 h5, .twilightwoods-4 h6, .twilightwoods-4 p, .twilightwoods-4 button {
+    color: #ddff7d; }
+
+.redwood-1 {
+  background: rgba(154, 73, 69, 0.7); }
+  .redwood-1 h1, .redwood-1 a:hover {
+    color: #7a4141; }
+  .redwood-1 h2, .redwood-1 h3, .redwood-1 a:visited, .redwood-1 li {
+    color: #bf6f60; }
+  .redwood-1 a:link {
+    color: #4a553d; }
+  .redwood-1 h4, .redwood-1 h5, .redwood-1 h6, .redwood-1 p, .redwood-1 button {
+    color: #768752; }
+
+.redwood-2 {
+  background: rgba(122, 65, 65, 0.7); }
+  .redwood-2 h1, .redwood-2 a:hover {
+    color: #9a4945; }
+  .redwood-2 h2, .redwood-2 h3, .redwood-2 a:visited, .redwood-2 li {
+    color: #768752; }
+  .redwood-2 a:link {
+    color: #4a553d; }
+  .redwood-2 h4, .redwood-2 h5, .redwood-2 h6, .redwood-2 p, .redwood-2 button {
+    color: #bf6f60; }
+
+.redwood-3 {
+  background: rgba(74, 85, 61, 0.7); }
+  .redwood-3 h1, .redwood-3 a:hover {
+    color: #bf6f60; }
+  .redwood-3 h2, .redwood-3 h3, .redwood-3 a:visited, .redwood-3 li {
+    color: #768752; }
+  .redwood-3 a:link {
+    color: #7a4141; }
+  .redwood-3 h4, .redwood-3 h5, .redwood-3 h6, .redwood-3 p, .redwood-3 button {
+    color: #9a4945; }
+
+.redwood-4 {
+  background: rgba(191, 111, 96, 0.7); }
+  .redwood-4 h1, .redwood-4 a:hover {
+    color: #4a553d; }
+  .redwood-4 h2, .redwood-4 h3, .redwood-4 a:visited, .redwood-4 li {
+    color: #9a4945; }
+  .redwood-4 a:link {
+    color: #7a4141; }
+  .redwood-4 h4, .redwood-4 h5, .redwood-4 h6, .redwood-4 p, .redwood-4 button {
+    color: #768752; }
+
+.rose-1 {
+  background: rgba(131, 170, 183, 0.7); }
+  .rose-1 h1, .rose-1 a:hover {
+    color: #638d8d; }
+  .rose-1 h2, .rose-1 h3, .rose-1 a:visited, .rose-1 li {
+    color: #b4a8b7; }
+  .rose-1 a:link {
+    color: #bd8e99; }
+  .rose-1 h4, .rose-1 h5, .rose-1 h6, .rose-1 p, .rose-1 button {
+    color: #b45e72; }
+
+.rose-2 {
+  background: rgba(99, 141, 141, 0.7); }
+  .rose-2 h1, .rose-2 a:hover {
+    color: #83aab7; }
+  .rose-2 h2, .rose-2 h3, .rose-2 a:visited, .rose-2 li {
+    color: #b45e72; }
+  .rose-2 a:link {
+    color: #bd8e99; }
+  .rose-2 h4, .rose-2 h5, .rose-2 h6, .rose-2 p, .rose-2 button {
+    color: #b4a8b7; }
+
+.rose-3 {
+  background: rgba(189, 142, 153, 0.7); }
+  .rose-3 h1, .rose-3 a:hover {
+    color: #b4a8b7; }
+  .rose-3 h2, .rose-3 h3, .rose-3 a:visited, .rose-3 li {
+    color: #b45e72; }
+  .rose-3 a:link {
+    color: #638d8d; }
+  .rose-3 h4, .rose-3 h5, .rose-3 h6, .rose-3 p, .rose-3 button {
+    color: #83aab7; }
+
+.rose-4 {
+  background: rgba(180, 168, 183, 0.7); }
+  .rose-4 h1, .rose-4 a:hover {
+    color: #bd8e99; }
+  .rose-4 h2, .rose-4 h3, .rose-4 a:visited, .rose-4 li {
+    color: #83aab7; }
+  .rose-4 a:link {
+    color: #638d8d; }
+  .rose-4 h4, .rose-4 h5, .rose-4 h6, .rose-4 p, .rose-4 button {
+    color: #b45e72; }
+
+.roseyRed-1 {
+  background: rgba(182, 119, 119, 0.7); }
+  .roseyRed-1 h1, .roseyRed-1 a:hover {
+    color: #e58a8a; }
+  .roseyRed-1 h2, .roseyRed-1 h3, .roseyRed-1 a:visited, .roseyRed-1 li {
+    color: #905f5f; }
+  .roseyRed-1 a:link {
+    color: #b67a7a; }
+  .roseyRed-1 h4, .roseyRed-1 h5, .roseyRed-1 h6, .roseyRed-1 p, .roseyRed-1 button {
+    color: #ab6876; }
+
+.roseyRed-2 {
+  background: rgba(229, 138, 138, 0.7); }
+  .roseyRed-2 h1, .roseyRed-2 a:hover {
+    color: #b67777; }
+  .roseyRed-2 h2, .roseyRed-2 h3, .roseyRed-2 a:visited, .roseyRed-2 li {
+    color: #ab6876; }
+  .roseyRed-2 a:link {
+    color: #b67a7a; }
+  .roseyRed-2 h4, .roseyRed-2 h5, .roseyRed-2 h6, .roseyRed-2 p, .roseyRed-2 button {
+    color: #905f5f; }
+
+.roseyRed-3 {
+  background: rgba(182, 122, 122, 0.7); }
+  .roseyRed-3 h1, .roseyRed-3 a:hover {
+    color: #905f5f; }
+  .roseyRed-3 h2, .roseyRed-3 h3, .roseyRed-3 a:visited, .roseyRed-3 li {
+    color: #ab6876; }
+  .roseyRed-3 a:link {
+    color: #e58a8a; }
+  .roseyRed-3 h4, .roseyRed-3 h5, .roseyRed-3 h6, .roseyRed-3 p, .roseyRed-3 button {
+    color: #b67777; }
+
+.roseyRed-4 {
+  background: rgba(144, 95, 95, 0.7); }
+  .roseyRed-4 h1, .roseyRed-4 a:hover {
+    color: #b67a7a; }
+  .roseyRed-4 h2, .roseyRed-4 h3, .roseyRed-4 a:visited, .roseyRed-4 li {
+    color: #b67777; }
+  .roseyRed-4 a:link {
+    color: #e58a8a; }
+  .roseyRed-4 h4, .roseyRed-4 h5, .roseyRed-4 h6, .roseyRed-4 p, .roseyRed-4 button {
+    color: #ab6876; }
+
+.stump-1 {
+  background: rgba(84, 71, 63, 0.7); }
+  .stump-1 h1, .stump-1 a:hover {
+    color: #4b473b; }
+  .stump-1 h2, .stump-1 h3, .stump-1 a:visited, .stump-1 li {
+    color: #56452c; }
+  .stump-1 a:link {
+    color: #493d18; }
+  .stump-1 h4, .stump-1 h5, .stump-1 h6, .stump-1 p, .stump-1 button {
+    color: #403100; }
+
+.stump-2 {
+  background: rgba(75, 71, 59, 0.7); }
+  .stump-2 h1, .stump-2 a:hover {
+    color: #54473f; }
+  .stump-2 h2, .stump-2 h3, .stump-2 a:visited, .stump-2 li {
+    color: #403100; }
+  .stump-2 a:link {
+    color: #493d18; }
+  .stump-2 h4, .stump-2 h5, .stump-2 h6, .stump-2 p, .stump-2 button {
+    color: #56452c; }
+
+.stump-3 {
+  background: rgba(73, 61, 24, 0.7); }
+  .stump-3 h1, .stump-3 a:hover {
+    color: #56452c; }
+  .stump-3 h2, .stump-3 h3, .stump-3 a:visited, .stump-3 li {
+    color: #403100; }
+  .stump-3 a:link {
+    color: #4b473b; }
+  .stump-3 h4, .stump-3 h5, .stump-3 h6, .stump-3 p, .stump-3 button {
+    color: #54473f; }
+
+.stump-4 {
+  background: rgba(86, 69, 44, 0.7); }
+  .stump-4 h1, .stump-4 a:hover {
+    color: #493d18; }
+  .stump-4 h2, .stump-4 h3, .stump-4 a:visited, .stump-4 li {
+    color: #54473f; }
+  .stump-4 a:link {
+    color: #4b473b; }
+  .stump-4 h4, .stump-4 h5, .stump-4 h6, .stump-4 p, .stump-4 button {
+    color: #403100; }
+
+.leafy-1 {
+  background: rgba(103, 156, 99, 0.7); }
+  .leafy-1 h1, .leafy-1 a:hover {
+    color: #719f46; }
+  .leafy-1 h2, .leafy-1 h3, .leafy-1 a:visited, .leafy-1 li {
+    color: #6a8d41; }
+  .leafy-1 a:link {
+    color: #48814c; }
+  .leafy-1 h4, .leafy-1 h5, .leafy-1 h6, .leafy-1 p, .leafy-1 button {
+    color: #4c722f; }
+
+.leafy-2 {
+  background: rgba(113, 159, 70, 0.7); }
+  .leafy-2 h1, .leafy-2 a:hover {
+    color: #679c63; }
+  .leafy-2 h2, .leafy-2 h3, .leafy-2 a:visited, .leafy-2 li {
+    color: #4c722f; }
+  .leafy-2 a:link {
+    color: #48814c; }
+  .leafy-2 h4, .leafy-2 h5, .leafy-2 h6, .leafy-2 p, .leafy-2 button {
+    color: #6a8d41; }
+
+.leafy-3 {
+  background: rgba(72, 129, 76, 0.7); }
+  .leafy-3 h1, .leafy-3 a:hover {
+    color: #6a8d41; }
+  .leafy-3 h2, .leafy-3 h3, .leafy-3 a:visited, .leafy-3 li {
+    color: #4c722f; }
+  .leafy-3 a:link {
+    color: #719f46; }
+  .leafy-3 h4, .leafy-3 h5, .leafy-3 h6, .leafy-3 p, .leafy-3 button {
+    color: #679c63; }
+
+.leafy-4 {
+  background: rgba(106, 141, 65, 0.7); }
+  .leafy-4 h1, .leafy-4 a:hover {
+    color: #48814c; }
+  .leafy-4 h2, .leafy-4 h3, .leafy-4 a:visited, .leafy-4 li {
+    color: #679c63; }
+  .leafy-4 a:link {
+    color: #719f46; }
+  .leafy-4 h4, .leafy-4 h5, .leafy-4 h6, .leafy-4 p, .leafy-4 button {
+    color: #4c722f; }
+
+.oakShadow-1 {
+  background: rgba(128, 149, 82, 0.7); }
+  .oakShadow-1 h1, .oakShadow-1 a:hover {
+    color: #eeeed1; }
+  .oakShadow-1 h2, .oakShadow-1 h3, .oakShadow-1 a:visited, .oakShadow-1 li {
+    color: #6b7f42; }
+  .oakShadow-1 a:link {
+    color: #5c5c5c; }
+  .oakShadow-1 h4, .oakShadow-1 h5, .oakShadow-1 h6, .oakShadow-1 p, .oakShadow-1 button {
+    color: #222222; }
+
+.oakShadow-2 {
+  background: rgba(238, 238, 209, 0.7); }
+  .oakShadow-2 h1, .oakShadow-2 a:hover {
+    color: #809552; }
+  .oakShadow-2 h2, .oakShadow-2 h3, .oakShadow-2 a:visited, .oakShadow-2 li {
+    color: #222222; }
+  .oakShadow-2 a:link {
+    color: #5c5c5c; }
+  .oakShadow-2 h4, .oakShadow-2 h5, .oakShadow-2 h6, .oakShadow-2 p, .oakShadow-2 button {
+    color: #6b7f42; }
+
+.oakShadow-3 {
+  background: rgba(92, 92, 92, 0.7); }
+  .oakShadow-3 h1, .oakShadow-3 a:hover {
+    color: #6b7f42; }
+  .oakShadow-3 h2, .oakShadow-3 h3, .oakShadow-3 a:visited, .oakShadow-3 li {
+    color: #222222; }
+  .oakShadow-3 a:link {
+    color: #eeeed1; }
+  .oakShadow-3 h4, .oakShadow-3 h5, .oakShadow-3 h6, .oakShadow-3 p, .oakShadow-3 button {
+    color: #809552; }
+
+.oakShadow-4 {
+  background: rgba(107, 127, 66, 0.7); }
+  .oakShadow-4 h1, .oakShadow-4 a:hover {
+    color: #5c5c5c; }
+  .oakShadow-4 h2, .oakShadow-4 h3, .oakShadow-4 a:visited, .oakShadow-4 li {
+    color: #809552; }
+  .oakShadow-4 a:link {
+    color: #eeeed1; }
+  .oakShadow-4 h4, .oakShadow-4 h5, .oakShadow-4 h6, .oakShadow-4 p, .oakShadow-4 button {
+    color: #222222; }
+
+.rainforest-1 {
+  background: rgba(122, 219, 113, 0.7); }
+  .rainforest-1 h1, .rainforest-1 a:hover {
+    color: #b8ee85; }
+  .rainforest-1 h2, .rainforest-1 h3, .rainforest-1 a:visited, .rainforest-1 li {
+    color: #50b065; }
+  .rainforest-1 a:link {
+    color: #369077; }
+  .rainforest-1 h4, .rainforest-1 h5, .rainforest-1 h6, .rainforest-1 p, .rainforest-1 button {
+    color: #ae5d6f; }
+
+.rainforest-2 {
+  background: rgba(184, 238, 133, 0.7); }
+  .rainforest-2 h1, .rainforest-2 a:hover {
+    color: #7adb71; }
+  .rainforest-2 h2, .rainforest-2 h3, .rainforest-2 a:visited, .rainforest-2 li {
+    color: #ae5d6f; }
+  .rainforest-2 a:link {
+    color: #369077; }
+  .rainforest-2 h4, .rainforest-2 h5, .rainforest-2 h6, .rainforest-2 p, .rainforest-2 button {
+    color: #50b065; }
+
+.rainforest-3 {
+  background: rgba(54, 144, 119, 0.7); }
+  .rainforest-3 h1, .rainforest-3 a:hover {
+    color: #50b065; }
+  .rainforest-3 h2, .rainforest-3 h3, .rainforest-3 a:visited, .rainforest-3 li {
+    color: #ae5d6f; }
+  .rainforest-3 a:link {
+    color: #b8ee85; }
+  .rainforest-3 h4, .rainforest-3 h5, .rainforest-3 h6, .rainforest-3 p, .rainforest-3 button {
+    color: #7adb71; }
+
+.rainforest-4 {
+  background: rgba(80, 176, 101, 0.7); }
+  .rainforest-4 h1, .rainforest-4 a:hover {
+    color: #369077; }
+  .rainforest-4 h2, .rainforest-4 h3, .rainforest-4 a:visited, .rainforest-4 li {
+    color: #7adb71; }
+  .rainforest-4 a:link {
+    color: #b8ee85; }
+  .rainforest-4 h4, .rainforest-4 h5, .rainforest-4 h6, .rainforest-4 p, .rainforest-4 button {
+    color: #ae5d6f; }
+
+.moss-1 {
+  background: rgba(203, 170, 153, 0.7); }
+  .moss-1 h1, .moss-1 a:hover {
+    color: #bd654d; }
+  .moss-1 h2, .moss-1 h3, .moss-1 a:visited, .moss-1 li {
+    color: #9a9460; }
+  .moss-1 a:link {
+    color: #845f0e; }
+  .moss-1 h4, .moss-1 h5, .moss-1 h6, .moss-1 p, .moss-1 button {
+    color: #312f1a; }
+
+.moss-2 {
+  background: rgba(189, 101, 77, 0.7); }
+  .moss-2 h1, .moss-2 a:hover {
+    color: #cbaa99; }
+  .moss-2 h2, .moss-2 h3, .moss-2 a:visited, .moss-2 li {
+    color: #312f1a; }
+  .moss-2 a:link {
+    color: #845f0e; }
+  .moss-2 h4, .moss-2 h5, .moss-2 h6, .moss-2 p, .moss-2 button {
+    color: #9a9460; }
+
+.moss-3 {
+  background: rgba(132, 95, 14, 0.7); }
+  .moss-3 h1, .moss-3 a:hover {
+    color: #9a9460; }
+  .moss-3 h2, .moss-3 h3, .moss-3 a:visited, .moss-3 li {
+    color: #312f1a; }
+  .moss-3 a:link {
+    color: #bd654d; }
+  .moss-3 h4, .moss-3 h5, .moss-3 h6, .moss-3 p, .moss-3 button {
+    color: #cbaa99; }
+
+.moss-4 {
+  background: rgba(154, 148, 96, 0.7); }
+  .moss-4 h1, .moss-4 a:hover {
+    color: #845f0e; }
+  .moss-4 h2, .moss-4 h3, .moss-4 a:visited, .moss-4 li {
+    color: #cbaa99; }
+  .moss-4 a:link {
+    color: #bd654d; }
+  .moss-4 h4, .moss-4 h5, .moss-4 h6, .moss-4 p, .moss-4 button {
+    color: #312f1a; }
+
+.fire-1 {
+  background: rgba(193, 70, 29, 0.7); }
+  .fire-1 h1, .fire-1 a:hover {
+    color: #c11d1d; }
+  .fire-1 h2, .fire-1 h3, .fire-1 a:visited, .fire-1 li {
+    color: #d28231; }
+  .fire-1 a:link {
+    color: #c5a645; }
+  .fire-1 h4, .fire-1 h5, .fire-1 h6, .fire-1 p, .fire-1 button {
+    color: #c4c545; }
+
+.fire-2 {
+  background: rgba(193, 29, 29, 0.7); }
+  .fire-2 h1, .fire-2 a:hover {
+    color: #c1461d; }
+  .fire-2 h2, .fire-2 h3, .fire-2 a:visited, .fire-2 li {
+    color: #c4c545; }
+  .fire-2 a:link {
+    color: #c5a645; }
+  .fire-2 h4, .fire-2 h5, .fire-2 h6, .fire-2 p, .fire-2 button {
+    color: #d28231; }
+
+.fire-3 {
+  background: rgba(197, 166, 69, 0.7); }
+  .fire-3 h1, .fire-3 a:hover {
+    color: #d28231; }
+  .fire-3 h2, .fire-3 h3, .fire-3 a:visited, .fire-3 li {
+    color: #c4c545; }
+  .fire-3 a:link {
+    color: #c11d1d; }
+  .fire-3 h4, .fire-3 h5, .fire-3 h6, .fire-3 p, .fire-3 button {
+    color: #c1461d; }
+
+.fire-4 {
+  background: rgba(210, 130, 49, 0.7); }
+  .fire-4 h1, .fire-4 a:hover {
+    color: #c5a645; }
+  .fire-4 h2, .fire-4 h3, .fire-4 a:visited, .fire-4 li {
+    color: #c1461d; }
+  .fire-4 a:link {
+    color: #c11d1d; }
+  .fire-4 h4, .fire-4 h5, .fire-4 h6, .fire-4 p, .fire-4 button {
+    color: #c4c545; }
+
+.darkfire-1 {
+  background: rgba(117, 118, 118, 0.7); }
+  .darkfire-1 h1, .darkfire-1 a:hover {
+    color: #fdcf58; }
+  .darkfire-1 h2, .darkfire-1 h3, .darkfire-1 a:visited, .darkfire-1 li {
+    color: #f27d0c; }
+  .darkfire-1 a:link {
+    color: #800909; }
+  .darkfire-1 h4, .darkfire-1 h5, .darkfire-1 h6, .darkfire-1 p, .darkfire-1 button {
+    color: #f07f13; }
+
+.darkfire-2 {
+  background: rgba(253, 207, 88, 0.7); }
+  .darkfire-2 h1, .darkfire-2 a:hover {
+    color: #757676; }
+  .darkfire-2 h2, .darkfire-2 h3, .darkfire-2 a:visited, .darkfire-2 li {
+    color: #f07f13; }
+  .darkfire-2 a:link {
+    color: #800909; }
+  .darkfire-2 h4, .darkfire-2 h5, .darkfire-2 h6, .darkfire-2 p, .darkfire-2 button {
+    color: #f27d0c; }
+
+.darkfire-3 {
+  background: rgba(128, 9, 9, 0.7); }
+  .darkfire-3 h1, .darkfire-3 a:hover {
+    color: #f27d0c; }
+  .darkfire-3 h2, .darkfire-3 h3, .darkfire-3 a:visited, .darkfire-3 li {
+    color: #f07f13; }
+  .darkfire-3 a:link {
+    color: #fdcf58; }
+  .darkfire-3 h4, .darkfire-3 h5, .darkfire-3 h6, .darkfire-3 p, .darkfire-3 button {
+    color: #757676; }
+
+.darkfire-4 {
+  background: rgba(242, 125, 12, 0.7); }
+  .darkfire-4 h1, .darkfire-4 a:hover {
+    color: #800909; }
+  .darkfire-4 h2, .darkfire-4 h3, .darkfire-4 a:visited, .darkfire-4 li {
+    color: #757676; }
+  .darkfire-4 a:link {
+    color: #fdcf58; }
+  .darkfire-4 h4, .darkfire-4 h5, .darkfire-4 h6, .darkfire-4 p, .darkfire-4 button {
+    color: #f07f13; }
+
+.hotcoals-1 {
+  background: rgba(236, 71, 0, 0.7); }
+  .hotcoals-1 h1, .hotcoals-1 a:hover {
+    color: #1c1c1c; }
+  .hotcoals-1 h2, .hotcoals-1 h3, .hotcoals-1 a:visited, .hotcoals-1 li {
+    color: #fb5923; }
+  .hotcoals-1 a:link {
+    color: #f2ba0d; }
+  .hotcoals-1 h4, .hotcoals-1 h5, .hotcoals-1 h6, .hotcoals-1 p, .hotcoals-1 button {
+    color: #e5dcb6; }
+
+.hotcoals-2 {
+  background: rgba(28, 28, 28, 0.7); }
+  .hotcoals-2 h1, .hotcoals-2 a:hover {
+    color: #ec4700; }
+  .hotcoals-2 h2, .hotcoals-2 h3, .hotcoals-2 a:visited, .hotcoals-2 li {
+    color: #e5dcb6; }
+  .hotcoals-2 a:link {
+    color: #f2ba0d; }
+  .hotcoals-2 h4, .hotcoals-2 h5, .hotcoals-2 h6, .hotcoals-2 p, .hotcoals-2 button {
+    color: #fb5923; }
+
+.hotcoals-3 {
+  background: rgba(242, 186, 13, 0.7); }
+  .hotcoals-3 h1, .hotcoals-3 a:hover {
+    color: #fb5923; }
+  .hotcoals-3 h2, .hotcoals-3 h3, .hotcoals-3 a:visited, .hotcoals-3 li {
+    color: #e5dcb6; }
+  .hotcoals-3 a:link {
+    color: #1c1c1c; }
+  .hotcoals-3 h4, .hotcoals-3 h5, .hotcoals-3 h6, .hotcoals-3 p, .hotcoals-3 button {
+    color: #ec4700; }
+
+.hotcoals-4 {
+  background: rgba(251, 89, 35, 0.7); }
+  .hotcoals-4 h1, .hotcoals-4 a:hover {
+    color: #f2ba0d; }
+  .hotcoals-4 h2, .hotcoals-4 h3, .hotcoals-4 a:visited, .hotcoals-4 li {
+    color: #ec4700; }
+  .hotcoals-4 a:link {
+    color: #1c1c1c; }
+  .hotcoals-4 h4, .hotcoals-4 h5, .hotcoals-4 h6, .hotcoals-4 p, .hotcoals-4 button {
+    color: #e5dcb6; }
+
+.icefire-1 {
+  background: rgba(229, 227, 39, 0.7); }
+  .icefire-1 h1, .icefire-1 a:hover {
+    color: #fe7200; }
+  .icefire-1 h2, .icefire-1 h3, .icefire-1 a:visited, .icefire-1 li {
+    color: #77e2ff; }
+  .icefire-1 a:link {
+    color: #08b1e3; }
+  .icefire-1 h4, .icefire-1 h5, .icefire-1 h6, .icefire-1 p, .icefire-1 button {
+    color: #1485dc; }
+
+.icefire-2 {
+  background: rgba(254, 114, 0, 0.7); }
+  .icefire-2 h1, .icefire-2 a:hover {
+    color: #e5e327; }
+  .icefire-2 h2, .icefire-2 h3, .icefire-2 a:visited, .icefire-2 li {
+    color: #1485dc; }
+  .icefire-2 a:link {
+    color: #08b1e3; }
+  .icefire-2 h4, .icefire-2 h5, .icefire-2 h6, .icefire-2 p, .icefire-2 button {
+    color: #77e2ff; }
+
+.icefire-3 {
+  background: rgba(8, 177, 227, 0.7); }
+  .icefire-3 h1, .icefire-3 a:hover {
+    color: #77e2ff; }
+  .icefire-3 h2, .icefire-3 h3, .icefire-3 a:visited, .icefire-3 li {
+    color: #1485dc; }
+  .icefire-3 a:link {
+    color: #fe7200; }
+  .icefire-3 h4, .icefire-3 h5, .icefire-3 h6, .icefire-3 p, .icefire-3 button {
+    color: #e5e327; }
+
+.icefire-4 {
+  background: rgba(119, 226, 255, 0.7); }
+  .icefire-4 h1, .icefire-4 a:hover {
+    color: #08b1e3; }
+  .icefire-4 h2, .icefire-4 h3, .icefire-4 a:visited, .icefire-4 li {
+    color: #e5e327; }
+  .icefire-4 a:link {
+    color: #fe7200; }
+  .icefire-4 h4, .icefire-4 h5, .icefire-4 h6, .icefire-4 p, .icefire-4 button {
+    color: #1485dc; }
+
+.firewater-1 {
+  background: rgba(255, 167, 0, 0.7); }
+  .firewater-1 h1, .firewater-1 a:hover {
+    color: #ff0000; }
+  .firewater-1 h2, .firewater-1 h3, .firewater-1 a:visited, .firewater-1 li {
+    color: #ffffff; }
+  .firewater-1 a:link {
+    color: #00f9ff; }
+  .firewater-1 h4, .firewater-1 h5, .firewater-1 h6, .firewater-1 p, .firewater-1 button {
+    color: #00c1bc; }
+
+.firewater-2 {
+  background: rgba(255, 0, 0, 0.7); }
+  .firewater-2 h1, .firewater-2 a:hover {
+    color: #ffa700; }
+  .firewater-2 h2, .firewater-2 h3, .firewater-2 a:visited, .firewater-2 li {
+    color: #00c1bc; }
+  .firewater-2 a:link {
+    color: #00f9ff; }
+  .firewater-2 h4, .firewater-2 h5, .firewater-2 h6, .firewater-2 p, .firewater-2 button {
+    color: #ffffff; }
+
+.firewater-3 {
+  background: rgba(0, 249, 255, 0.7); }
+  .firewater-3 h1, .firewater-3 a:hover {
+    color: #ffffff; }
+  .firewater-3 h2, .firewater-3 h3, .firewater-3 a:visited, .firewater-3 li {
+    color: #00c1bc; }
+  .firewater-3 a:link {
+    color: #ff0000; }
+  .firewater-3 h4, .firewater-3 h5, .firewater-3 h6, .firewater-3 p, .firewater-3 button {
+    color: #ffa700; }
+
+.firewater-4 {
+  background: rgba(255, 255, 255, 0.7); }
+  .firewater-4 h1, .firewater-4 a:hover {
+    color: #00f9ff; }
+  .firewater-4 h2, .firewater-4 h3, .firewater-4 a:visited, .firewater-4 li {
+    color: #ffa700; }
+  .firewater-4 a:link {
+    color: #ff0000; }
+  .firewater-4 h4, .firewater-4 h5, .firewater-4 h6, .firewater-4 p, .firewater-4 button {
+    color: #00c1bc; }
+
+.hotcold-1 {
+  background: rgba(255, 39, 0, 0.7); }
+  .hotcold-1 h1, .hotcold-1 a:hover {
+    color: #0b0200; }
+  .hotcold-1 h2, .hotcold-1 h3, .hotcold-1 a:visited, .hotcold-1 li {
+    color: #2d4940; }
+  .hotcold-1 a:link {
+    color: #bcfffa; }
+  .hotcold-1 h4, .hotcold-1 h5, .hotcold-1 h6, .hotcold-1 p, .hotcold-1 button {
+    color: #ffffff; }
+
+.hotcold-2 {
+  background: rgba(11, 2, 0, 0.7); }
+  .hotcold-2 h1, .hotcold-2 a:hover {
+    color: #ff2700; }
+  .hotcold-2 h2, .hotcold-2 h3, .hotcold-2 a:visited, .hotcold-2 li {
+    color: #ffffff; }
+  .hotcold-2 a:link {
+    color: #bcfffa; }
+  .hotcold-2 h4, .hotcold-2 h5, .hotcold-2 h6, .hotcold-2 p, .hotcold-2 button {
+    color: #2d4940; }
+
+.hotcold-3 {
+  background: rgba(188, 255, 250, 0.7); }
+  .hotcold-3 h1, .hotcold-3 a:hover {
+    color: #2d4940; }
+  .hotcold-3 h2, .hotcold-3 h3, .hotcold-3 a:visited, .hotcold-3 li {
+    color: #ffffff; }
+  .hotcold-3 a:link {
+    color: #0b0200; }
+  .hotcold-3 h4, .hotcold-3 h5, .hotcold-3 h6, .hotcold-3 p, .hotcold-3 button {
+    color: #ff2700; }
+
+.hotcold-4 {
+  background: rgba(45, 73, 64, 0.7); }
+  .hotcold-4 h1, .hotcold-4 a:hover {
+    color: #bcfffa; }
+  .hotcold-4 h2, .hotcold-4 h3, .hotcold-4 a:visited, .hotcold-4 li {
+    color: #ff2700; }
+  .hotcold-4 a:link {
+    color: #0b0200; }
+  .hotcold-4 h4, .hotcold-4 h5, .hotcold-4 h6, .hotcold-4 p, .hotcold-4 button {
+    color: #ffffff; }
+
+.water-1 {
+  background: rgba(86, 208, 255, 0.7); }
+  .water-1 h1, .water-1 a:hover {
+    color: #00c5ff; }
+  .water-1 h2, .water-1 h3, .water-1 a:visited, .water-1 li {
+    color: #a3dcff; }
+  .water-1 a:link {
+    color: #a9f9ff; }
+  .water-1 h4, .water-1 h5, .water-1 h6, .water-1 p, .water-1 button {
+    color: #e1fffd; }
+
+.water-2 {
+  background: rgba(0, 197, 255, 0.7); }
+  .water-2 h1, .water-2 a:hover {
+    color: #56d0ff; }
+  .water-2 h2, .water-2 h3, .water-2 a:visited, .water-2 li {
+    color: #e1fffd; }
+  .water-2 a:link {
+    color: #a9f9ff; }
+  .water-2 h4, .water-2 h5, .water-2 h6, .water-2 p, .water-2 button {
+    color: #a3dcff; }
+
+.water-3 {
+  background: rgba(169, 249, 255, 0.7); }
+  .water-3 h1, .water-3 a:hover {
+    color: #a3dcff; }
+  .water-3 h2, .water-3 h3, .water-3 a:visited, .water-3 li {
+    color: #e1fffd; }
+  .water-3 a:link {
+    color: #00c5ff; }
+  .water-3 h4, .water-3 h5, .water-3 h6, .water-3 p, .water-3 button {
+    color: #56d0ff; }
+
+.water-4 {
+  background: rgba(163, 220, 255, 0.7); }
+  .water-4 h1, .water-4 a:hover {
+    color: #a9f9ff; }
+  .water-4 h2, .water-4 h3, .water-4 a:visited, .water-4 li {
+    color: #56d0ff; }
+  .water-4 a:link {
+    color: #00c5ff; }
+  .water-4 h4, .water-4 h5, .water-4 h6, .water-4 p, .water-4 button {
+    color: #e1fffd; }
+
+.earth-1 {
+  background: rgba(201, 143, 57, 0.7); }
+  .earth-1 h1, .earth-1 a:hover {
+    color: #7c3817; }
+  .earth-1 h2, .earth-1 h3, .earth-1 a:visited, .earth-1 li {
+    color: #007c7c; }
+  .earth-1 a:link {
+    color: #caf2e5; }
+  .earth-1 h4, .earth-1 h5, .earth-1 h6, .earth-1 p, .earth-1 button {
+    color: #687237; }
+
+.earth-2 {
+  background: rgba(124, 56, 23, 0.7); }
+  .earth-2 h1, .earth-2 a:hover {
+    color: #c98f39; }
+  .earth-2 h2, .earth-2 h3, .earth-2 a:visited, .earth-2 li {
+    color: #687237; }
+  .earth-2 a:link {
+    color: #caf2e5; }
+  .earth-2 h4, .earth-2 h5, .earth-2 h6, .earth-2 p, .earth-2 button {
+    color: #007c7c; }
+
+.earth-3 {
+  background: rgba(202, 242, 229, 0.7); }
+  .earth-3 h1, .earth-3 a:hover {
+    color: #007c7c; }
+  .earth-3 h2, .earth-3 h3, .earth-3 a:visited, .earth-3 li {
+    color: #687237; }
+  .earth-3 a:link {
+    color: #7c3817; }
+  .earth-3 h4, .earth-3 h5, .earth-3 h6, .earth-3 p, .earth-3 button {
+    color: #c98f39; }
+
+.earth-4 {
+  background: rgba(0, 124, 124, 0.7); }
+  .earth-4 h1, .earth-4 a:hover {
+    color: #caf2e5; }
+  .earth-4 h2, .earth-4 h3, .earth-4 a:visited, .earth-4 li {
+    color: #c98f39; }
+  .earth-4 a:link {
+    color: #7c3817; }
+  .earth-4 h4, .earth-4 h5, .earth-4 h6, .earth-4 p, .earth-4 button {
+    color: #687237; }
+
+.wind-1 {
+  background: rgba(175, 187, 191, 0.7); }
+  .wind-1 h1, .wind-1 a:hover {
+    color: #ccd6cd; }
+  .wind-1 h2, .wind-1 h3, .wind-1 a:visited, .wind-1 li {
+    color: #9fb2b0; }
+  .wind-1 a:link {
+    color: #bd99ae; }
+  .wind-1 h4, .wind-1 h5, .wind-1 h6, .wind-1 p, .wind-1 button {
+    color: #8c7e9f; }
+
+.wind-2 {
+  background: rgba(204, 214, 205, 0.7); }
+  .wind-2 h1, .wind-2 a:hover {
+    color: #afbbbf; }
+  .wind-2 h2, .wind-2 h3, .wind-2 a:visited, .wind-2 li {
+    color: #8c7e9f; }
+  .wind-2 a:link {
+    color: #bd99ae; }
+  .wind-2 h4, .wind-2 h5, .wind-2 h6, .wind-2 p, .wind-2 button {
+    color: #9fb2b0; }
+
+.wind-3 {
+  background: rgba(189, 153, 174, 0.7); }
+  .wind-3 h1, .wind-3 a:hover {
+    color: #9fb2b0; }
+  .wind-3 h2, .wind-3 h3, .wind-3 a:visited, .wind-3 li {
+    color: #8c7e9f; }
+  .wind-3 a:link {
+    color: #ccd6cd; }
+  .wind-3 h4, .wind-3 h5, .wind-3 h6, .wind-3 p, .wind-3 button {
+    color: #afbbbf; }
+
+.wind-4 {
+  background: rgba(159, 178, 176, 0.7); }
+  .wind-4 h1, .wind-4 a:hover {
+    color: #bd99ae; }
+  .wind-4 h2, .wind-4 h3, .wind-4 a:visited, .wind-4 li {
+    color: #afbbbf; }
+  .wind-4 a:link {
+    color: #ccd6cd; }
+  .wind-4 h4, .wind-4 h5, .wind-4 h6, .wind-4 p, .wind-4 button {
+    color: #8c7e9f; }
+
+.armyCamo-1 {
+  background: rgba(158, 154, 117, 0.7); }
+  .armyCamo-1 h1, .armyCamo-1 a:hover {
+    color: #604439; }
+  .armyCamo-1 h2, .armyCamo-1 h3, .armyCamo-1 a:visited, .armyCamo-1 li {
+    color: #ac222e; }
+  .armyCamo-1 a:link {
+    color: #41533b; }
+  .armyCamo-1 h4, .armyCamo-1 h5, .armyCamo-1 h6, .armyCamo-1 p, .armyCamo-1 button {
+    color: #554840; }
+
+.armyCamo-2 {
+  background: rgba(96, 68, 57, 0.7); }
+  .armyCamo-2 h1, .armyCamo-2 a:hover {
+    color: #9e9a75; }
+  .armyCamo-2 h2, .armyCamo-2 h3, .armyCamo-2 a:visited, .armyCamo-2 li {
+    color: #554840; }
+  .armyCamo-2 a:link {
+    color: #41533b; }
+  .armyCamo-2 h4, .armyCamo-2 h5, .armyCamo-2 h6, .armyCamo-2 p, .armyCamo-2 button {
+    color: #ac222e; }
+
+.armyCamo-3 {
+  background: rgba(65, 83, 59, 0.7); }
+  .armyCamo-3 h1, .armyCamo-3 a:hover {
+    color: #ac222e; }
+  .armyCamo-3 h2, .armyCamo-3 h3, .armyCamo-3 a:visited, .armyCamo-3 li {
+    color: #554840; }
+  .armyCamo-3 a:link {
+    color: #604439; }
+  .armyCamo-3 h4, .armyCamo-3 h5, .armyCamo-3 h6, .armyCamo-3 p, .armyCamo-3 button {
+    color: #9e9a75; }
+
+.armyCamo-4 {
+  background: rgba(172, 34, 46, 0.7); }
+  .armyCamo-4 h1, .armyCamo-4 a:hover {
+    color: #41533b; }
+  .armyCamo-4 h2, .armyCamo-4 h3, .armyCamo-4 a:visited, .armyCamo-4 li {
+    color: #9e9a75; }
+  .armyCamo-4 a:link {
+    color: #604439; }
+  .armyCamo-4 h4, .armyCamo-4 h5, .armyCamo-4 h6, .armyCamo-4 p, .armyCamo-4 button {
+    color: #554840; }
+
+.armyBrown-1 {
+  background: rgba(64, 79, 61, 0.7); }
+  .armyBrown-1 h1, .armyBrown-1 a:hover {
+    color: #4f3e37; }
+  .armyBrown-1 h2, .armyBrown-1 h3, .armyBrown-1 a:visited, .armyBrown-1 li {
+    color: #465840; }
+  .armyBrown-1 a:link {
+    color: #525e41; }
+  .armyBrown-1 h4, .armyBrown-1 h5, .armyBrown-1 h6, .armyBrown-1 p, .armyBrown-1 button {
+    color: #60654a; }
+
+.armyBrown-2 {
+  background: rgba(79, 62, 55, 0.7); }
+  .armyBrown-2 h1, .armyBrown-2 a:hover {
+    color: #404f3d; }
+  .armyBrown-2 h2, .armyBrown-2 h3, .armyBrown-2 a:visited, .armyBrown-2 li {
+    color: #60654a; }
+  .armyBrown-2 a:link {
+    color: #525e41; }
+  .armyBrown-2 h4, .armyBrown-2 h5, .armyBrown-2 h6, .armyBrown-2 p, .armyBrown-2 button {
+    color: #465840; }
+
+.armyBrown-3 {
+  background: rgba(82, 94, 65, 0.7); }
+  .armyBrown-3 h1, .armyBrown-3 a:hover {
+    color: #465840; }
+  .armyBrown-3 h2, .armyBrown-3 h3, .armyBrown-3 a:visited, .armyBrown-3 li {
+    color: #60654a; }
+  .armyBrown-3 a:link {
+    color: #4f3e37; }
+  .armyBrown-3 h4, .armyBrown-3 h5, .armyBrown-3 h6, .armyBrown-3 p, .armyBrown-3 button {
+    color: #404f3d; }
+
+.armyBrown-4 {
+  background: rgba(70, 88, 64, 0.7); }
+  .armyBrown-4 h1, .armyBrown-4 a:hover {
+    color: #525e41; }
+  .armyBrown-4 h2, .armyBrown-4 h3, .armyBrown-4 a:visited, .armyBrown-4 li {
+    color: #404f3d; }
+  .armyBrown-4 a:link {
+    color: #4f3e37; }
+  .armyBrown-4 h4, .armyBrown-4 h5, .armyBrown-4 h6, .armyBrown-4 p, .armyBrown-4 button {
+    color: #60654a; }
+
+.bookface-1 {
+  background: rgba(139, 157, 195, 0.7); }
+  .bookface-1 h1, .bookface-1 a:hover {
+    color: #3b5998; }
+  .bookface-1 h2, .bookface-1 h3, .bookface-1 a:visited, .bookface-1 li {
+    color: #dfe3ee; }
+  .bookface-1 a:link {
+    color: #f7f7f7; }
+  .bookface-1 h4, .bookface-1 h5, .bookface-1 h6, .bookface-1 p, .bookface-1 button {
+    color: #ffffff; }
+
+.bookface-2 {
+  background: rgba(59, 89, 152, 0.7); }
+  .bookface-2 h1, .bookface-2 a:hover {
+    color: #8b9dc3; }
+  .bookface-2 h2, .bookface-2 h3, .bookface-2 a:visited, .bookface-2 li {
+    color: #ffffff; }
+  .bookface-2 a:link {
+    color: #f7f7f7; }
+  .bookface-2 h4, .bookface-2 h5, .bookface-2 h6, .bookface-2 p, .bookface-2 button {
+    color: #dfe3ee; }
+
+.bookface-3 {
+  background: rgba(247, 247, 247, 0.7); }
+  .bookface-3 h1, .bookface-3 a:hover {
+    color: #dfe3ee; }
+  .bookface-3 h2, .bookface-3 h3, .bookface-3 a:visited, .bookface-3 li {
+    color: #ffffff; }
+  .bookface-3 a:link {
+    color: #3b5998; }
+  .bookface-3 h4, .bookface-3 h5, .bookface-3 h6, .bookface-3 p, .bookface-3 button {
+    color: #8b9dc3; }
+
+.bookface-4 {
+  background: rgba(223, 227, 238, 0.7); }
+  .bookface-4 h1, .bookface-4 a:hover {
+    color: #f7f7f7; }
+  .bookface-4 h2, .bookface-4 h3, .bookface-4 a:visited, .bookface-4 li {
+    color: #8b9dc3; }
+  .bookface-4 a:link {
+    color: #3b5998; }
+  .bookface-4 h4, .bookface-4 h5, .bookface-4 h6, .bookface-4 p, .bookface-4 button {
+    color: #ffffff; }
+
+.oogle-1 {
+  background: rgba(0, 87, 231, 0.7); }
+  .oogle-1 h1, .oogle-1 a:hover {
+    color: #008744; }
+  .oogle-1 h2, .oogle-1 h3, .oogle-1 a:visited, .oogle-1 li {
+    color: #d62d20; }
+  .oogle-1 a:link {
+    color: #ffa700; }
+  .oogle-1 h4, .oogle-1 h5, .oogle-1 h6, .oogle-1 p, .oogle-1 button {
+    color: #ffffff; }
+
+.oogle-2 {
+  background: rgba(0, 135, 68, 0.7); }
+  .oogle-2 h1, .oogle-2 a:hover {
+    color: #0057e7; }
+  .oogle-2 h2, .oogle-2 h3, .oogle-2 a:visited, .oogle-2 li {
+    color: #ffffff; }
+  .oogle-2 a:link {
+    color: #ffa700; }
+  .oogle-2 h4, .oogle-2 h5, .oogle-2 h6, .oogle-2 p, .oogle-2 button {
+    color: #d62d20; }
+
+.oogle-3 {
+  background: rgba(255, 167, 0, 0.7); }
+  .oogle-3 h1, .oogle-3 a:hover {
+    color: #d62d20; }
+  .oogle-3 h2, .oogle-3 h3, .oogle-3 a:visited, .oogle-3 li {
+    color: #ffffff; }
+  .oogle-3 a:link {
+    color: #008744; }
+  .oogle-3 h4, .oogle-3 h5, .oogle-3 h6, .oogle-3 p, .oogle-3 button {
+    color: #0057e7; }
+
+.oogle-4 {
+  background: rgba(214, 45, 32, 0.7); }
+  .oogle-4 h1, .oogle-4 a:hover {
+    color: #ffa700; }
+  .oogle-4 h2, .oogle-4 h3, .oogle-4 a:visited, .oogle-4 li {
+    color: #0057e7; }
+  .oogle-4 a:link {
+    color: #008744; }
+  .oogle-4 h4, .oogle-4 h5, .oogle-4 h6, .oogle-4 p, .oogle-4 button {
+    color: #ffffff; }
+
+.bootstring-1 {
+  background: rgba(249, 249, 249, 0.7); }
+  .bootstring-1 h1, .bootstring-1 a:hover {
+    color: #d9534f; }
+  .bootstring-1 h2, .bootstring-1 h3, .bootstring-1 a:visited, .bootstring-1 li {
+    color: #5bc0de; }
+  .bootstring-1 a:link {
+    color: #5cb85c; }
+  .bootstring-1 h4, .bootstring-1 h5, .bootstring-1 h6, .bootstring-1 p, .bootstring-1 button {
+    color: #428bca; }
+
+.bootstring-2 {
+  background: rgba(217, 83, 79, 0.7); }
+  .bootstring-2 h1, .bootstring-2 a:hover {
+    color: #f9f9f9; }
+  .bootstring-2 h2, .bootstring-2 h3, .bootstring-2 a:visited, .bootstring-2 li {
+    color: #428bca; }
+  .bootstring-2 a:link {
+    color: #5cb85c; }
+  .bootstring-2 h4, .bootstring-2 h5, .bootstring-2 h6, .bootstring-2 p, .bootstring-2 button {
+    color: #5bc0de; }
+
+.bootstring-3 {
+  background: rgba(92, 184, 92, 0.7); }
+  .bootstring-3 h1, .bootstring-3 a:hover {
+    color: #5bc0de; }
+  .bootstring-3 h2, .bootstring-3 h3, .bootstring-3 a:visited, .bootstring-3 li {
+    color: #428bca; }
+  .bootstring-3 a:link {
+    color: #d9534f; }
+  .bootstring-3 h4, .bootstring-3 h5, .bootstring-3 h6, .bootstring-3 p, .bootstring-3 button {
+    color: #f9f9f9; }
+
+.bootstring-4 {
+  background: rgba(91, 192, 222, 0.7); }
+  .bootstring-4 h1, .bootstring-4 a:hover {
+    color: #5cb85c; }
+  .bootstring-4 h2, .bootstring-4 h3, .bootstring-4 a:visited, .bootstring-4 li {
+    color: #f9f9f9; }
+  .bootstring-4 a:link {
+    color: #d9534f; }
+  .bootstring-4 h4, .bootstring-4 h5, .bootstring-4 h6, .bootstring-4 p, .bootstring-4 button {
+    color: #428bca; }
+
+.tweeter-1 {
+  background: rgba(212, 216, 212, 0.7); }
+  .tweeter-1 h1, .tweeter-1 a:hover {
+    color: #326ada; }
+  .tweeter-1 h2, .tweeter-1 h3, .tweeter-1 a:visited, .tweeter-1 li {
+    color: #433e90; }
+  .tweeter-1 a:link {
+    color: #a19c9c; }
+  .tweeter-1 h4, .tweeter-1 h5, .tweeter-1 h6, .tweeter-1 p, .tweeter-1 button {
+    color: #d2d2d2; }
+
+.tweeter-2 {
+  background: rgba(50, 106, 218, 0.7); }
+  .tweeter-2 h1, .tweeter-2 a:hover {
+    color: #d4d8d4; }
+  .tweeter-2 h2, .tweeter-2 h3, .tweeter-2 a:visited, .tweeter-2 li {
+    color: #d2d2d2; }
+  .tweeter-2 a:link {
+    color: #a19c9c; }
+  .tweeter-2 h4, .tweeter-2 h5, .tweeter-2 h6, .tweeter-2 p, .tweeter-2 button {
+    color: #433e90; }
+
+.tweeter-3 {
+  background: rgba(161, 156, 156, 0.7); }
+  .tweeter-3 h1, .tweeter-3 a:hover {
+    color: #433e90; }
+  .tweeter-3 h2, .tweeter-3 h3, .tweeter-3 a:visited, .tweeter-3 li {
+    color: #d2d2d2; }
+  .tweeter-3 a:link {
+    color: #326ada; }
+  .tweeter-3 h4, .tweeter-3 h5, .tweeter-3 h6, .tweeter-3 p, .tweeter-3 button {
+    color: #d4d8d4; }
+
+.tweeter-4 {
+  background: rgba(67, 62, 144, 0.7); }
+  .tweeter-4 h1, .tweeter-4 a:hover {
+    color: #a19c9c; }
+  .tweeter-4 h2, .tweeter-4 h3, .tweeter-4 a:visited, .tweeter-4 li {
+    color: #d4d8d4; }
+  .tweeter-4 a:link {
+    color: #326ada; }
+  .tweeter-4 h4, .tweeter-4 h5, .tweeter-4 h6, .tweeter-4 p, .tweeter-4 button {
+    color: #d2d2d2; }
+
+.toob-1 {
+  background: rgba(39, 147, 232, 0.7); }
+  .toob-1 h1, .toob-1 a:hover {
+    color: #cc181e; }
+  .toob-1 h2, .toob-1 h3, .toob-1 a:visited, .toob-1 li {
+    color: #559900; }
+  .toob-1 a:link {
+    color: #666666; }
+  .toob-1 h4, .toob-1 h5, .toob-1 h6, .toob-1 p, .toob-1 button {
+    color: #f1f1f1; }
+
+.toob-2 {
+  background: rgba(204, 24, 30, 0.7); }
+  .toob-2 h1, .toob-2 a:hover {
+    color: #2793e8; }
+  .toob-2 h2, .toob-2 h3, .toob-2 a:visited, .toob-2 li {
+    color: #f1f1f1; }
+  .toob-2 a:link {
+    color: #666666; }
+  .toob-2 h4, .toob-2 h5, .toob-2 h6, .toob-2 p, .toob-2 button {
+    color: #559900; }
+
+.toob-3 {
+  background: rgba(102, 102, 102, 0.7); }
+  .toob-3 h1, .toob-3 a:hover {
+    color: #559900; }
+  .toob-3 h2, .toob-3 h3, .toob-3 a:visited, .toob-3 li {
+    color: #f1f1f1; }
+  .toob-3 a:link {
+    color: #cc181e; }
+  .toob-3 h4, .toob-3 h5, .toob-3 h6, .toob-3 p, .toob-3 button {
+    color: #2793e8; }
+
+.toob-4 {
+  background: rgba(85, 153, 0, 0.7); }
+  .toob-4 h1, .toob-4 a:hover {
+    color: #666666; }
+  .toob-4 h2, .toob-4 h3, .toob-4 a:visited, .toob-4 li {
+    color: #2793e8; }
+  .toob-4 a:link {
+    color: #cc181e; }
+  .toob-4 h4, .toob-4 h5, .toob-4 h6, .toob-4 p, .toob-4 button {
+    color: #f1f1f1; }
+
+.caucasion-1 {
+  background: rgba(255, 205, 148, 0.7); }
+  .caucasion-1 h1, .caucasion-1 a:hover {
+    color: #ffe0bd; }
+  .caucasion-1 h2, .caucasion-1 h3, .caucasion-1 a:visited, .caucasion-1 li {
+    color: #eac806; }
+  .caucasion-1 a:link {
+    color: #ffad60; }
+  .caucasion-1 h4, .caucasion-1 h5, .caucasion-1 h6, .caucasion-1 p, .caucasion-1 button {
+    color: #ffe39f; }
+
+.caucasion-2 {
+  background: rgba(255, 224, 189, 0.7); }
+  .caucasion-2 h1, .caucasion-2 a:hover {
+    color: #ffcd94; }
+  .caucasion-2 h2, .caucasion-2 h3, .caucasion-2 a:visited, .caucasion-2 li {
+    color: #ffe39f; }
+  .caucasion-2 a:link {
+    color: #ffad60; }
+  .caucasion-2 h4, .caucasion-2 h5, .caucasion-2 h6, .caucasion-2 p, .caucasion-2 button {
+    color: #eac806; }
+
+.caucasion-3 {
+  background: rgba(255, 173, 96, 0.7); }
+  .caucasion-3 h1, .caucasion-3 a:hover {
+    color: #eac806; }
+  .caucasion-3 h2, .caucasion-3 h3, .caucasion-3 a:visited, .caucasion-3 li {
+    color: #ffe39f; }
+  .caucasion-3 a:link {
+    color: #ffe0bd; }
+  .caucasion-3 h4, .caucasion-3 h5, .caucasion-3 h6, .caucasion-3 p, .caucasion-3 button {
+    color: #ffcd94; }
+
+.caucasion-4 {
+  background: rgba(234, 200, 6, 0.7); }
+  .caucasion-4 h1, .caucasion-4 a:hover {
+    color: #ffad60; }
+  .caucasion-4 h2, .caucasion-4 h3, .caucasion-4 a:visited, .caucasion-4 li {
+    color: #ffcd94; }
+  .caucasion-4 a:link {
+    color: #ffe0bd; }
+  .caucasion-4 h4, .caucasion-4 h5, .caucasion-4 h6, .caucasion-4 p, .caucasion-4 button {
+    color: #ffe39f; }
+
+.bronzer-1 {
+  background: rgba(221, 178, 166, 0.7); }
+  .bronzer-1 h1, .bronzer-1 a:hover {
+    color: #ddc4be; }
+  .bronzer-1 h2, .bronzer-1 h3, .bronzer-1 a:visited, .bronzer-1 li {
+    color: #c1907f; }
+  .bronzer-1 a:link {
+    color: #a56b57; }
+  .bronzer-1 h4, .bronzer-1 h5, .bronzer-1 h6, .bronzer-1 p, .bronzer-1 button {
+    color: #a86048; }
+
+.bronzer-2 {
+  background: rgba(221, 196, 190, 0.7); }
+  .bronzer-2 h1, .bronzer-2 a:hover {
+    color: #ddb2a6; }
+  .bronzer-2 h2, .bronzer-2 h3, .bronzer-2 a:visited, .bronzer-2 li {
+    color: #a86048; }
+  .bronzer-2 a:link {
+    color: #a56b57; }
+  .bronzer-2 h4, .bronzer-2 h5, .bronzer-2 h6, .bronzer-2 p, .bronzer-2 button {
+    color: #c1907f; }
+
+.bronzer-3 {
+  background: rgba(165, 107, 87, 0.7); }
+  .bronzer-3 h1, .bronzer-3 a:hover {
+    color: #c1907f; }
+  .bronzer-3 h2, .bronzer-3 h3, .bronzer-3 a:visited, .bronzer-3 li {
+    color: #a86048; }
+  .bronzer-3 a:link {
+    color: #ddc4be; }
+  .bronzer-3 h4, .bronzer-3 h5, .bronzer-3 h6, .bronzer-3 p, .bronzer-3 button {
+    color: #ddb2a6; }
+
+.bronzer-4 {
+  background: rgba(193, 144, 127, 0.7); }
+  .bronzer-4 h1, .bronzer-4 a:hover {
+    color: #a56b57; }
+  .bronzer-4 h2, .bronzer-4 h3, .bronzer-4 a:visited, .bronzer-4 li {
+    color: #ddb2a6; }
+  .bronzer-4 a:link {
+    color: #ddc4be; }
+  .bronzer-4 h4, .bronzer-4 h5, .bronzer-4 h6, .bronzer-4 p, .bronzer-4 button {
+    color: #a86048; }
+
+.gryffindor-1 {
+  background: rgba(174, 0, 1, 0.7); }
+  .gryffindor-1 h1, .gryffindor-1 a:hover {
+    color: #740001; }
+  .gryffindor-1 h2, .gryffindor-1 h3, .gryffindor-1 a:visited, .gryffindor-1 li {
+    color: #eeba30; }
+  .gryffindor-1 a:link {
+    color: #d3a625; }
+  .gryffindor-1 h4, .gryffindor-1 h5, .gryffindor-1 h6, .gryffindor-1 p, .gryffindor-1 button {
+    color: #000000; }
+
+.gryffindor-2 {
+  background: rgba(116, 0, 1, 0.7); }
+  .gryffindor-2 h1, .gryffindor-2 a:hover {
+    color: #ae0001; }
+  .gryffindor-2 h2, .gryffindor-2 h3, .gryffindor-2 a:visited, .gryffindor-2 li {
+    color: #000000; }
+  .gryffindor-2 a:link {
+    color: #d3a625; }
+  .gryffindor-2 h4, .gryffindor-2 h5, .gryffindor-2 h6, .gryffindor-2 p, .gryffindor-2 button {
+    color: #eeba30; }
+
+.gryffindor-3 {
+  background: rgba(211, 166, 37, 0.7); }
+  .gryffindor-3 h1, .gryffindor-3 a:hover {
+    color: #eeba30; }
+  .gryffindor-3 h2, .gryffindor-3 h3, .gryffindor-3 a:visited, .gryffindor-3 li {
+    color: #000000; }
+  .gryffindor-3 a:link {
+    color: #740001; }
+  .gryffindor-3 h4, .gryffindor-3 h5, .gryffindor-3 h6, .gryffindor-3 p, .gryffindor-3 button {
+    color: #ae0001; }
+
+.gryffindor-4 {
+  background: rgba(238, 186, 48, 0.7); }
+  .gryffindor-4 h1, .gryffindor-4 a:hover {
+    color: #d3a625; }
+  .gryffindor-4 h2, .gryffindor-4 h3, .gryffindor-4 a:visited, .gryffindor-4 li {
+    color: #ae0001; }
+  .gryffindor-4 a:link {
+    color: #740001; }
+  .gryffindor-4 h4, .gryffindor-4 h5, .gryffindor-4 h6, .gryffindor-4 p, .gryffindor-4 button {
+    color: #000000; }
+
+.ravenclaw-1 {
+  background: rgba(34, 47, 91, 0.7); }
+  .ravenclaw-1 h1, .ravenclaw-1 a:hover {
+    color: #0e1a40; }
+  .ravenclaw-1 h2, .ravenclaw-1 h3, .ravenclaw-1 a:visited, .ravenclaw-1 li {
+    color: #5d5d5d; }
+  .ravenclaw-1 a:link {
+    color: #946b2d; }
+  .ravenclaw-1 h4, .ravenclaw-1 h5, .ravenclaw-1 h6, .ravenclaw-1 p, .ravenclaw-1 button {
+    color: #000000; }
+
+.ravenclaw-2 {
+  background: rgba(14, 26, 64, 0.7); }
+  .ravenclaw-2 h1, .ravenclaw-2 a:hover {
+    color: #222f5b; }
+  .ravenclaw-2 h2, .ravenclaw-2 h3, .ravenclaw-2 a:visited, .ravenclaw-2 li {
+    color: #000000; }
+  .ravenclaw-2 a:link {
+    color: #946b2d; }
+  .ravenclaw-2 h4, .ravenclaw-2 h5, .ravenclaw-2 h6, .ravenclaw-2 p, .ravenclaw-2 button {
+    color: #5d5d5d; }
+
+.ravenclaw-3 {
+  background: rgba(148, 107, 45, 0.7); }
+  .ravenclaw-3 h1, .ravenclaw-3 a:hover {
+    color: #5d5d5d; }
+  .ravenclaw-3 h2, .ravenclaw-3 h3, .ravenclaw-3 a:visited, .ravenclaw-3 li {
+    color: #000000; }
+  .ravenclaw-3 a:link {
+    color: #0e1a40; }
+  .ravenclaw-3 h4, .ravenclaw-3 h5, .ravenclaw-3 h6, .ravenclaw-3 p, .ravenclaw-3 button {
+    color: #222f5b; }
+
+.ravenclaw-4 {
+  background: rgba(93, 93, 93, 0.7); }
+  .ravenclaw-4 h1, .ravenclaw-4 a:hover {
+    color: #946b2d; }
+  .ravenclaw-4 h2, .ravenclaw-4 h3, .ravenclaw-4 a:visited, .ravenclaw-4 li {
+    color: #222f5b; }
+  .ravenclaw-4 a:link {
+    color: #0e1a40; }
+  .ravenclaw-4 h4, .ravenclaw-4 h5, .ravenclaw-4 h6, .ravenclaw-4 p, .ravenclaw-4 button {
+    color: #000000; }
+
+.slytherin-1 {
+  background: rgba(42, 98, 61, 0.7); }
+  .slytherin-1 h1, .slytherin-1 a:hover {
+    color: #1a472a; }
+  .slytherin-1 h2, .slytherin-1 h3, .slytherin-1 a:visited, .slytherin-1 li {
+    color: #5d5d5d; }
+  .slytherin-1 a:link {
+    color: #aaaaaa; }
+  .slytherin-1 h4, .slytherin-1 h5, .slytherin-1 h6, .slytherin-1 p, .slytherin-1 button {
+    color: #000000; }
+
+.slytherin-2 {
+  background: rgba(26, 71, 42, 0.7); }
+  .slytherin-2 h1, .slytherin-2 a:hover {
+    color: #2a623d; }
+  .slytherin-2 h2, .slytherin-2 h3, .slytherin-2 a:visited, .slytherin-2 li {
+    color: #000000; }
+  .slytherin-2 a:link {
+    color: #aaaaaa; }
+  .slytherin-2 h4, .slytherin-2 h5, .slytherin-2 h6, .slytherin-2 p, .slytherin-2 button {
+    color: #5d5d5d; }
+
+.slytherin-3 {
+  background: rgba(170, 170, 170, 0.7); }
+  .slytherin-3 h1, .slytherin-3 a:hover {
+    color: #5d5d5d; }
+  .slytherin-3 h2, .slytherin-3 h3, .slytherin-3 a:visited, .slytherin-3 li {
+    color: #000000; }
+  .slytherin-3 a:link {
+    color: #1a472a; }
+  .slytherin-3 h4, .slytherin-3 h5, .slytherin-3 h6, .slytherin-3 p, .slytherin-3 button {
+    color: #2a623d; }
+
+.slytherin-4 {
+  background: rgba(93, 93, 93, 0.7); }
+  .slytherin-4 h1, .slytherin-4 a:hover {
+    color: #aaaaaa; }
+  .slytherin-4 h2, .slytherin-4 h3, .slytherin-4 a:visited, .slytherin-4 li {
+    color: #2a623d; }
+  .slytherin-4 a:link {
+    color: #1a472a; }
+  .slytherin-4 h4, .slytherin-4 h5, .slytherin-4 h6, .slytherin-4 p, .slytherin-4 button {
+    color: #000000; }
+
+.hufflepuff-1 {
+  background: rgba(240, 199, 94, 0.7); }
+  .hufflepuff-1 h1, .hufflepuff-1 a:hover {
+    color: #ecb939; }
+  .hufflepuff-1 h2, .hufflepuff-1 h3, .hufflepuff-1 a:visited, .hufflepuff-1 li {
+    color: #726255; }
+  .hufflepuff-1 a:link {
+    color: #372e29; }
+  .hufflepuff-1 h4, .hufflepuff-1 h5, .hufflepuff-1 h6, .hufflepuff-1 p, .hufflepuff-1 button {
+    color: #000000; }
+
+.hufflepuff-2 {
+  background: rgba(236, 185, 57, 0.7); }
+  .hufflepuff-2 h1, .hufflepuff-2 a:hover {
+    color: #f0c75e; }
+  .hufflepuff-2 h2, .hufflepuff-2 h3, .hufflepuff-2 a:visited, .hufflepuff-2 li {
+    color: #000000; }
+  .hufflepuff-2 a:link {
+    color: #372e29; }
+  .hufflepuff-2 h4, .hufflepuff-2 h5, .hufflepuff-2 h6, .hufflepuff-2 p, .hufflepuff-2 button {
+    color: #726255; }
+
+.hufflepuff-3 {
+  background: rgba(55, 46, 41, 0.7); }
+  .hufflepuff-3 h1, .hufflepuff-3 a:hover {
+    color: #726255; }
+  .hufflepuff-3 h2, .hufflepuff-3 h3, .hufflepuff-3 a:visited, .hufflepuff-3 li {
+    color: #000000; }
+  .hufflepuff-3 a:link {
+    color: #ecb939; }
+  .hufflepuff-3 h4, .hufflepuff-3 h5, .hufflepuff-3 h6, .hufflepuff-3 p, .hufflepuff-3 button {
+    color: #f0c75e; }
+
+.hufflepuff-4 {
+  background: rgba(114, 98, 85, 0.7); }
+  .hufflepuff-4 h1, .hufflepuff-4 a:hover {
+    color: #372e29; }
+  .hufflepuff-4 h2, .hufflepuff-4 h3, .hufflepuff-4 a:visited, .hufflepuff-4 li {
+    color: #f0c75e; }
+  .hufflepuff-4 a:link {
+    color: #ecb939; }
+  .hufflepuff-4 h4, .hufflepuff-4 h5, .hufflepuff-4 h6, .hufflepuff-4 p, .hufflepuff-4 button {
+    color: #000000; }
+
+.fe-man-1 {
+  background: rgba(190, 186, 70, 0.7); }
+  .fe-man-1 h1, .fe-man-1 a:hover {
+    color: #771414; }
+  .fe-man-1 h2, .fe-man-1 h3, .fe-man-1 a:visited, .fe-man-1 li {
+    color: #8bd3fb; }
+  .fe-man-1 a:link {
+    color: #bcb841; }
+  .fe-man-1 h4, .fe-man-1 h5, .fe-man-1 h6, .fe-man-1 p, .fe-man-1 button {
+    color: #790d0d; }
+
+.fe-man-2 {
+  background: rgba(119, 20, 20, 0.7); }
+  .fe-man-2 h1, .fe-man-2 a:hover {
+    color: #beba46; }
+  .fe-man-2 h2, .fe-man-2 h3, .fe-man-2 a:visited, .fe-man-2 li {
+    color: #790d0d; }
+  .fe-man-2 a:link {
+    color: #bcb841; }
+  .fe-man-2 h4, .fe-man-2 h5, .fe-man-2 h6, .fe-man-2 p, .fe-man-2 button {
+    color: #8bd3fb; }
+
+.fe-man-3 {
+  background: rgba(188, 184, 65, 0.7); }
+  .fe-man-3 h1, .fe-man-3 a:hover {
+    color: #8bd3fb; }
+  .fe-man-3 h2, .fe-man-3 h3, .fe-man-3 a:visited, .fe-man-3 li {
+    color: #790d0d; }
+  .fe-man-3 a:link {
+    color: #771414; }
+  .fe-man-3 h4, .fe-man-3 h5, .fe-man-3 h6, .fe-man-3 p, .fe-man-3 button {
+    color: #beba46; }
+
+.fe-man-4 {
+  background: rgba(139, 211, 251, 0.7); }
+  .fe-man-4 h1, .fe-man-4 a:hover {
+    color: #bcb841; }
+  .fe-man-4 h2, .fe-man-4 h3, .fe-man-4 a:visited, .fe-man-4 li {
+    color: #beba46; }
+  .fe-man-4 a:link {
+    color: #771414; }
+  .fe-man-4 h4, .fe-man-4 h5, .fe-man-4 h6, .fe-man-4 p, .fe-man-4 button {
+    color: #790d0d; }
+
+.poke-1 {
+  background: rgba(240, 0, 0, 0.7); }
+  .poke-1 h1, .poke-1 a:hover {
+    color: #ee1515; }
+  .poke-1 h2, .poke-1 h3, .poke-1 a:visited, .poke-1 li {
+    color: #222224; }
+  .poke-1 a:link {
+    color: #f0f0f0; }
+  .poke-1 h4, .poke-1 h5, .poke-1 h6, .poke-1 p, .poke-1 button {
+    color: #f0f0f0; }
+
+.poke-2 {
+  background: rgba(238, 21, 21, 0.7); }
+  .poke-2 h1, .poke-2 a:hover {
+    color: #f00000; }
+  .poke-2 h2, .poke-2 h3, .poke-2 a:visited, .poke-2 li {
+    color: #f0f0f0; }
+  .poke-2 a:link {
+    color: #f0f0f0; }
+  .poke-2 h4, .poke-2 h5, .poke-2 h6, .poke-2 p, .poke-2 button {
+    color: #222224; }
+
+.poke-3 {
+  background: rgba(240, 240, 240, 0.7); }
+  .poke-3 h1, .poke-3 a:hover {
+    color: #222224; }
+  .poke-3 h2, .poke-3 h3, .poke-3 a:visited, .poke-3 li {
+    color: #f0f0f0; }
+  .poke-3 a:link {
+    color: #ee1515; }
+  .poke-3 h4, .poke-3 h5, .poke-3 h6, .poke-3 p, .poke-3 button {
+    color: #f00000; }
+
+.poke-4 {
+  background: rgba(34, 34, 36, 0.7); }
+  .poke-4 h1, .poke-4 a:hover {
+    color: #f0f0f0; }
+  .poke-4 h2, .poke-4 h3, .poke-4 a:visited, .poke-4 li {
+    color: #f00000; }
+  .poke-4 a:link {
+    color: #ee1515; }
+  .poke-4 h4, .poke-4 h5, .poke-4 h6, .poke-4 p, .poke-4 button {
+    color: #f0f0f0; }
+
+.rasta-1 {
+  background: rgba(240, 216, 23, 0.7); }
+  .rasta-1 h1, .rasta-1 a:hover {
+    color: #e20d0d; }
+  .rasta-1 h2, .rasta-1 h3, .rasta-1 a:visited, .rasta-1 li {
+    color: #3eb308; }
+  .rasta-1 a:link {
+    color: #bbbbbb; }
+  .rasta-1 h4, .rasta-1 h5, .rasta-1 h6, .rasta-1 p, .rasta-1 button {
+    color: #aaaaaa; }
+
+.rasta-2 {
+  background: rgba(226, 13, 13, 0.7); }
+  .rasta-2 h1, .rasta-2 a:hover {
+    color: #f0d817; }
+  .rasta-2 h2, .rasta-2 h3, .rasta-2 a:visited, .rasta-2 li {
+    color: #aaaaaa; }
+  .rasta-2 a:link {
+    color: #bbbbbb; }
+  .rasta-2 h4, .rasta-2 h5, .rasta-2 h6, .rasta-2 p, .rasta-2 button {
+    color: #3eb308; }
+
+.rasta-3 {
+  background: rgba(187, 187, 187, 0.7); }
+  .rasta-3 h1, .rasta-3 a:hover {
+    color: #3eb308; }
+  .rasta-3 h2, .rasta-3 h3, .rasta-3 a:visited, .rasta-3 li {
+    color: #aaaaaa; }
+  .rasta-3 a:link {
+    color: #e20d0d; }
+  .rasta-3 h4, .rasta-3 h5, .rasta-3 h6, .rasta-3 p, .rasta-3 button {
+    color: #f0d817; }
+
+.rasta-4 {
+  background: rgba(62, 179, 8, 0.7); }
+  .rasta-4 h1, .rasta-4 a:hover {
+    color: #bbbbbb; }
+  .rasta-4 h2, .rasta-4 h3, .rasta-4 a:visited, .rasta-4 li {
+    color: #f0d817; }
+  .rasta-4 a:link {
+    color: #e20d0d; }
+  .rasta-4 h4, .rasta-4 h5, .rasta-4 h6, .rasta-4 p, .rasta-4 button {
+    color: #aaaaaa; }
+
+.cappuccino-1 {
+  background: rgba(133, 68, 66, 0.7); }
+  .cappuccino-1 h1, .cappuccino-1 a:hover {
+    color: #4b3832; }
+  .cappuccino-1 h2, .cappuccino-1 h3, .cappuccino-1 a:visited, .cappuccino-1 li {
+    color: #fff4e6; }
+  .cappuccino-1 a:link {
+    color: #3c2f2f; }
+  .cappuccino-1 h4, .cappuccino-1 h5, .cappuccino-1 h6, .cappuccino-1 p, .cappuccino-1 button {
+    color: #be9b7b; }
+
+.cappuccino-2 {
+  background: rgba(75, 56, 50, 0.7); }
+  .cappuccino-2 h1, .cappuccino-2 a:hover {
+    color: #854442; }
+  .cappuccino-2 h2, .cappuccino-2 h3, .cappuccino-2 a:visited, .cappuccino-2 li {
+    color: #be9b7b; }
+  .cappuccino-2 a:link {
+    color: #3c2f2f; }
+  .cappuccino-2 h4, .cappuccino-2 h5, .cappuccino-2 h6, .cappuccino-2 p, .cappuccino-2 button {
+    color: #fff4e6; }
+
+.cappuccino-3 {
+  background: rgba(60, 47, 47, 0.7); }
+  .cappuccino-3 h1, .cappuccino-3 a:hover {
+    color: #fff4e6; }
+  .cappuccino-3 h2, .cappuccino-3 h3, .cappuccino-3 a:visited, .cappuccino-3 li {
+    color: #be9b7b; }
+  .cappuccino-3 a:link {
+    color: #4b3832; }
+  .cappuccino-3 h4, .cappuccino-3 h5, .cappuccino-3 h6, .cappuccino-3 p, .cappuccino-3 button {
+    color: #854442; }
+
+.cappuccino-4 {
+  background: rgba(255, 244, 230, 0.7); }
+  .cappuccino-4 h1, .cappuccino-4 a:hover {
+    color: #3c2f2f; }
+  .cappuccino-4 h2, .cappuccino-4 h3, .cappuccino-4 a:visited, .cappuccino-4 li {
+    color: #854442; }
+  .cappuccino-4 a:link {
+    color: #4b3832; }
+  .cappuccino-4 h4, .cappuccino-4 h5, .cappuccino-4 h6, .cappuccino-4 p, .cappuccino-4 button {
+    color: #be9b7b; }
+
+.icecream-1 {
+  background: rgba(158, 189, 158, 0.7); }
+  .icecream-1 h1, .icecream-1 a:hover {
+    color: #bbcbdb; }
+  .icecream-1 h2, .icecream-1 h3, .icecream-1 a:visited, .icecream-1 li {
+    color: #dd855c; }
+  .icecream-1 a:link {
+    color: #f1e8ca; }
+  .icecream-1 h4, .icecream-1 h5, .icecream-1 h6, .icecream-1 p, .icecream-1 button {
+    color: #745151; }
+
+.icecream-2 {
+  background: rgba(187, 203, 219, 0.7); }
+  .icecream-2 h1, .icecream-2 a:hover {
+    color: #9ebd9e; }
+  .icecream-2 h2, .icecream-2 h3, .icecream-2 a:visited, .icecream-2 li {
+    color: #745151; }
+  .icecream-2 a:link {
+    color: #f1e8ca; }
+  .icecream-2 h4, .icecream-2 h5, .icecream-2 h6, .icecream-2 p, .icecream-2 button {
+    color: #dd855c; }
+
+.icecream-3 {
+  background: rgba(241, 232, 202, 0.7); }
+  .icecream-3 h1, .icecream-3 a:hover {
+    color: #dd855c; }
+  .icecream-3 h2, .icecream-3 h3, .icecream-3 a:visited, .icecream-3 li {
+    color: #745151; }
+  .icecream-3 a:link {
+    color: #bbcbdb; }
+  .icecream-3 h4, .icecream-3 h5, .icecream-3 h6, .icecream-3 p, .icecream-3 button {
+    color: #9ebd9e; }
+
+.icecream-4 {
+  background: rgba(221, 133, 92, 0.7); }
+  .icecream-4 h1, .icecream-4 a:hover {
+    color: #f1e8ca; }
+  .icecream-4 h2, .icecream-4 h3, .icecream-4 a:visited, .icecream-4 li {
+    color: #9ebd9e; }
+  .icecream-4 a:link {
+    color: #bbcbdb; }
+  .icecream-4 h4, .icecream-4 h5, .icecream-4 h6, .icecream-4 p, .icecream-4 button {
+    color: #745151; }
+
+.mint-1 {
+  background: rgba(195, 238, 231, 0.7); }
+  .mint-1 h1, .mint-1 a:hover {
+    color: #c6c386; }
+  .mint-1 h2, .mint-1 h3, .mint-1 a:visited, .mint-1 li {
+    color: #5b391e; }
+  .mint-1 a:link {
+    color: #87c6c3; }
+  .mint-1 h4, .mint-1 h5, .mint-1 h6, .mint-1 p, .mint-1 button {
+    color: #66bbae; }
+
+.mint-2 {
+  background: rgba(198, 195, 134, 0.7); }
+  .mint-2 h1, .mint-2 a:hover {
+    color: #c3eee7; }
+  .mint-2 h2, .mint-2 h3, .mint-2 a:visited, .mint-2 li {
+    color: #66bbae; }
+  .mint-2 a:link {
+    color: #87c6c3; }
+  .mint-2 h4, .mint-2 h5, .mint-2 h6, .mint-2 p, .mint-2 button {
+    color: #5b391e; }
+
+.mint-3 {
+  background: rgba(135, 198, 195, 0.7); }
+  .mint-3 h1, .mint-3 a:hover {
+    color: #5b391e; }
+  .mint-3 h2, .mint-3 h3, .mint-3 a:visited, .mint-3 li {
+    color: #66bbae; }
+  .mint-3 a:link {
+    color: #c6c386; }
+  .mint-3 h4, .mint-3 h5, .mint-3 h6, .mint-3 p, .mint-3 button {
+    color: #c3eee7; }
+
+.mint-4 {
+  background: rgba(91, 57, 30, 0.7); }
+  .mint-4 h1, .mint-4 a:hover {
+    color: #87c6c3; }
+  .mint-4 h2, .mint-4 h3, .mint-4 a:visited, .mint-4 li {
+    color: #c3eee7; }
+  .mint-4 a:link {
+    color: #c6c386; }
+  .mint-4 h4, .mint-4 h5, .mint-4 h6, .mint-4 p, .mint-4 button {
+    color: #66bbae; }
+
+.lemonade-1 {
+  background: rgba(236, 213, 207, 0.7); }
+  .lemonade-1 h1, .lemonade-1 a:hover {
+    color: #ecc9d1; }
+  .lemonade-1 h2, .lemonade-1 h3, .lemonade-1 a:visited, .lemonade-1 li {
+    color: #f2e1d3; }
+  .lemonade-1 a:link {
+    color: #f0e8d5; }
+  .lemonade-1 h4, .lemonade-1 h5, .lemonade-1 h6, .lemonade-1 p, .lemonade-1 button {
+    color: #f0f2d5; }
+
+.lemonade-2 {
+  background: rgba(236, 201, 209, 0.7); }
+  .lemonade-2 h1, .lemonade-2 a:hover {
+    color: #ecd5cf; }
+  .lemonade-2 h2, .lemonade-2 h3, .lemonade-2 a:visited, .lemonade-2 li {
+    color: #f0f2d5; }
+  .lemonade-2 a:link {
+    color: #f0e8d5; }
+  .lemonade-2 h4, .lemonade-2 h5, .lemonade-2 h6, .lemonade-2 p, .lemonade-2 button {
+    color: #f2e1d3; }
+
+.lemonade-3 {
+  background: rgba(240, 232, 213, 0.7); }
+  .lemonade-3 h1, .lemonade-3 a:hover {
+    color: #f2e1d3; }
+  .lemonade-3 h2, .lemonade-3 h3, .lemonade-3 a:visited, .lemonade-3 li {
+    color: #f0f2d5; }
+  .lemonade-3 a:link {
+    color: #ecc9d1; }
+  .lemonade-3 h4, .lemonade-3 h5, .lemonade-3 h6, .lemonade-3 p, .lemonade-3 button {
+    color: #ecd5cf; }
+
+.lemonade-4 {
+  background: rgba(242, 225, 211, 0.7); }
+  .lemonade-4 h1, .lemonade-4 a:hover {
+    color: #f0e8d5; }
+  .lemonade-4 h2, .lemonade-4 h3, .lemonade-4 a:visited, .lemonade-4 li {
+    color: #ecd5cf; }
+  .lemonade-4 a:link {
+    color: #ecc9d1; }
+  .lemonade-4 h4, .lemonade-4 h5, .lemonade-4 h6, .lemonade-4 p, .lemonade-4 button {
+    color: #f0f2d5; }
+
+.melon-1 {
+  background: rgba(122, 178, 88, 0.7); }
+  .melon-1 h1, .melon-1 a:hover {
+    color: #a9ff85; }
+  .melon-1 h2, .melon-1 h3, .melon-1 a:visited, .melon-1 li {
+    color: #ff7e7e; }
+  .melon-1 a:link {
+    color: #ffa4ce; }
+  .melon-1 h4, .melon-1 h5, .melon-1 h6, .melon-1 p, .melon-1 button {
+    color: #f9547e; }
+
+.melon-2 {
+  background: rgba(169, 255, 133, 0.7); }
+  .melon-2 h1, .melon-2 a:hover {
+    color: #7ab258; }
+  .melon-2 h2, .melon-2 h3, .melon-2 a:visited, .melon-2 li {
+    color: #f9547e; }
+  .melon-2 a:link {
+    color: #ffa4ce; }
+  .melon-2 h4, .melon-2 h5, .melon-2 h6, .melon-2 p, .melon-2 button {
+    color: #ff7e7e; }
+
+.melon-3 {
+  background: rgba(255, 164, 206, 0.7); }
+  .melon-3 h1, .melon-3 a:hover {
+    color: #ff7e7e; }
+  .melon-3 h2, .melon-3 h3, .melon-3 a:visited, .melon-3 li {
+    color: #f9547e; }
+  .melon-3 a:link {
+    color: #a9ff85; }
+  .melon-3 h4, .melon-3 h5, .melon-3 h6, .melon-3 p, .melon-3 button {
+    color: #7ab258; }
+
+.melon-4 {
+  background: rgba(255, 126, 126, 0.7); }
+  .melon-4 h1, .melon-4 a:hover {
+    color: #ffa4ce; }
+  .melon-4 h2, .melon-4 h3, .melon-4 a:visited, .melon-4 li {
+    color: #7ab258; }
+  .melon-4 a:link {
+    color: #a9ff85; }
+  .melon-4 h4, .melon-4 h5, .melon-4 h6, .melon-4 p, .melon-4 button {
+    color: #f9547e; }
+
+.licorice-1 {
+  background: rgba(187, 224, 196, 0.7); }
+  .licorice-1 h1, .licorice-1 a:hover {
+    color: #f7de82; }
+  .licorice-1 h2, .licorice-1 h3, .licorice-1 a:visited, .licorice-1 li {
+    color: #a286aa; }
+  .licorice-1 a:link {
+    color: #613246; }
+  .licorice-1 h4, .licorice-1 h5, .licorice-1 h6, .licorice-1 p, .licorice-1 button {
+    color: #251c3f; }
+
+.licorice-2 {
+  background: rgba(247, 222, 130, 0.7); }
+  .licorice-2 h1, .licorice-2 a:hover {
+    color: #bbe0c4; }
+  .licorice-2 h2, .licorice-2 h3, .licorice-2 a:visited, .licorice-2 li {
+    color: #251c3f; }
+  .licorice-2 a:link {
+    color: #613246; }
+  .licorice-2 h4, .licorice-2 h5, .licorice-2 h6, .licorice-2 p, .licorice-2 button {
+    color: #a286aa; }
+
+.licorice-3 {
+  background: rgba(97, 50, 70, 0.7); }
+  .licorice-3 h1, .licorice-3 a:hover {
+    color: #a286aa; }
+  .licorice-3 h2, .licorice-3 h3, .licorice-3 a:visited, .licorice-3 li {
+    color: #251c3f; }
+  .licorice-3 a:link {
+    color: #f7de82; }
+  .licorice-3 h4, .licorice-3 h5, .licorice-3 h6, .licorice-3 p, .licorice-3 button {
+    color: #bbe0c4; }
+
+.licorice-4 {
+  background: rgba(162, 134, 170, 0.7); }
+  .licorice-4 h1, .licorice-4 a:hover {
+    color: #613246; }
+  .licorice-4 h2, .licorice-4 h3, .licorice-4 a:visited, .licorice-4 li {
+    color: #bbe0c4; }
+  .licorice-4 a:link {
+    color: #f7de82; }
+  .licorice-4 h4, .licorice-4 h5, .licorice-4 h6, .licorice-4 p, .licorice-4 button {
+    color: #251c3f; }
+
+.pencil-1 {
+  background: rgba(231, 203, 149, 0.7); }
+  .pencil-1 h1, .pencil-1 a:hover {
+    color: #e3c783; }
+  .pencil-1 h2, .pencil-1 h3, .pencil-1 a:visited, .pencil-1 li {
+    color: #2f2f2f; }
+  .pencil-1 a:link {
+    color: #909090; }
+  .pencil-1 h4, .pencil-1 h5, .pencil-1 h6, .pencil-1 p, .pencil-1 button {
+    color: #909090; }
+
+.pencil-2 {
+  background: rgba(227, 199, 131, 0.7); }
+  .pencil-2 h1, .pencil-2 a:hover {
+    color: #e7cb95; }
+  .pencil-2 h2, .pencil-2 h3, .pencil-2 a:visited, .pencil-2 li {
+    color: #909090; }
+  .pencil-2 a:link {
+    color: #909090; }
+  .pencil-2 h4, .pencil-2 h5, .pencil-2 h6, .pencil-2 p, .pencil-2 button {
+    color: #2f2f2f; }
+
+.pencil-3 {
+  background: rgba(144, 144, 144, 0.7); }
+  .pencil-3 h1, .pencil-3 a:hover {
+    color: #2f2f2f; }
+  .pencil-3 h2, .pencil-3 h3, .pencil-3 a:visited, .pencil-3 li {
+    color: #909090; }
+  .pencil-3 a:link {
+    color: #e3c783; }
+  .pencil-3 h4, .pencil-3 h5, .pencil-3 h6, .pencil-3 p, .pencil-3 button {
+    color: #e7cb95; }
+
+.pencil-4 {
+  background: rgba(47, 47, 47, 0.7); }
+  .pencil-4 h1, .pencil-4 a:hover {
+    color: #909090; }
+  .pencil-4 h2, .pencil-4 h3, .pencil-4 a:visited, .pencil-4 li {
+    color: #e7cb95; }
+  .pencil-4 a:link {
+    color: #e3c783; }
+  .pencil-4 h4, .pencil-4 h5, .pencil-4 h6, .pencil-4 p, .pencil-4 button {
+    color: #909090; }
+
+.money-1 {
+  background: rgba(22, 129, 24, 0.7); }
+  .money-1 h1, .money-1 a:hover {
+    color: #3e9c35; }
+  .money-1 h2, .money-1 h3, .money-1 a:visited, .money-1 li {
+    color: #157811; }
+  .money-1 a:link {
+    color: #036704; }
+  .money-1 h4, .money-1 h5, .money-1 h6, .money-1 p, .money-1 button {
+    color: #084f09; }
+
+.money-2 {
+  background: rgba(62, 156, 53, 0.7); }
+  .money-2 h1, .money-2 a:hover {
+    color: #168118; }
+  .money-2 h2, .money-2 h3, .money-2 a:visited, .money-2 li {
+    color: #084f09; }
+  .money-2 a:link {
+    color: #036704; }
+  .money-2 h4, .money-2 h5, .money-2 h6, .money-2 p, .money-2 button {
+    color: #157811; }
+
+.money-3 {
+  background: rgba(3, 103, 4, 0.7); }
+  .money-3 h1, .money-3 a:hover {
+    color: #157811; }
+  .money-3 h2, .money-3 h3, .money-3 a:visited, .money-3 li {
+    color: #084f09; }
+  .money-3 a:link {
+    color: #3e9c35; }
+  .money-3 h4, .money-3 h5, .money-3 h6, .money-3 p, .money-3 button {
+    color: #168118; }
+
+.money-4 {
+  background: rgba(21, 120, 17, 0.7); }
+  .money-4 h1, .money-4 a:hover {
+    color: #036704; }
+  .money-4 h2, .money-4 h3, .money-4 a:visited, .money-4 li {
+    color: #168118; }
+  .money-4 a:link {
+    color: #3e9c35; }
+  .money-4 h4, .money-4 h5, .money-4 h6, .money-4 p, .money-4 button {
+    color: #084f09; }
+
+.globe-1 {
+  background: rgba(184, 164, 136, 0.7); }
+  .globe-1 h1, .globe-1 a:hover {
+    color: #eceadc; }
+  .globe-1 h2, .globe-1 h3, .globe-1 a:visited, .globe-1 li {
+    color: #8eb572; }
+  .globe-1 a:link {
+    color: #356392; }
+  .globe-1 h4, .globe-1 h5, .globe-1 h6, .globe-1 p, .globe-1 button {
+    color: #ff7913; }
+
+.globe-2 {
+  background: rgba(236, 234, 220, 0.7); }
+  .globe-2 h1, .globe-2 a:hover {
+    color: #b8a488; }
+  .globe-2 h2, .globe-2 h3, .globe-2 a:visited, .globe-2 li {
+    color: #ff7913; }
+  .globe-2 a:link {
+    color: #356392; }
+  .globe-2 h4, .globe-2 h5, .globe-2 h6, .globe-2 p, .globe-2 button {
+    color: #8eb572; }
+
+.globe-3 {
+  background: rgba(53, 99, 146, 0.7); }
+  .globe-3 h1, .globe-3 a:hover {
+    color: #8eb572; }
+  .globe-3 h2, .globe-3 h3, .globe-3 a:visited, .globe-3 li {
+    color: #ff7913; }
+  .globe-3 a:link {
+    color: #eceadc; }
+  .globe-3 h4, .globe-3 h5, .globe-3 h6, .globe-3 p, .globe-3 button {
+    color: #b8a488; }
+
+.globe-4 {
+  background: rgba(142, 181, 114, 0.7); }
+  .globe-4 h1, .globe-4 a:hover {
+    color: #356392; }
+  .globe-4 h2, .globe-4 h3, .globe-4 a:visited, .globe-4 li {
+    color: #b8a488; }
+  .globe-4 a:link {
+    color: #eceadc; }
+  .globe-4 h4, .globe-4 h5, .globe-4 h6, .globe-4 p, .globe-4 button {
+    color: #ff7913; }
+
+.coldsteel-1 {
+  background: rgba(101, 101, 101, 0.7); }
+  .coldsteel-1 h1, .coldsteel-1 a:hover {
+    color: #000000; }
+  .coldsteel-1 h2, .coldsteel-1 h3, .coldsteel-1 a:visited, .coldsteel-1 li {
+    color: #bdbdbd; }
+  .coldsteel-1 a:link {
+    color: #00d7f6; }
+  .coldsteel-1 h4, .coldsteel-1 h5, .coldsteel-1 h6, .coldsteel-1 p, .coldsteel-1 button {
+    color: #00355c; }
+
+.coldsteel-2 {
+  background: rgba(0, 0, 0, 0.7); }
+  .coldsteel-2 h1, .coldsteel-2 a:hover {
+    color: #656565; }
+  .coldsteel-2 h2, .coldsteel-2 h3, .coldsteel-2 a:visited, .coldsteel-2 li {
+    color: #00355c; }
+  .coldsteel-2 a:link {
+    color: #00d7f6; }
+  .coldsteel-2 h4, .coldsteel-2 h5, .coldsteel-2 h6, .coldsteel-2 p, .coldsteel-2 button {
+    color: #bdbdbd; }
+
+.coldsteel-3 {
+  background: rgba(0, 215, 246, 0.7); }
+  .coldsteel-3 h1, .coldsteel-3 a:hover {
+    color: #bdbdbd; }
+  .coldsteel-3 h2, .coldsteel-3 h3, .coldsteel-3 a:visited, .coldsteel-3 li {
+    color: #00355c; }
+  .coldsteel-3 a:link {
+    color: #000000; }
+  .coldsteel-3 h4, .coldsteel-3 h5, .coldsteel-3 h6, .coldsteel-3 p, .coldsteel-3 button {
+    color: #656565; }
+
+.coldsteel-4 {
+  background: rgba(189, 189, 189, 0.7); }
+  .coldsteel-4 h1, .coldsteel-4 a:hover {
+    color: #00d7f6; }
+  .coldsteel-4 h2, .coldsteel-4 h3, .coldsteel-4 a:visited, .coldsteel-4 li {
+    color: #656565; }
+  .coldsteel-4 a:link {
+    color: #000000; }
+  .coldsteel-4 h4, .coldsteel-4 h5, .coldsteel-4 h6, .coldsteel-4 p, .coldsteel-4 button {
+    color: #00355c; }
+
+.lightRetro-1 {
+  background: rgba(225, 233, 183, 0.7); }
+  .lightRetro-1 h1, .lightRetro-1 a:hover {
+    color: #e5c3c6; }
+  .lightRetro-1 h2, .lightRetro-1 h3, .lightRetro-1 a:visited, .lightRetro-1 li {
+    color: #f96161; }
+  .lightRetro-1 a:link {
+    color: #bcd2d0; }
+  .lightRetro-1 h4, .lightRetro-1 h5, .lightRetro-1 h6, .lightRetro-1 p, .lightRetro-1 button {
+    color: #d0b783; }
+
+.lightRetro-2 {
+  background: rgba(229, 195, 198, 0.7); }
+  .lightRetro-2 h1, .lightRetro-2 a:hover {
+    color: #e1e9b7; }
+  .lightRetro-2 h2, .lightRetro-2 h3, .lightRetro-2 a:visited, .lightRetro-2 li {
+    color: #d0b783; }
+  .lightRetro-2 a:link {
+    color: #bcd2d0; }
+  .lightRetro-2 h4, .lightRetro-2 h5, .lightRetro-2 h6, .lightRetro-2 p, .lightRetro-2 button {
+    color: #f96161; }
+
+.lightRetro-3 {
+  background: rgba(188, 210, 208, 0.7); }
+  .lightRetro-3 h1, .lightRetro-3 a:hover {
+    color: #f96161; }
+  .lightRetro-3 h2, .lightRetro-3 h3, .lightRetro-3 a:visited, .lightRetro-3 li {
+    color: #d0b783; }
+  .lightRetro-3 a:link {
+    color: #e5c3c6; }
+  .lightRetro-3 h4, .lightRetro-3 h5, .lightRetro-3 h6, .lightRetro-3 p, .lightRetro-3 button {
+    color: #e1e9b7; }
+
+.lightRetro-4 {
+  background: rgba(249, 97, 97, 0.7); }
+  .lightRetro-4 h1, .lightRetro-4 a:hover {
+    color: #bcd2d0; }
+  .lightRetro-4 h2, .lightRetro-4 h3, .lightRetro-4 a:visited, .lightRetro-4 li {
+    color: #e1e9b7; }
+  .lightRetro-4 a:link {
+    color: #e5c3c6; }
+  .lightRetro-4 h4, .lightRetro-4 h5, .lightRetro-4 h6, .lightRetro-4 p, .lightRetro-4 button {
+    color: #d0b783; }
+
+.oldCatalog-1 {
+  background: rgba(235, 104, 65, 0.7); }
+  .oldCatalog-1 h1, .oldCatalog-1 a:hover {
+    color: #edc951; }
+  .oldCatalog-1 h2, .oldCatalog-1 h3, .oldCatalog-1 a:visited, .oldCatalog-1 li {
+    color: #cc2a36; }
+  .oldCatalog-1 a:link {
+    color: #4f372d; }
+  .oldCatalog-1 h4, .oldCatalog-1 h5, .oldCatalog-1 h6, .oldCatalog-1 p, .oldCatalog-1 button {
+    color: #00a0b0; }
+
+.oldCatalog-2 {
+  background: rgba(237, 201, 81, 0.7); }
+  .oldCatalog-2 h1, .oldCatalog-2 a:hover {
+    color: #eb6841; }
+  .oldCatalog-2 h2, .oldCatalog-2 h3, .oldCatalog-2 a:visited, .oldCatalog-2 li {
+    color: #00a0b0; }
+  .oldCatalog-2 a:link {
+    color: #4f372d; }
+  .oldCatalog-2 h4, .oldCatalog-2 h5, .oldCatalog-2 h6, .oldCatalog-2 p, .oldCatalog-2 button {
+    color: #cc2a36; }
+
+.oldCatalog-3 {
+  background: rgba(79, 55, 45, 0.7); }
+  .oldCatalog-3 h1, .oldCatalog-3 a:hover {
+    color: #cc2a36; }
+  .oldCatalog-3 h2, .oldCatalog-3 h3, .oldCatalog-3 a:visited, .oldCatalog-3 li {
+    color: #00a0b0; }
+  .oldCatalog-3 a:link {
+    color: #edc951; }
+  .oldCatalog-3 h4, .oldCatalog-3 h5, .oldCatalog-3 h6, .oldCatalog-3 p, .oldCatalog-3 button {
+    color: #eb6841; }
+
+.oldCatalog-4 {
+  background: rgba(204, 42, 54, 0.7); }
+  .oldCatalog-4 h1, .oldCatalog-4 a:hover {
+    color: #4f372d; }
+  .oldCatalog-4 h2, .oldCatalog-4 h3, .oldCatalog-4 a:visited, .oldCatalog-4 li {
+    color: #eb6841; }
+  .oldCatalog-4 a:link {
+    color: #edc951; }
+  .oldCatalog-4 h4, .oldCatalog-4 h5, .oldCatalog-4 h6, .oldCatalog-4 p, .oldCatalog-4 button {
+    color: #00a0b0; }

@@ -1,50 +1,50 @@
 /***Main***/
+/* 
+- might make a dark and light pre-class for each
+- find a way to jumble colors (instead of h1 always being $c1 ->
+	function to dynamically change what $c1 is)
+- opacity class
+*/
+@mixin colorConstruct($one,$two,$three,$four,$five){
+		//text
+	h1,a:hover{
+		color: $one };		
+	h2,h3,a:visited,li{
+		color: $three };	
+	a:link{
+		color: $four };		
+	h4,h5,h6,p,button{
+		color: $five };			
+	//background
+	background: rgba($two,.7);
+	//border
+	//button
+	//shadow
+	//table
+}
+
 
 @mixin color-scheme(){
-	@each $name, $value in $colors{
-		// $bgcolor: nth($value,1);
-		$h1: nth($value,1);
-		$h2: nth($value,2);
-		$h3: nth($value,3);
-		$h4: nth($value,4);
-		$h5: nth($value,5);
-		// $h6: nth($value,2)
-		.#{$name}{
-			h1{
-				color: $h1 };			
-			h2{
-				color: $h2 };			
-			h3{
-				color: $h3 };			
-			h4{
-				color: $h4 };			
-			h5{
-				color: $h5 };			
-
-
+	@each $name, $value in $colors{ // loops through all color-vars
+		$c1: nth($value,1);
+		$c2: nth($value,2);
+		$c3: nth($value,3);
+		$c4: nth($value,4);
+		$c5: nth($value,5);
+		.#{$name}-1{
+			@include colorConstruct($c1,$c2,$c3,$c4,$c5)
 		}
+		.#{$name}-2{
+			@include colorConstruct($c2,$c1,$c5,$c4,$c3)
+		}
+		.#{$name}-3{
+			@include colorConstruct($c3,$c4,$c5,$c1,$c2)
+		}		
+		.#{$name}-4{
+			@include colorConstruct($c4,$c3,$c2,$c1,$c5)
+		}				
 	}
-	// .foo1{
-	// 	// color: map-values($musk);
-	// 	color: map-get($word,'a')
-	// }
-	// .foo2{
-	// 	color: map-get($blue,'b')
-	// }.foo3{
-	// 	color: map-get($micah,'c')
-	// }.foo4{
-	// 	color: map-get($fire,'d')
-	// }.foo5{
-	// 	color: map-get($icefire,'e')
-	// }
+
 }
-/***Background***/
-/***Text***/
-/***Links***/
-/***Buttons***/
-/***Borders***/
-/***Nav***/
-/***Lists***/
-/***Hover***/
 
 
