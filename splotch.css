@@ -533,48 +533,48 @@
   .blueSet-4 h4, .blueSet-4 h5, .blueSet-4 h6, .blueSet-4 p, .blueSet-4 button, .blueSet-4 li {
     color: #b3cde0; }
 
-.turquise-1 {
+.turquiseSet-1 {
   background: rgba(137, 236, 218, 0.9); }
-  .turquise-1 h1, .turquise-1 a:hover {
+  .turquiseSet-1 h1, .turquiseSet-1 a:hover {
     color: #b3ecec; }
-  .turquise-1 h2, .turquise-1 h3, .turquise-1 a:visited {
+  .turquiseSet-1 h2, .turquiseSet-1 h3, .turquiseSet-1 a:visited {
     color: #43e8d8; }
-  .turquise-1 a:link {
+  .turquiseSet-1 a:link {
     color: #40e0d0; }
-  .turquise-1 h4, .turquise-1 h5, .turquise-1 h6, .turquise-1 p, .turquise-1 button, .turquise-1 li {
+  .turquiseSet-1 h4, .turquiseSet-1 h5, .turquiseSet-1 h6, .turquiseSet-1 p, .turquiseSet-1 button, .turquiseSet-1 li {
     color: #3bd6c6; }
 
-.turquise-2 {
+.turquiseSet-2 {
   background: rgba(179, 236, 236, 0.9); }
-  .turquise-2 h1, .turquise-2 a:hover {
+  .turquiseSet-2 h1, .turquiseSet-2 a:hover {
     color: #89ecda; }
-  .turquise-2 h2, .turquise-2 h3, .turquise-2 a:visited {
+  .turquiseSet-2 h2, .turquiseSet-2 h3, .turquiseSet-2 a:visited {
     color: #3bd6c6; }
-  .turquise-2 a:link {
+  .turquiseSet-2 a:link {
     color: #40e0d0; }
-  .turquise-2 h4, .turquise-2 h5, .turquise-2 h6, .turquise-2 p, .turquise-2 button, .turquise-2 li {
+  .turquiseSet-2 h4, .turquiseSet-2 h5, .turquiseSet-2 h6, .turquiseSet-2 p, .turquiseSet-2 button, .turquiseSet-2 li {
     color: #43e8d8; }
 
-.turquise-3 {
+.turquiseSet-3 {
   background: rgba(64, 224, 208, 0.9); }
-  .turquise-3 h1, .turquise-3 a:hover {
+  .turquiseSet-3 h1, .turquiseSet-3 a:hover {
     color: #43e8d8; }
-  .turquise-3 h2, .turquise-3 h3, .turquise-3 a:visited {
+  .turquiseSet-3 h2, .turquiseSet-3 h3, .turquiseSet-3 a:visited {
     color: #3bd6c6; }
-  .turquise-3 a:link {
+  .turquiseSet-3 a:link {
     color: #b3ecec; }
-  .turquise-3 h4, .turquise-3 h5, .turquise-3 h6, .turquise-3 p, .turquise-3 button, .turquise-3 li {
+  .turquiseSet-3 h4, .turquiseSet-3 h5, .turquiseSet-3 h6, .turquiseSet-3 p, .turquiseSet-3 button, .turquiseSet-3 li {
     color: #89ecda; }
 
-.turquise-4 {
+.turquiseSet-4 {
   background: rgba(67, 232, 216, 0.9); }
-  .turquise-4 h1, .turquise-4 a:hover {
+  .turquiseSet-4 h1, .turquiseSet-4 a:hover {
     color: #40e0d0; }
-  .turquise-4 h2, .turquise-4 h3, .turquise-4 a:visited {
+  .turquiseSet-4 h2, .turquiseSet-4 h3, .turquiseSet-4 a:visited {
     color: #89ecda; }
-  .turquise-4 a:link {
+  .turquiseSet-4 a:link {
     color: #b3ecec; }
-  .turquise-4 h4, .turquise-4 h5, .turquise-4 h6, .turquise-4 p, .turquise-4 button, .turquise-4 li {
+  .turquiseSet-4 h4, .turquiseSet-4 h5, .turquiseSet-4 h6, .turquiseSet-4 p, .turquiseSet-4 button, .turquiseSet-4 li {
     color: #3bd6c6; }
 
 .tealSet-1 {
@@ -3754,14 +3754,14 @@
   .poke-1 a:link {
     color: #f0f0f0; }
   .poke-1 h4, .poke-1 h5, .poke-1 h6, .poke-1 p, .poke-1 button, .poke-1 li {
-    color: #f0f0f0; }
+    color: #f6f6f6; }
 
 .poke-2 {
   background: rgba(238, 21, 21, 0.9); }
   .poke-2 h1, .poke-2 a:hover {
     color: #f00000; }
   .poke-2 h2, .poke-2 h3, .poke-2 a:visited {
-    color: #f0f0f0; }
+    color: #f6f6f6; }
   .poke-2 a:link {
     color: #f0f0f0; }
   .poke-2 h4, .poke-2 h5, .poke-2 h6, .poke-2 p, .poke-2 button, .poke-2 li {
@@ -3772,7 +3772,7 @@
   .poke-3 h1, .poke-3 a:hover {
     color: #222224; }
   .poke-3 h2, .poke-3 h3, .poke-3 a:visited {
-    color: #f0f0f0; }
+    color: #f6f6f6; }
   .poke-3 a:link {
     color: #ee1515; }
   .poke-3 h4, .poke-3 h5, .poke-3 h6, .poke-3 p, .poke-3 button, .poke-3 li {
@@ -3787,7 +3787,7 @@
   .poke-4 a:link {
     color: #ee1515; }
   .poke-4 h4, .poke-4 h5, .poke-4 h6, .poke-4 p, .poke-4 button, .poke-4 li {
-    color: #f0f0f0; }
+    color: #f6f6f6; }
 
 .rasta-1 {
   background: rgba(240, 216, 23, 0.9); }
