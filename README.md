@@ -26,5 +26,5 @@ npm install splotch
 - colors extending past just text
 
 ##Color classes by category
-![Check out the classes you can use](https://git-clay.github.io/splotch/)  
+[Check out the classes you can use](https://git-clay.github.io/splotch/)  
 Each class has four variations. The syntax is classname dash number(1,2,3,4) ex:`class='icecream-1'` or `class='seafoam-4'`
