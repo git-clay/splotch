@@ -9,14 +9,14 @@
 		//text
 	h1,a:hover{
 		color: $one };		
-	h2,h3,a:visited,li{
+	h2,h3,a:visited{
 		color: $three };	
 	a:link{
 		color: $four };		
-	h4,h5,h6,p,button{
+	h4,h5,h6,p,button,li{
 		color: $five };			
 	//background
-	background: rgba($two,.7);
+	background: rgba($two,.9);
 	//border
 	//button
 	//shadow
