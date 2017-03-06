@@ -1,6 +1,6 @@
 {
   "name": "splotch",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Deside on a color scheme",
   "scripts": {},
   "repository": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/git-clay/splotch/issues"
   },
-  "homepage": "https://github.com/git-clay/sugarCubed#readme",
+  "homepage": "https://github.com/git-clay/splotch#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
