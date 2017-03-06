@@ -8,7 +8,7 @@ npm install splotch
 ##Usage
 	1. Link to splotch on html page
 ```html
-<link rel="stylesheet" type="text/css" href="css/splotch.min.css">
+<link rel="stylesheet" type="text/css" href="./node_modules/splotch/splotch.min.css">	
 ```
 	2. To use on the whole page
 ```html
