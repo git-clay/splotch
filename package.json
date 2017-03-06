@@ -1,0 +1,36 @@
+{
+  "name": "splotch",
+  "version": "1.0.0",
+  "description": "Deside on a color scheme",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-clay/splotch.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "front-end",
+    "framework",
+    "web",
+    "color-schemes",
+    "design"
+  ],
+  "author": "Clay (http://www.clay-code.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-clay/splotch/issues"
+  },
+  "homepage": "https://github.com/git-clay/sugarCubed#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {}
+}

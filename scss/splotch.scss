@@ -1,0 +1,10 @@
+@import "color-variables";
+@import "mixins/colors";
+
+@include color-scheme();
+
+body{
+background: black
+
+}
+
