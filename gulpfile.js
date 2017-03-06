@@ -23,12 +23,12 @@ gulp.task('sass', function(done) {
     .pipe(sass({
       errLogToConsole: true
     }))
-    .pipe(gulp.dest('./dist/css/'))
+    .pipe(gulp.dest('./'))
     .pipe(minifyCss({
       keepSpecialComments: 0
     }))
     .pipe(rename({ extname: '.min.css' }))
-    .pipe(gulp.dest('./dist/css/'))
+    .pipe(gulp.dest('./'))
     .on('end', done);
 });
 
