@@ -1,11 +1,11 @@
-#Splotch
+# Splotch
 
-##Install
+## Install
 ```
 npm install splotch
 ```
 
-##Usage
+## Usage
 	1. Link to splotch on html page
 ```html
 <link rel="stylesheet" type="text/css" href="./node_modules/splotch/splotch.min.css">	
@@ -22,9 +22,9 @@ npm install splotch
 <div class='mint-4'></div>
 ```
 
-##Coming soon
+## Coming soon
 - colors extending past just text
 
-##Color classes by category
+## Color classes by category
 [Check out the classes you can use](https://git-clay.github.io/splotch/)  
 Each class has four variations. The syntax is classname dash number(1,2,3,4) ex:`class='icecream-1'` or `class='seafoam-4'`
