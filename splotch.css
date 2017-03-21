@@ -4,6 +4,7 @@
 - find a way to jumble colors (instead of h1 always being $c1 ->
 	function to dynamically change what $c1 is)
 - opacity class
+- id for each class (1-5 for each color in scheme)
 */
 .musk-1 {
   background: rgba(0, 79, 148, 0.9); }
@@ -4360,3 +4361,795 @@
     color: #edc951; }
   .oldCatalog-4 h4, .oldCatalog-4 h5, .oldCatalog-4 h6, .oldCatalog-4 p, .oldCatalog-4 button, .oldCatalog-4 li {
     color: #00a0b0; }
+
+.clayCode-1 {
+  background: rgba(91, 192, 222, 0.9); }
+  .clayCode-1 h1, .clayCode-1 a:hover {
+    color: #2c3e50; }
+  .clayCode-1 h2, .clayCode-1 h3, .clayCode-1 a:visited {
+    color: #18bc9c; }
+  .clayCode-1 a:link {
+    color: #337ab7; }
+  .clayCode-1 h4, .clayCode-1 h5, .clayCode-1 h6, .clayCode-1 p, .clayCode-1 button, .clayCode-1 li {
+    color: #f9f9f9; }
+
+.clayCode-2 {
+  background: rgba(44, 62, 80, 0.9); }
+  .clayCode-2 h1, .clayCode-2 a:hover {
+    color: #5bc0de; }
+  .clayCode-2 h2, .clayCode-2 h3, .clayCode-2 a:visited {
+    color: #f9f9f9; }
+  .clayCode-2 a:link {
+    color: #337ab7; }
+  .clayCode-2 h4, .clayCode-2 h5, .clayCode-2 h6, .clayCode-2 p, .clayCode-2 button, .clayCode-2 li {
+    color: #18bc9c; }
+
+.clayCode-3 {
+  background: rgba(51, 122, 183, 0.9); }
+  .clayCode-3 h1, .clayCode-3 a:hover {
+    color: #18bc9c; }
+  .clayCode-3 h2, .clayCode-3 h3, .clayCode-3 a:visited {
+    color: #f9f9f9; }
+  .clayCode-3 a:link {
+    color: #2c3e50; }
+  .clayCode-3 h4, .clayCode-3 h5, .clayCode-3 h6, .clayCode-3 p, .clayCode-3 button, .clayCode-3 li {
+    color: #5bc0de; }
+
+.clayCode-4 {
+  background: rgba(24, 188, 156, 0.9); }
+  .clayCode-4 h1, .clayCode-4 a:hover {
+    color: #337ab7; }
+  .clayCode-4 h2, .clayCode-4 h3, .clayCode-4 a:visited {
+    color: #5bc0de; }
+  .clayCode-4 a:link {
+    color: #2c3e50; }
+  .clayCode-4 h4, .clayCode-4 h5, .clayCode-4 h6, .clayCode-4 p, .clayCode-4 button, .clayCode-4 li {
+    color: #f9f9f9; }
+
+.america-1 {
+  background: rgba(1, 87, 174, 0.9); }
+  .america-1 h1, .america-1 a:hover {
+    color: #d42729; }
+  .america-1 h2, .america-1 h3, .america-1 a:visited {
+    color: #ff0000; }
+  .america-1 a:link {
+    color: #000654; }
+  .america-1 h4, .america-1 h5, .america-1 h6, .america-1 p, .america-1 button, .america-1 li {
+    color: #ffffff; }
+
+.america-2 {
+  background: rgba(212, 39, 41, 0.9); }
+  .america-2 h1, .america-2 a:hover {
+    color: #0157ae; }
+  .america-2 h2, .america-2 h3, .america-2 a:visited {
+    color: #ffffff; }
+  .america-2 a:link {
+    color: #000654; }
+  .america-2 h4, .america-2 h5, .america-2 h6, .america-2 p, .america-2 button, .america-2 li {
+    color: #ff0000; }
+
+.america-3 {
+  background: rgba(0, 6, 84, 0.9); }
+  .america-3 h1, .america-3 a:hover {
+    color: #ff0000; }
+  .america-3 h2, .america-3 h3, .america-3 a:visited {
+    color: #ffffff; }
+  .america-3 a:link {
+    color: #d42729; }
+  .america-3 h4, .america-3 h5, .america-3 h6, .america-3 p, .america-3 button, .america-3 li {
+    color: #0157ae; }
+
+.america-4 {
+  background: rgba(255, 0, 0, 0.9); }
+  .america-4 h1, .america-4 a:hover {
+    color: #000654; }
+  .america-4 h2, .america-4 h3, .america-4 a:visited {
+    color: #0157ae; }
+  .america-4 a:link {
+    color: #d42729; }
+  .america-4 h4, .america-4 h5, .america-4 h6, .america-4 p, .america-4 button, .america-4 li {
+    color: #ffffff; }
+
+.germany-1 {
+  background: rgba(255, 206, 0, 0.9); }
+  .germany-1 h1, .germany-1 a:hover {
+    color: #000000; }
+  .germany-1 h2, .germany-1 h3, .germany-1 a:visited {
+    color: #dd0000; }
+  .germany-1 a:link {
+    color: #d4d4d4; }
+  .germany-1 h4, .germany-1 h5, .germany-1 h6, .germany-1 p, .germany-1 button, .germany-1 li {
+    color: #ffffff; }
+
+.germany-2 {
+  background: rgba(0, 0, 0, 0.9); }
+  .germany-2 h1, .germany-2 a:hover {
+    color: #ffce00; }
+  .germany-2 h2, .germany-2 h3, .germany-2 a:visited {
+    color: #ffffff; }
+  .germany-2 a:link {
+    color: #d4d4d4; }
+  .germany-2 h4, .germany-2 h5, .germany-2 h6, .germany-2 p, .germany-2 button, .germany-2 li {
+    color: #dd0000; }
+
+.germany-3 {
+  background: rgba(212, 212, 212, 0.9); }
+  .germany-3 h1, .germany-3 a:hover {
+    color: #dd0000; }
+  .germany-3 h2, .germany-3 h3, .germany-3 a:visited {
+    color: #ffffff; }
+  .germany-3 a:link {
+    color: #000000; }
+  .germany-3 h4, .germany-3 h5, .germany-3 h6, .germany-3 p, .germany-3 button, .germany-3 li {
+    color: #ffce00; }
+
+.germany-4 {
+  background: rgba(221, 0, 0, 0.9); }
+  .germany-4 h1, .germany-4 a:hover {
+    color: #d4d4d4; }
+  .germany-4 h2, .germany-4 h3, .germany-4 a:visited {
+    color: #ffce00; }
+  .germany-4 a:link {
+    color: #000000; }
+  .germany-4 h4, .germany-4 h5, .germany-4 h6, .germany-4 p, .germany-4 button, .germany-4 li {
+    color: #ffffff; }
+
+.italy-1 {
+  background: rgba(143, 216, 148, 0.9); }
+  .italy-1 h1, .italy-1 a:hover {
+    color: #006900; }
+  .italy-1 h2, .italy-1 h3, .italy-1 a:visited {
+    color: #ea9898; }
+  .italy-1 a:link {
+    color: #980000; }
+  .italy-1 h4, .italy-1 h5, .italy-1 h6, .italy-1 p, .italy-1 button, .italy-1 li {
+    color: #ffffff; }
+
+.italy-2 {
+  background: rgba(0, 105, 0, 0.9); }
+  .italy-2 h1, .italy-2 a:hover {
+    color: #8fd894; }
+  .italy-2 h2, .italy-2 h3, .italy-2 a:visited {
+    color: #ffffff; }
+  .italy-2 a:link {
+    color: #980000; }
+  .italy-2 h4, .italy-2 h5, .italy-2 h6, .italy-2 p, .italy-2 button, .italy-2 li {
+    color: #ea9898; }
+
+.italy-3 {
+  background: rgba(152, 0, 0, 0.9); }
+  .italy-3 h1, .italy-3 a:hover {
+    color: #ea9898; }
+  .italy-3 h2, .italy-3 h3, .italy-3 a:visited {
+    color: #ffffff; }
+  .italy-3 a:link {
+    color: #006900; }
+  .italy-3 h4, .italy-3 h5, .italy-3 h6, .italy-3 p, .italy-3 button, .italy-3 li {
+    color: #8fd894; }
+
+.italy-4 {
+  background: rgba(234, 152, 152, 0.9); }
+  .italy-4 h1, .italy-4 a:hover {
+    color: #980000; }
+  .italy-4 h2, .italy-4 h3, .italy-4 a:visited {
+    color: #8fd894; }
+  .italy-4 a:link {
+    color: #006900; }
+  .italy-4 h4, .italy-4 h5, .italy-4 h6, .italy-4 p, .italy-4 button, .italy-4 li {
+    color: #ffffff; }
+
+.mexico-1 {
+  background: rgba(239, 107, 1, 0.9); }
+  .mexico-1 h1, .mexico-1 a:hover {
+    color: #2f8653; }
+  .mexico-1 h2, .mexico-1 h3, .mexico-1 a:visited {
+    color: #252323; }
+  .mexico-1 a:link {
+    color: #2f8653; }
+  .mexico-1 h4, .mexico-1 h5, .mexico-1 h6, .mexico-1 p, .mexico-1 button, .mexico-1 li {
+    color: #f7f7f7; }
+
+.mexico-2 {
+  background: rgba(47, 134, 83, 0.9); }
+  .mexico-2 h1, .mexico-2 a:hover {
+    color: #ef6b01; }
+  .mexico-2 h2, .mexico-2 h3, .mexico-2 a:visited {
+    color: #f7f7f7; }
+  .mexico-2 a:link {
+    color: #2f8653; }
+  .mexico-2 h4, .mexico-2 h5, .mexico-2 h6, .mexico-2 p, .mexico-2 button, .mexico-2 li {
+    color: #252323; }
+
+.mexico-3 {
+  background: rgba(47, 134, 83, 0.9); }
+  .mexico-3 h1, .mexico-3 a:hover {
+    color: #252323; }
+  .mexico-3 h2, .mexico-3 h3, .mexico-3 a:visited {
+    color: #f7f7f7; }
+  .mexico-3 a:link {
+    color: #2f8653; }
+  .mexico-3 h4, .mexico-3 h5, .mexico-3 h6, .mexico-3 p, .mexico-3 button, .mexico-3 li {
+    color: #ef6b01; }
+
+.mexico-4 {
+  background: rgba(37, 35, 35, 0.9); }
+  .mexico-4 h1, .mexico-4 a:hover {
+    color: #2f8653; }
+  .mexico-4 h2, .mexico-4 h3, .mexico-4 a:visited {
+    color: #ef6b01; }
+  .mexico-4 a:link {
+    color: #2f8653; }
+  .mexico-4 h4, .mexico-4 h5, .mexico-4 h6, .mexico-4 p, .mexico-4 button, .mexico-4 li {
+    color: #f7f7f7; }
+
+.birthday-1 {
+  background: rgba(253, 239, 20, 0.9); }
+  .birthday-1 h1, .birthday-1 a:hover {
+    color: #ff432e; }
+  .birthday-1 h2, .birthday-1 h3, .birthday-1 a:visited {
+    color: #b1eb00; }
+  .birthday-1 a:link {
+    color: #4aa8db; }
+  .birthday-1 h4, .birthday-1 h5, .birthday-1 h6, .birthday-1 p, .birthday-1 button, .birthday-1 li {
+    color: #ff85cb; }
+
+.birthday-2 {
+  background: rgba(255, 67, 46, 0.9); }
+  .birthday-2 h1, .birthday-2 a:hover {
+    color: #fdef14; }
+  .birthday-2 h2, .birthday-2 h3, .birthday-2 a:visited {
+    color: #ff85cb; }
+  .birthday-2 a:link {
+    color: #4aa8db; }
+  .birthday-2 h4, .birthday-2 h5, .birthday-2 h6, .birthday-2 p, .birthday-2 button, .birthday-2 li {
+    color: #b1eb00; }
+
+.birthday-3 {
+  background: rgba(74, 168, 219, 0.9); }
+  .birthday-3 h1, .birthday-3 a:hover {
+    color: #b1eb00; }
+  .birthday-3 h2, .birthday-3 h3, .birthday-3 a:visited {
+    color: #ff85cb; }
+  .birthday-3 a:link {
+    color: #ff432e; }
+  .birthday-3 h4, .birthday-3 h5, .birthday-3 h6, .birthday-3 p, .birthday-3 button, .birthday-3 li {
+    color: #fdef14; }
+
+.birthday-4 {
+  background: rgba(177, 235, 0, 0.9); }
+  .birthday-4 h1, .birthday-4 a:hover {
+    color: #4aa8db; }
+  .birthday-4 h2, .birthday-4 h3, .birthday-4 a:visited {
+    color: #fdef14; }
+  .birthday-4 a:link {
+    color: #ff432e; }
+  .birthday-4 h4, .birthday-4 h5, .birthday-4 h6, .birthday-4 p, .birthday-4 button, .birthday-4 li {
+    color: #ff85cb; }
+
+.christmas-1 {
+  background: rgba(178, 0, 0, 0.9); }
+  .christmas-1 h1, .christmas-1 a:hover {
+    color: #10ba00; }
+  .christmas-1 h2, .christmas-1 h3, .christmas-1 a:visited {
+    color: #0d900f; }
+  .christmas-1 a:link {
+    color: #9aff5b; }
+  .christmas-1 h4, .christmas-1 h5, .christmas-1 h6, .christmas-1 p, .christmas-1 button, .christmas-1 li {
+    color: #ff0000; }
+
+.christmas-2 {
+  background: rgba(16, 186, 0, 0.9); }
+  .christmas-2 h1, .christmas-2 a:hover {
+    color: #b20000; }
+  .christmas-2 h2, .christmas-2 h3, .christmas-2 a:visited {
+    color: #ff0000; }
+  .christmas-2 a:link {
+    color: #9aff5b; }
+  .christmas-2 h4, .christmas-2 h5, .christmas-2 h6, .christmas-2 p, .christmas-2 button, .christmas-2 li {
+    color: #0d900f; }
+
+.christmas-3 {
+  background: rgba(154, 255, 91, 0.9); }
+  .christmas-3 h1, .christmas-3 a:hover {
+    color: #0d900f; }
+  .christmas-3 h2, .christmas-3 h3, .christmas-3 a:visited {
+    color: #ff0000; }
+  .christmas-3 a:link {
+    color: #10ba00; }
+  .christmas-3 h4, .christmas-3 h5, .christmas-3 h6, .christmas-3 p, .christmas-3 button, .christmas-3 li {
+    color: #b20000; }
+
+.christmas-4 {
+  background: rgba(13, 144, 15, 0.9); }
+  .christmas-4 h1, .christmas-4 a:hover {
+    color: #9aff5b; }
+  .christmas-4 h2, .christmas-4 h3, .christmas-4 a:visited {
+    color: #b20000; }
+  .christmas-4 a:link {
+    color: #10ba00; }
+  .christmas-4 h4, .christmas-4 h5, .christmas-4 h6, .christmas-4 p, .christmas-4 button, .christmas-4 li {
+    color: #ff0000; }
+
+.christmasVint-1 {
+  background: rgba(238, 51, 68, 0.9); }
+  .christmasVint-1 h1, .christmasVint-1 a:hover {
+    color: #225533; }
+  .christmasVint-1 h2, .christmasVint-1 h3, .christmasVint-1 a:visited {
+    color: #ccbb99; }
+  .christmasVint-1 a:link {
+    color: #888877; }
+  .christmasVint-1 h4, .christmasVint-1 h5, .christmasVint-1 h6, .christmasVint-1 p, .christmasVint-1 button, .christmasVint-1 li {
+    color: #ffffdd; }
+
+.christmasVint-2 {
+  background: rgba(34, 85, 51, 0.9); }
+  .christmasVint-2 h1, .christmasVint-2 a:hover {
+    color: #ee3344; }
+  .christmasVint-2 h2, .christmasVint-2 h3, .christmasVint-2 a:visited {
+    color: #ffffdd; }
+  .christmasVint-2 a:link {
+    color: #888877; }
+  .christmasVint-2 h4, .christmasVint-2 h5, .christmasVint-2 h6, .christmasVint-2 p, .christmasVint-2 button, .christmasVint-2 li {
+    color: #ccbb99; }
+
+.christmasVint-3 {
+  background: rgba(136, 136, 119, 0.9); }
+  .christmasVint-3 h1, .christmasVint-3 a:hover {
+    color: #ccbb99; }
+  .christmasVint-3 h2, .christmasVint-3 h3, .christmasVint-3 a:visited {
+    color: #ffffdd; }
+  .christmasVint-3 a:link {
+    color: #225533; }
+  .christmasVint-3 h4, .christmasVint-3 h5, .christmasVint-3 h6, .christmasVint-3 p, .christmasVint-3 button, .christmasVint-3 li {
+    color: #ee3344; }
+
+.christmasVint-4 {
+  background: rgba(204, 187, 153, 0.9); }
+  .christmasVint-4 h1, .christmasVint-4 a:hover {
+    color: #888877; }
+  .christmasVint-4 h2, .christmasVint-4 h3, .christmasVint-4 a:visited {
+    color: #ee3344; }
+  .christmasVint-4 a:link {
+    color: #225533; }
+  .christmasVint-4 h4, .christmasVint-4 h5, .christmasVint-4 h6, .christmasVint-4 p, .christmasVint-4 button, .christmasVint-4 li {
+    color: #ffffdd; }
+
+.christmasPast-1 {
+  background: rgba(119, 191, 142, 0.9); }
+  .christmasPast-1 h1, .christmasPast-1 a:hover {
+    color: #e77676; }
+  .christmasPast-1 h2, .christmasPast-1 h3, .christmasPast-1 a:visited {
+    color: #e57575; }
+  .christmasPast-1 a:link {
+    color: #badec6; }
+  .christmasPast-1 h4, .christmasPast-1 h5, .christmasPast-1 h6, .christmasPast-1 p, .christmasPast-1 button, .christmasPast-1 li {
+    color: #f2baba; }
+
+.christmasPast-2 {
+  background: rgba(231, 118, 118, 0.9); }
+  .christmasPast-2 h1, .christmasPast-2 a:hover {
+    color: #77bf8e; }
+  .christmasPast-2 h2, .christmasPast-2 h3, .christmasPast-2 a:visited {
+    color: #f2baba; }
+  .christmasPast-2 a:link {
+    color: #badec6; }
+  .christmasPast-2 h4, .christmasPast-2 h5, .christmasPast-2 h6, .christmasPast-2 p, .christmasPast-2 button, .christmasPast-2 li {
+    color: #e57575; }
+
+.christmasPast-3 {
+  background: rgba(186, 222, 198, 0.9); }
+  .christmasPast-3 h1, .christmasPast-3 a:hover {
+    color: #e57575; }
+  .christmasPast-3 h2, .christmasPast-3 h3, .christmasPast-3 a:visited {
+    color: #f2baba; }
+  .christmasPast-3 a:link {
+    color: #e77676; }
+  .christmasPast-3 h4, .christmasPast-3 h5, .christmasPast-3 h6, .christmasPast-3 p, .christmasPast-3 button, .christmasPast-3 li {
+    color: #77bf8e; }
+
+.christmasPast-4 {
+  background: rgba(229, 117, 117, 0.9); }
+  .christmasPast-4 h1, .christmasPast-4 a:hover {
+    color: #badec6; }
+  .christmasPast-4 h2, .christmasPast-4 h3, .christmasPast-4 a:visited {
+    color: #77bf8e; }
+  .christmasPast-4 a:link {
+    color: #e77676; }
+  .christmasPast-4 h4, .christmasPast-4 h5, .christmasPast-4 h6, .christmasPast-4 p, .christmasPast-4 button, .christmasPast-4 li {
+    color: #f2baba; }
+
+.easter-1 {
+  background: rgba(255, 206, 206, 0.9); }
+  .easter-1 h1, .easter-1 a:hover {
+    color: #e2ff8e; }
+  .easter-1 h2, .easter-1 h3, .easter-1 a:visited {
+    color: #d6fffc; }
+  .easter-1 a:link {
+    color: #f5e0ff; }
+  .easter-1 h4, .easter-1 h5, .easter-1 h6, .easter-1 p, .easter-1 button, .easter-1 li {
+    color: #fffcdb; }
+
+.easter-2 {
+  background: rgba(226, 255, 142, 0.9); }
+  .easter-2 h1, .easter-2 a:hover {
+    color: #ffcece; }
+  .easter-2 h2, .easter-2 h3, .easter-2 a:visited {
+    color: #fffcdb; }
+  .easter-2 a:link {
+    color: #f5e0ff; }
+  .easter-2 h4, .easter-2 h5, .easter-2 h6, .easter-2 p, .easter-2 button, .easter-2 li {
+    color: #d6fffc; }
+
+.easter-3 {
+  background: rgba(245, 224, 255, 0.9); }
+  .easter-3 h1, .easter-3 a:hover {
+    color: #d6fffc; }
+  .easter-3 h2, .easter-3 h3, .easter-3 a:visited {
+    color: #fffcdb; }
+  .easter-3 a:link {
+    color: #e2ff8e; }
+  .easter-3 h4, .easter-3 h5, .easter-3 h6, .easter-3 p, .easter-3 button, .easter-3 li {
+    color: #ffcece; }
+
+.easter-4 {
+  background: rgba(214, 255, 252, 0.9); }
+  .easter-4 h1, .easter-4 a:hover {
+    color: #f5e0ff; }
+  .easter-4 h2, .easter-4 h3, .easter-4 a:visited {
+    color: #ffcece; }
+  .easter-4 a:link {
+    color: #e2ff8e; }
+  .easter-4 h4, .easter-4 h5, .easter-4 h6, .easter-4 p, .easter-4 button, .easter-4 li {
+    color: #fffcdb; }
+
+.halloween-1 {
+  background: rgba(88, 84, 88, 0.9); }
+  .halloween-1 h1, .halloween-1 a:hover {
+    color: #131313; }
+  .halloween-1 h2, .halloween-1 h3, .halloween-1 a:visited {
+    color: #ffb828; }
+  .halloween-1 a:link {
+    color: #b151ff; }
+  .halloween-1 h4, .halloween-1 h5, .halloween-1 h6, .halloween-1 p, .halloween-1 button, .halloween-1 li {
+    color: #ffff00; }
+
+.halloween-2 {
+  background: rgba(19, 19, 19, 0.9); }
+  .halloween-2 h1, .halloween-2 a:hover {
+    color: #585458; }
+  .halloween-2 h2, .halloween-2 h3, .halloween-2 a:visited {
+    color: #ffff00; }
+  .halloween-2 a:link {
+    color: #b151ff; }
+  .halloween-2 h4, .halloween-2 h5, .halloween-2 h6, .halloween-2 p, .halloween-2 button, .halloween-2 li {
+    color: #ffb828; }
+
+.halloween-3 {
+  background: rgba(177, 81, 255, 0.9); }
+  .halloween-3 h1, .halloween-3 a:hover {
+    color: #ffb828; }
+  .halloween-3 h2, .halloween-3 h3, .halloween-3 a:visited {
+    color: #ffff00; }
+  .halloween-3 a:link {
+    color: #131313; }
+  .halloween-3 h4, .halloween-3 h5, .halloween-3 h6, .halloween-3 p, .halloween-3 button, .halloween-3 li {
+    color: #585458; }
+
+.halloween-4 {
+  background: rgba(255, 184, 40, 0.9); }
+  .halloween-4 h1, .halloween-4 a:hover {
+    color: #b151ff; }
+  .halloween-4 h2, .halloween-4 h3, .halloween-4 a:visited {
+    color: #585458; }
+  .halloween-4 a:link {
+    color: #131313; }
+  .halloween-4 h4, .halloween-4 h5, .halloween-4 h6, .halloween-4 p, .halloween-4 button, .halloween-4 li {
+    color: #ffff00; }
+
+.halloweenOrng-1 {
+  background: rgba(24, 49, 22, 0.9); }
+  .halloweenOrng-1 h1, .halloweenOrng-1 a:hover {
+    color: #ff5a00; }
+  .halloweenOrng-1 h2, .halloweenOrng-1 h3, .halloweenOrng-1 a:visited {
+    color: #ff8810; }
+  .halloweenOrng-1 a:link {
+    color: #000000; }
+  .halloweenOrng-1 h4, .halloweenOrng-1 h5, .halloweenOrng-1 h6, .halloweenOrng-1 p, .halloweenOrng-1 button, .halloweenOrng-1 li {
+    color: #ffc558; }
+
+.halloweenOrng-2 {
+  background: rgba(255, 90, 0, 0.9); }
+  .halloweenOrng-2 h1, .halloweenOrng-2 a:hover {
+    color: #183116; }
+  .halloweenOrng-2 h2, .halloweenOrng-2 h3, .halloweenOrng-2 a:visited {
+    color: #ffc558; }
+  .halloweenOrng-2 a:link {
+    color: #000000; }
+  .halloweenOrng-2 h4, .halloweenOrng-2 h5, .halloweenOrng-2 h6, .halloweenOrng-2 p, .halloweenOrng-2 button, .halloweenOrng-2 li {
+    color: #ff8810; }
+
+.halloweenOrng-3 {
+  background: rgba(0, 0, 0, 0.9); }
+  .halloweenOrng-3 h1, .halloweenOrng-3 a:hover {
+    color: #ff8810; }
+  .halloweenOrng-3 h2, .halloweenOrng-3 h3, .halloweenOrng-3 a:visited {
+    color: #ffc558; }
+  .halloweenOrng-3 a:link {
+    color: #ff5a00; }
+  .halloweenOrng-3 h4, .halloweenOrng-3 h5, .halloweenOrng-3 h6, .halloweenOrng-3 p, .halloweenOrng-3 button, .halloweenOrng-3 li {
+    color: #183116; }
+
+.halloweenOrng-4 {
+  background: rgba(255, 136, 16, 0.9); }
+  .halloweenOrng-4 h1, .halloweenOrng-4 a:hover {
+    color: #000000; }
+  .halloweenOrng-4 h2, .halloweenOrng-4 h3, .halloweenOrng-4 a:visited {
+    color: #183116; }
+  .halloweenOrng-4 a:link {
+    color: #ff5a00; }
+  .halloweenOrng-4 h4, .halloweenOrng-4 h5, .halloweenOrng-4 h6, .halloweenOrng-4 p, .halloweenOrng-4 button, .halloweenOrng-4 li {
+    color: #ffc558; }
+
+.stPatrick-1 {
+  background: rgba(177, 236, 11, 0.9); }
+  .stPatrick-1 h1, .stPatrick-1 a:hover {
+    color: #27a923; }
+  .stPatrick-1 h2, .stPatrick-1 h3, .stPatrick-1 a:visited {
+    color: #f0f20b; }
+  .stPatrick-1 a:link {
+    color: #b1ec0b; }
+  .stPatrick-1 h4, .stPatrick-1 h5, .stPatrick-1 h6, .stPatrick-1 p, .stPatrick-1 button, .stPatrick-1 li {
+    color: #f6ffe6; }
+
+.stPatrick-2 {
+  background: rgba(39, 169, 35, 0.9); }
+  .stPatrick-2 h1, .stPatrick-2 a:hover {
+    color: #b1ec0b; }
+  .stPatrick-2 h2, .stPatrick-2 h3, .stPatrick-2 a:visited {
+    color: #f6ffe6; }
+  .stPatrick-2 a:link {
+    color: #b1ec0b; }
+  .stPatrick-2 h4, .stPatrick-2 h5, .stPatrick-2 h6, .stPatrick-2 p, .stPatrick-2 button, .stPatrick-2 li {
+    color: #f0f20b; }
+
+.stPatrick-3 {
+  background: rgba(177, 236, 11, 0.9); }
+  .stPatrick-3 h1, .stPatrick-3 a:hover {
+    color: #f0f20b; }
+  .stPatrick-3 h2, .stPatrick-3 h3, .stPatrick-3 a:visited {
+    color: #f6ffe6; }
+  .stPatrick-3 a:link {
+    color: #27a923; }
+  .stPatrick-3 h4, .stPatrick-3 h5, .stPatrick-3 h6, .stPatrick-3 p, .stPatrick-3 button, .stPatrick-3 li {
+    color: #b1ec0b; }
+
+.stPatrick-4 {
+  background: rgba(240, 242, 11, 0.9); }
+  .stPatrick-4 h1, .stPatrick-4 a:hover {
+    color: #b1ec0b; }
+  .stPatrick-4 h2, .stPatrick-4 h3, .stPatrick-4 a:visited {
+    color: #b1ec0b; }
+  .stPatrick-4 a:link {
+    color: #27a923; }
+  .stPatrick-4 h4, .stPatrick-4 h5, .stPatrick-4 h6, .stPatrick-4 p, .stPatrick-4 button, .stPatrick-4 li {
+    color: #f6ffe6; }
+
+.thanksgiving-1 {
+  background: rgba(182, 86, 42, 0.9); }
+  .thanksgiving-1 h1, .thanksgiving-1 a:hover {
+    color: #9c2f2f; }
+  .thanksgiving-1 h2, .thanksgiving-1 h3, .thanksgiving-1 a:visited {
+    color: #633f21; }
+  .thanksgiving-1 a:link {
+    color: #511f16; }
+  .thanksgiving-1 h4, .thanksgiving-1 h5, .thanksgiving-1 h6, .thanksgiving-1 p, .thanksgiving-1 button, .thanksgiving-1 li {
+    color: #dbba33; }
+
+.thanksgiving-2 {
+  background: rgba(156, 47, 47, 0.9); }
+  .thanksgiving-2 h1, .thanksgiving-2 a:hover {
+    color: #b6562a; }
+  .thanksgiving-2 h2, .thanksgiving-2 h3, .thanksgiving-2 a:visited {
+    color: #dbba33; }
+  .thanksgiving-2 a:link {
+    color: #511f16; }
+  .thanksgiving-2 h4, .thanksgiving-2 h5, .thanksgiving-2 h6, .thanksgiving-2 p, .thanksgiving-2 button, .thanksgiving-2 li {
+    color: #633f21; }
+
+.thanksgiving-3 {
+  background: rgba(81, 31, 22, 0.9); }
+  .thanksgiving-3 h1, .thanksgiving-3 a:hover {
+    color: #633f21; }
+  .thanksgiving-3 h2, .thanksgiving-3 h3, .thanksgiving-3 a:visited {
+    color: #dbba33; }
+  .thanksgiving-3 a:link {
+    color: #9c2f2f; }
+  .thanksgiving-3 h4, .thanksgiving-3 h5, .thanksgiving-3 h6, .thanksgiving-3 p, .thanksgiving-3 button, .thanksgiving-3 li {
+    color: #b6562a; }
+
+.thanksgiving-4 {
+  background: rgba(99, 63, 33, 0.9); }
+  .thanksgiving-4 h1, .thanksgiving-4 a:hover {
+    color: #511f16; }
+  .thanksgiving-4 h2, .thanksgiving-4 h3, .thanksgiving-4 a:visited {
+    color: #b6562a; }
+  .thanksgiving-4 a:link {
+    color: #9c2f2f; }
+  .thanksgiving-4 h4, .thanksgiving-4 h5, .thanksgiving-4 h6, .thanksgiving-4 p, .thanksgiving-4 button, .thanksgiving-4 li {
+    color: #dbba33; }
+
+.thanksBright-1 {
+  background: rgba(255, 147, 0, 0.9); }
+  .thanksBright-1 h1, .thanksBright-1 a:hover {
+    color: #ff6033; }
+  .thanksBright-1 h2, .thanksBright-1 h3, .thanksBright-1 a:visited {
+    color: #6fc12d; }
+  .thanksBright-1 a:link {
+    color: #1e8214; }
+  .thanksBright-1 h4, .thanksBright-1 h5, .thanksBright-1 h6, .thanksBright-1 p, .thanksBright-1 button, .thanksBright-1 li {
+    color: #ffe094; }
+
+.thanksBright-2 {
+  background: rgba(255, 96, 51, 0.9); }
+  .thanksBright-2 h1, .thanksBright-2 a:hover {
+    color: #ff9300; }
+  .thanksBright-2 h2, .thanksBright-2 h3, .thanksBright-2 a:visited {
+    color: #ffe094; }
+  .thanksBright-2 a:link {
+    color: #1e8214; }
+  .thanksBright-2 h4, .thanksBright-2 h5, .thanksBright-2 h6, .thanksBright-2 p, .thanksBright-2 button, .thanksBright-2 li {
+    color: #6fc12d; }
+
+.thanksBright-3 {
+  background: rgba(30, 130, 20, 0.9); }
+  .thanksBright-3 h1, .thanksBright-3 a:hover {
+    color: #6fc12d; }
+  .thanksBright-3 h2, .thanksBright-3 h3, .thanksBright-3 a:visited {
+    color: #ffe094; }
+  .thanksBright-3 a:link {
+    color: #ff6033; }
+  .thanksBright-3 h4, .thanksBright-3 h5, .thanksBright-3 h6, .thanksBright-3 p, .thanksBright-3 button, .thanksBright-3 li {
+    color: #ff9300; }
+
+.thanksBright-4 {
+  background: rgba(111, 193, 45, 0.9); }
+  .thanksBright-4 h1, .thanksBright-4 a:hover {
+    color: #1e8214; }
+  .thanksBright-4 h2, .thanksBright-4 h3, .thanksBright-4 a:visited {
+    color: #ff9300; }
+  .thanksBright-4 a:link {
+    color: #ff6033; }
+  .thanksBright-4 h4, .thanksBright-4 h5, .thanksBright-4 h6, .thanksBright-4 p, .thanksBright-4 button, .thanksBright-4 li {
+    color: #ffe094; }
+
+.valentine-1 {
+  background: rgba(220, 144, 255, 0.9); }
+  .valentine-1 h1, .valentine-1 a:hover {
+    color: #8e2727; }
+  .valentine-1 h2, .valentine-1 h3, .valentine-1 a:visited {
+    color: #9160bd; }
+  .valentine-1 a:link {
+    color: #a32f7c; }
+  .valentine-1 h4, .valentine-1 h5, .valentine-1 h6, .valentine-1 p, .valentine-1 button, .valentine-1 li {
+    color: #410624; }
+
+.valentine-2 {
+  background: rgba(142, 39, 39, 0.9); }
+  .valentine-2 h1, .valentine-2 a:hover {
+    color: #dc90ff; }
+  .valentine-2 h2, .valentine-2 h3, .valentine-2 a:visited {
+    color: #410624; }
+  .valentine-2 a:link {
+    color: #a32f7c; }
+  .valentine-2 h4, .valentine-2 h5, .valentine-2 h6, .valentine-2 p, .valentine-2 button, .valentine-2 li {
+    color: #9160bd; }
+
+.valentine-3 {
+  background: rgba(163, 47, 124, 0.9); }
+  .valentine-3 h1, .valentine-3 a:hover {
+    color: #9160bd; }
+  .valentine-3 h2, .valentine-3 h3, .valentine-3 a:visited {
+    color: #410624; }
+  .valentine-3 a:link {
+    color: #8e2727; }
+  .valentine-3 h4, .valentine-3 h5, .valentine-3 h6, .valentine-3 p, .valentine-3 button, .valentine-3 li {
+    color: #dc90ff; }
+
+.valentine-4 {
+  background: rgba(145, 96, 189, 0.9); }
+  .valentine-4 h1, .valentine-4 a:hover {
+    color: #a32f7c; }
+  .valentine-4 h2, .valentine-4 h3, .valentine-4 a:visited {
+    color: #dc90ff; }
+  .valentine-4 a:link {
+    color: #8e2727; }
+  .valentine-4 h4, .valentine-4 h5, .valentine-4 h6, .valentine-4 p, .valentine-4 button, .valentine-4 li {
+    color: #410624; }
+
+.valentinePurp-1 {
+  background: rgba(201, 143, 161, 0.9); }
+  .valentinePurp-1 h1, .valentinePurp-1 a:hover {
+    color: #eab6b6; }
+  .valentinePurp-1 h2, .valentinePurp-1 h3, .valentinePurp-1 a:visited {
+    color: #b680a6; }
+  .valentinePurp-1 a:link {
+    color: #a970a4; }
+  .valentinePurp-1 h4, .valentinePurp-1 h5, .valentinePurp-1 h6, .valentinePurp-1 p, .valentinePurp-1 button, .valentinePurp-1 li {
+    color: #895982; }
+
+.valentinePurp-2 {
+  background: rgba(234, 182, 182, 0.9); }
+  .valentinePurp-2 h1, .valentinePurp-2 a:hover {
+    color: #c98fa1; }
+  .valentinePurp-2 h2, .valentinePurp-2 h3, .valentinePurp-2 a:visited {
+    color: #895982; }
+  .valentinePurp-2 a:link {
+    color: #a970a4; }
+  .valentinePurp-2 h4, .valentinePurp-2 h5, .valentinePurp-2 h6, .valentinePurp-2 p, .valentinePurp-2 button, .valentinePurp-2 li {
+    color: #b680a6; }
+
+.valentinePurp-3 {
+  background: rgba(169, 112, 164, 0.9); }
+  .valentinePurp-3 h1, .valentinePurp-3 a:hover {
+    color: #b680a6; }
+  .valentinePurp-3 h2, .valentinePurp-3 h3, .valentinePurp-3 a:visited {
+    color: #895982; }
+  .valentinePurp-3 a:link {
+    color: #eab6b6; }
+  .valentinePurp-3 h4, .valentinePurp-3 h5, .valentinePurp-3 h6, .valentinePurp-3 p, .valentinePurp-3 button, .valentinePurp-3 li {
+    color: #c98fa1; }
+
+.valentinePurp-4 {
+  background: rgba(182, 128, 166, 0.9); }
+  .valentinePurp-4 h1, .valentinePurp-4 a:hover {
+    color: #a970a4; }
+  .valentinePurp-4 h2, .valentinePurp-4 h3, .valentinePurp-4 a:visited {
+    color: #c98fa1; }
+  .valentinePurp-4 a:link {
+    color: #eab6b6; }
+  .valentinePurp-4 h4, .valentinePurp-4 h5, .valentinePurp-4 h6, .valentinePurp-4 p, .valentinePurp-4 button, .valentinePurp-4 li {
+    color: #895982; }
+
+.valentineRose-1 {
+  background: rgba(207, 86, 167, 0.9); }
+  .valentineRose-1 h1, .valentineRose-1 a:hover {
+    color: #e83251; }
+  .valentineRose-1 h2, .valentineRose-1 h3, .valentineRose-1 a:visited {
+    color: #9aa460; }
+  .valentineRose-1 a:link {
+    color: #bdae73; }
+  .valentineRose-1 h4, .valentineRose-1 h5, .valentineRose-1 h6, .valentineRose-1 p, .valentineRose-1 button, .valentineRose-1 li {
+    color: #f3ba9e; }
+
+.valentineRose-2 {
+  background: rgba(232, 50, 81, 0.9); }
+  .valentineRose-2 h1, .valentineRose-2 a:hover {
+    color: #cf56a7; }
+  .valentineRose-2 h2, .valentineRose-2 h3, .valentineRose-2 a:visited {
+    color: #f3ba9e; }
+  .valentineRose-2 a:link {
+    color: #bdae73; }
+  .valentineRose-2 h4, .valentineRose-2 h5, .valentineRose-2 h6, .valentineRose-2 p, .valentineRose-2 button, .valentineRose-2 li {
+    color: #9aa460; }
+
+.valentineRose-3 {
+  background: rgba(189, 174, 115, 0.9); }
+  .valentineRose-3 h1, .valentineRose-3 a:hover {
+    color: #9aa460; }
+  .valentineRose-3 h2, .valentineRose-3 h3, .valentineRose-3 a:visited {
+    color: #f3ba9e; }
+  .valentineRose-3 a:link {
+    color: #e83251; }
+  .valentineRose-3 h4, .valentineRose-3 h5, .valentineRose-3 h6, .valentineRose-3 p, .valentineRose-3 button, .valentineRose-3 li {
+    color: #cf56a7; }
+
+.valentineRose-4 {
+  background: rgba(154, 164, 96, 0.9); }
+  .valentineRose-4 h1, .valentineRose-4 a:hover {
+    color: #bdae73; }
+  .valentineRose-4 h2, .valentineRose-4 h3, .valentineRose-4 a:visited {
+    color: #cf56a7; }
+  .valentineRose-4 a:link {
+    color: #e83251; }
+  .valentineRose-4 h4, .valentineRose-4 h5, .valentineRose-4 h6, .valentineRose-4 p, .valentineRose-4 button, .valentineRose-4 li {
+    color: #f3ba9e; }

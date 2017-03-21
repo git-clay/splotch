@@ -4,6 +4,7 @@
 - find a way to jumble colors (instead of h1 always being $c1 ->
 	function to dynamically change what $c1 is)
 - opacity class
+- id for each class (1-5 for each color in scheme)
 */
 @mixin colorConstruct($one,$two,$three,$four,$five){
 		//text
