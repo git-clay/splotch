@@ -1,4 +1,6 @@
 # Splotch
+###### 117 color schemes and 468 variations
+
 
 ## Install
 ```
@@ -21,6 +23,7 @@ npm install splotch
 <div class='mint-3'></div>
 <div class='mint-4'></div>
 ```
+[List of classes availible](https://git-clay.github.io/splotch/)  
 
 ## Coming soon
 - colors extending past just text
